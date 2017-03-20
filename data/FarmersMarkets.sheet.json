@@ -1,0 +1,1775 @@
+[
+  {
+    "Region": "San Francisco",
+    "Name": "Ferry Plaza Farmers Market",
+    "Address": "Ferry Building, 1 Ferry Building, San Francisco, CA  94111",
+    "Website": "http://www.cuesa.org/",
+    "Season": "Year-round",
+    "Hours": "Saturday, 8 a.m.-2 p.m.; Tuesdays & Thursdays, 10 a.m.-2 p.m.",
+    "Notes": "Run by CUESA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "San Francisco",
+    "Name": "San Francisco Farmers' Market at Crocker Galleria",
+    "Address": "Crocker Galleria, 50 Post St, San Francisco, CA 94104",
+    "Website": "http://www.cafarmersmkts.com/san-francisco-farmers-market-at-crocker-galleria/",
+    "Season": "Year-round",
+    "Hours": "Thursday, 11 a.m.-3 p.m.",
+    "Special features": "12 farmstands",
+    "Notes": "Run by California Farmers' Markets Association",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "San Francisco",
+    "Name": "Fort Mason Farmers' Market",
+    "Address": "Fort Mason Center, Marina Blvd, San Francisco, CA 94109",
+    "Website": "http://www.cafarmersmkts.com/fort-mason-center-farmers-market/",
+    "Season": "Year-round",
+    "Hours": "Sunday, 9:30 a.m.-1:30 p.m.",
+    "Special features": "35 farmstands",
+    "Notes": "Run by California Farmers' Markets Association",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "San Francisco",
+    "Name": "Inner Sunset Farmers' Market",
+    "Address": "1315 8th Avenue,San Francisco, CA,94122",
+    "Website": "http://www.pcfma.org/",
+    "Season": "Year-round",
+    "Hours": "Sunday, 9 a.m.-1 p.m.",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "San Francisco",
+    "Name": "Heart of the City Farmers Market",
+    "Address": "United Nations Plaza, San Francisco, CA 94102",
+    "Website": "http://heartofthecity-farmersmar.squarespace.com/about/",
+    "Season": "Year-round",
+    "Hours": "Sundays, 7 a.m.-5 p.m.; Wednesdays, 7 a.m.-5:30 p.m.",
+    "Notes": "Since 1981",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "San Francisco",
+    "Name": "Noe Valley Farmers Market",
+    "Address": "3861 24th St, San Francisco, CA 94114",
+    "Website": "http://www.noevalleyfarmersmarket.com/",
+    "Season": "Year-round",
+    "Hours": "Saturday, 8 a.m.-1 p.m.",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "San Francisco",
+    "Name": "Mission Bay Farmers' Market at UCSF",
+    "Address": "550 Gene Friend Way,San Francisco, CA,94158",
+    "Website": "http://www.pcfma.org/",
+    "Season": "Year-round",
+    "Hours": "Wednesday, 10 a.m.-2 p.m.",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "San Francisco",
+    "Name": "Mission Community Market",
+    "Address": "84 Bartlett St, San Francisco, CA 94110",
+    "Website": "http://missioncommunitymarket.org/",
+    "Season": "March-November",
+    "Hours": "Thursday, 4-8 p.m.",
+    "Special features": "opening date still TBD",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "San Francisco",
+    "Name": "Stonestown Farmers Market",
+    "Address": " 3251 20th Ave, San Francisco, CA 94132",
+    "Website": "https://www.agriculturalinstitute.org/directory/listing-details/stonestown-market",
+    "Season": "Year-round",
+    "Hours": "Sunday, 9 a.m.-1 p.m.",
+    "Special features": "65+ vendors",
+    "Notes": "Run by Agricultural Institute of Marin",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "San Francisco",
+    "Name": "Fillmore Farmers' Market",
+    "Address": "1730 O'Farrell St,San Francisco, CA,94115",
+    "Website": "http://www.pcfma.org/",
+    "Season": "Year-round",
+    "Hours": "Saturday, 9 a.m.-1 p.m.",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "San Francisco",
+    "Name": "SFSU Farmer's Market",
+    "Address": "San Francisco State University, 1600 Holloway Ave, San Francisco, CA 94132",
+    "Website": "http://asisfsu.com/asi/farmer_market/",
+    "Season": "Year-round",
+    "Hours": "Thursday, 10 a.m.-3 p.m.",
+    "Special features": "Located in front of the Humanities Building on the San Francisco State University campus.",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "San Francisco",
+    "Name": "Alemany Farmer's Market",
+    "Address": "100 Alemany Blvd, San Francisco, CA 94110",
+    "Website": "http://sfgov.org/realestate/alemany-farmers-market",
+    "Season": "Year-round",
+    "Hours": "Saturday, 6 a.m.-2:30 p.m.",
+    "Special features": "Founded in 1943; the first farmers' market in California. ",
+    "Notes": "It is the only City-run farmers’ market in San Francisco.",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "San Francisco",
+    "Name": "Clement Street Farmers Market",
+    "Address": " 200 Clement Street, San Francisco, CA 94118,",
+    "Website": "https://www.agriculturalinstitute.org/directory/listing-details/clement-st",
+    "Season": "Year-round",
+    "Hours": "Sunday, 9 a.m.-2 p.m.",
+    "Special features": "50+ vendors",
+    "Notes": "Run by Agricultural Institute of Marin",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "San Francisco",
+    "Name": "Castro Farmers' Market",
+    "Address": "288 Noe St., San Francisco, CA  94414",
+    "Website": "http://www.pcfma.org/",
+    "Season": "March-November",
+    "Hours": "Wednesday, 4-7 p.m.",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "San Francisco",
+    "Name": "Divisadero Farmers' Market",
+    "Address": "700 Divisadero St,San Francisco, CA,94117",
+    "Website": "http://www.pcfma.org/",
+    "Season": "Year-round",
+    "Hours": "Sunday, 10 a.m.-2 p.m.",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "San Francisco",
+    "Name": "V.A. San Francisco Farmers' Market",
+    "Address": "212 Veterans Dr., San Francisco, CA  94121",
+    "Website": "http://www.pcfma.org/",
+    "Season": "Year-round",
+    "Hours": "Wednesday, 10 a.m.-2 p.m.",
+    "Special features": "Held at the SF VA Hospital",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "San Francisco",
+    "Name": "Kaiser San Francisco Farmers' Market",
+    "Address": "2425 Geary Boulevard, San Francisco, CA  94115",
+    "Website": "http://www.pcfma.org/",
+    "Season": "Year-round",
+    "Hours": "Wednesday, 10 a.m.-2 p.m.",
+    "Special features": "Per website: currently closed due to construction, but will reopen ",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "San Francisco",
+    "Name": "UCSF Parnassus Farmers Market",
+    "Address": "500 Parnassus Ave\nSan Francisco, CA 94122",
+    "Website": "https://campuslifeservices.ucsf.edu/retail/services/dine/farmers_market",
+    "Season": "Year-round",
+    "Hours": "Wednesday, 10 a.m.-2 p.m.",
+    "Notes": "CONFIRM"
+  },
+  {
+    "Region": "San Francisco",
+    "Name": "Fremont Plaza Farmers' Market",
+    "Address": "50 Fremont St (on First St, between Mission St & Market Street) \nSan Francisco, CA 94105",
+    "Website": "http://50fremontplazafm.weebly.com/",
+    "Hours": "Monday, 11 a.m.-3 p.m.",
+    "Notes": "brie says closed; CONFIRM"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "North Berkeley Farmers' Market",
+    "Address": "Shattuck Ave at Rose St\nBerkeley, CA 94701",
+    "Website": "http://ecologycenter.org/fm/",
+    "Season": "Year-round",
+    "Hours": "Thursday, 3-7 p.m.",
+    "Special features": "The Ecology Center Farmers’ Markets were the first in the country to eliminate all plastic bags and packaging from their weekly markets.",
+    "Notes": "Run by Ecology Center Farmers' Market",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Downtown Berkeley Farmers' Market",
+    "Address": "Center St and Martin Luther King Jr Way\nBerkeley, CA 94702",
+    "Website": "http://ecologycenter.org/fm/",
+    "Season": "Year-round",
+    "Hours": "Saturday, 10 a.m.-3 p.m.",
+    "Special features": "The Ecology Center Farmers’ Markets were the first in the country to eliminate all plastic bags and packaging from their weekly markets.",
+    "Notes": "Run by Ecology Center Farmers' Market",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "South Berkeley Farmers' Market",
+    "Address": "Adeline St at 63rd\nBerkeley, CA 94701",
+    "Website": "http://ecologycenter.org/fm/",
+    "Season": "Year-round",
+    "Hours": "Tuesday, 2-6:30 p.m.",
+    "Special features": "The Ecology Center Farmers’ Markets were the first in the country to eliminate all plastic bags and packaging from their weekly markets.",
+    "Notes": "Run by Ecology Center Farmers' Market",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Temescal Farmers' Market",
+    "Address": "5300 Claremont Ave., Oakland, CA  94618",
+    "Website": "http://uvfm.org/temescal-sunday/",
+    "Season": "Year-round",
+    "Hours": "Sunday, 9 a.m.-1 p.m.",
+    "Notes": "Run by Urban Village Famers Market Association",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Grand Lake Farmers Market",
+    "Address": "Lake Park Ave, Oakland, CA 94610",
+    "Website": "https://www.agriculturalinstitute.org/directory/listing-details/grand-lake-oakland",
+    "Season": "Year-round",
+    "Hours": "Saturday, 9 a.m.-2 p.m.",
+    "Special features": "70+ vendors",
+    "Notes": "Run by Agricultural Institute of Marin",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Alameda Farmers' Market",
+    "Address": " 700 Haight Ave, Alameda, CA 94501",
+    "Website": "http://www.pcfma.org/",
+    "Season": "Year-round",
+    "Hours": "Tuesday & Saturday, 9 a.m.-1 p.m.",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Concord Farmers' Market",
+    "Address": "2175 Willow Pass Rd., Concord, CA  94520",
+    "Website": "http://www.pcfma.org/",
+    "Season": "Tuesday market is year-round; Thursday market is April-October",
+    "Hours": "Tuesday, 10 a.m.-2 p.m.; Thursday, 4-8 p.m.",
+    "Special features": "Thursday market returns 4/20",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Danville Farmers' Market",
+    "Address": "205 Railroad Ave., Danville, CA  94526",
+    "Website": "http://www.pcfma.org/",
+    "Season": "Year-round",
+    "Hours": "Saturday, 9 a.m.-1 p.m.",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "San Leandro Farmers' Market at Bayfair Center",
+    "Address": "Bayfair Center, 15555 E 14th St, San Leandro, CA 94578",
+    "Website": "http://www.cafarmersmkts.com/san-leandro-bayfair-farmers-market",
+    "Season": "Year-round",
+    "Hours": "Saturday, 9 a.m.-1 p.m.",
+    "Special features": "45+ vendors; established in 1994; accessible from Bayfair BART station",
+    "Notes": "Run by California Farmers' Markets Association"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Downtown San Leandro Farmers' Market",
+    "Address": "135 Parrott St,San Leandro, CA,94577",
+    "Website": "http://www.pcfma.org/",
+    "Season": "April-October",
+    "Hours": "Wednesday, 4-8 p.m.",
+    "Special features": "Starts back up 4/5",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Jack London Square Farmers Market",
+    "Address": "472 Water St, Oakland, CA 94607",
+    "Website": "http://www.cuesa.org/",
+    "Season": "Year-round",
+    "Hours": "Sunday, 9 a.m.-2 p.m.",
+    "Notes": "Run by CUESA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Old Oakland Farmers' Market",
+    "Address": "Broadway & 9th St, Oakland, CA 94607",
+    "Website": "http://uvfm.org/old-oakland-fridays/",
+    "Season": "Year-round",
+    "Hours": "Friday, 8 a.m.-2 p.m.",
+    "Notes": "Run by Urban Village Farmers Market Association",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "\"Feel the Beet!\" Farmers Market",
+    "Address": "970 Grace Ave Oakland, CA 94608",
+    "Website": "http://www.phatbeetsproduce.org/",
+    "Season": "Year-round",
+    "Hours": "Saturday, 9:30 a.m.-2:30 p.m.",
+    "Notes": "Run by Phat Beets. Phat Beets Produce is a food justice collective. The collective was started in North Oakland in 2007 as a guerrilla produce stand in a North Oakland park. As a collective, we strive to support social enterprise businesses and small & minority farmers.",
+    "confirmed": "CQ - CDFA llst"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Oakland Children's Hospital Farmers Market",
+    "Address": "747 52nd St., Oakland, CA 94609",
+    "Website": "http://www.phatbeetsproduce.org/",
+    "Season": "Year-round",
+    "Hours": "Tuesday, 2-6 p.m.",
+    "Notes": "Run by Phat Beets",
+    "confirmed": "CQ - CDFA llst"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Freedom Farmers Market",
+    "Address": "5316 Telegraph Ave, Oakland, CA 94609",
+    "Website": "http://www.freedomfarmersmarket.com/",
+    "Season": "June-November; close first sat before thanksgiving; begin a CSA program during the off months ",
+    "Hours": "Saturday, 10 a.m.-3 p.m.",
+    "Special features": "considering a relocation -- been challenged by sits in parking lot back from the street (hard to see) move closer to bart WILL CONFIRM NEXT WEEK; ",
+    "Notes": "Their mission is to bring traditional legacy foods from Black farmers and other Under-represented farmers to the Bay Area with the goal of making regionally Non GMO, fresh organic or pesticide \nfree produce and nutritional information accessible in areas devoid of supermarkets. http://www.farmstogrow.com/freedomfarmersmarket"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Castro Valley ",
+    "Address": "Redwood Rd & Norbridge Ave, Castro Valley, CA 94546",
+    "Website": "http://uvfm.org/castro-valley-saturdays/",
+    "Season": "Year-round",
+    "Hours": "Saturday 10 a.m.-2 p.m.",
+    "Special features": "At the Castro Valley BART Station.",
+    "Notes": "Run by Urban Village Farmers Market Association",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Montclair Village Farmers Market",
+    "Address": "Moraga Ave & La Salle Ave, Oakland, CA 94611",
+    "Website": "http://uvfm.org/montclair-village-sundays/",
+    "Season": "Year-round",
+    "Hours": "Sunday, 9 a.m.-1 p.m.",
+    "Special features": "Started in 2005; 40+ vendors",
+    "Notes": "Run by Urban Village Farmers Market Association",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Newark Farmers' Market",
+    "Address": "2086 Newpark Mall, Newark, CA 94560",
+    "Website": "https://www.agriculturalinstitute.org/directory/listing-details/newark-market",
+    "Season": "Year-round",
+    "Hours": "Sunday, 9 a.m.-1 p.m.",
+    "Special features": "55+ vendors",
+    "Notes": "Run by Agricultural Institute of Marin",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Hayward Farmers Market",
+    "Address": "777 B Street, Hayward, CA 94541,",
+    "Website": "https://www.agriculturalinstitute.org/directory/listing-details/hayward-market",
+    "Season": "Year-round",
+    "Hours": "Saturday, 9 a.m.-1 p.m.",
+    "Special features": "35+ vendors",
+    "Notes": "Run by Agricultural Institute of Marin",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Irvington Farmers' Market",
+    "Address": "3999 Union St\nFremont, CA 94538",
+    "Website": "http://www.pcfma.org/",
+    "Season": "Year-round",
+    "Hours": "Sunday, 9 a.m.-2 p.m.",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Livermore Farmer's Market",
+    "Address": "2155 Third Street,Livermore, CA,94550",
+    "Website": "http://www.pcfma.org/",
+    "Season": "Sunday market is year-round; Thursday market is April-October",
+    "Hours": "Sunday, 10 a.m.-2 p.m.; Thursday, 4-8 p.m.",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Pleasanton Farms Market",
+    "Address": "77 W Angela St,Pleasanton, CA,94566",
+    "Website": "http://www.pcfma.org/",
+    "Season": "Year-round",
+    "Hours": "Saturday, 9 a.m.-1 p.m.",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Moraga Farmers' Market",
+    "Address": "Moraga Way & Moraga Rd, Moraga, CA 94556",
+    "Website": "http://www.cafarmersmkts.com/moraga-farmers-market",
+    "Season": "Year-round",
+    "Hours": "Sunday, 9 a.m.-1 p.m.",
+    "Special features": "40+ vendors",
+    "Notes": "Run by California Farmers' Markets Association",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Pinole Farmers' Market",
+    "Address": "798 Fernandez Ave,Pinole, CA,94564",
+    "Website": "http://www.pcfma.org/",
+    "Season": "Year-round",
+    "Hours": "Saturday, 9 a.m.-1 p.m.",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Clayton Farmers' Market",
+    "Address": "6095 Main St\nClayton, CA 94517",
+    "Website": "http://www.pcfma.org/",
+    "Season": "May-October",
+    "Hours": "Saturday, 8 a.m.-12 p.m.",
+    "Special features": "starts back up 5/13",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Diablo Valley Farmers' Market",
+    "Address": "North Wiget Ln & Mitchell Dr, Walnut Creek, CA 94598",
+    "Website": "http://www.cafarmersmkts.com/diablo-valley-farmers-market",
+    "Season": "Year-round",
+    "Hours": "Saturday, 9 a.m.-1 p.m.",
+    "Special features": "40+ vendors; located at the Shadelands Business Park",
+    "Notes": "Run by California Farmers' Markets Association",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Pittsburgh Farmer's Market",
+    "Address": "600 Railroad Ave,Pittsburg, CA,94565",
+    "Website": "http://www.pcfma.org/",
+    "Season": "May-October",
+    "Hours": "Saturday, 9 a.m.-1 p.m.",
+    "Special features": "Starts back up 5/6",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Brentwood Farmers' Market",
+    "Address": "248 Oak St., Brentwood, CA  94513",
+    "Website": "http://www.pcfma.org/",
+    "Season": "March-November",
+    "Hours": "Saturday, 8 a.m.-12 p.m.",
+    "Special features": "starts back up 3/4",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Bay Street Farmers' Market - Emeryville",
+    "Address": "5616 Bay Street,Emeryville, CA 94608",
+    "Website": "http://www.pcfma.org/",
+    "Season": "April-September",
+    "Hours": "Saturday, 3-7 p.m.",
+    "Special features": "starts back up 4/15",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Dublin Farmers' Market",
+    "Address": "4201 Central Pkwy,Dublin, CA,94568",
+    "Website": "http://www.pcfma.org/",
+    "Season": "April-September",
+    "Hours": "Thursday, 4-8 p.m.",
+    "Special features": "starts back up 4/13",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Kaiser Antioch Farmers' Market",
+    "Address": "4501 Sand Creek Rd., Antioch, CA  94531",
+    "Website": "http://www.pcfma.org/",
+    "Season": "May-October",
+    "Hours": "Thursday, 10 a.m.-2 p.m.",
+    "Special features": "starts back 5/4",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Kaiser Fremont Farmers' Market",
+    "Address": "2826 Walnut Ave., Fremont, CA  94538",
+    "Website": "http://www.pcfma.org/",
+    "Season": "Year-round",
+    "Hours": "Thursday, 10 a.m.-2 p.m.",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Kaiser Oakland Farmers' Market",
+    "Address": "3600 Broadway, Oakland, CA  94611",
+    "Website": "http://www.pcfma.org/",
+    "Season": "April-October",
+    "Hours": "Friday, 10 a.m.-2 p.m.",
+    "Special features": "starts back 4/7",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Kaiser San Leandro Farmers' Market",
+    "Address": "2500 Merced Street,San Leandro, CA,94577",
+    "Website": "http://www.pcfma.org/",
+    "Season": "Year-round",
+    "Hours": "Wednesday, 10 a.m.-2 p.m.",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Kaiser Union City Farmers' Market",
+    "Address": "3553 Whipple Rd,Union City, CA,94587",
+    "Website": "http://www.pcfma.org/",
+    "Season": "April-October",
+    "Hours": "Tuesday, 10 a.m.-2 p.m.",
+    "Special features": "starts back 4/12",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Kaiser Walnut Creek Farmers' Market",
+    "Address": "1425 South Main Street,Walnut Creek, CA,94596",
+    "Website": "http://www.pcfma.org/",
+    "Season": "Year-round",
+    "Hours": "Tuesday, 10 a.m.-2 p.m.",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Martinez Farmers' Market",
+    "Address": "615 Estudillo St,Martinez, CA,94553",
+    "Website": "http://www.pcfma.org/",
+    "Season": "Year-round",
+    "Hours": "Sunday, 10 a.m.-2 p.m.",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Pleasant Hill Farmers' Market",
+    "Address": "136 Trelany Rd,Pleasant Hill, CA,94523",
+    "Website": "http://www.pcfma.org/",
+    "Season": "May-October",
+    "Hours": "Saturday, 10 a.m.-2 p.m.",
+    "Special features": "starts back up 5/6",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Union City Farmers Market",
+    "Address": "30940 Watkins St,Union City, CA,94587",
+    "Website": "http://www.pcfma.org/",
+    "Season": "Year-round",
+    "Hours": "Saturday, 9 a.m.-1 p.m.",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Uptown Oakland Farmers' Market",
+    "Address": "1 Kaiser Plaza, Oakland, CA 94612",
+    "Website": "http://www.pcfma.org/",
+    "Season": "April-November",
+    "Hours": "Wednesday, 10 a.m.-2 p.m.",
+    "Special features": "Starts back up 4/12.",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Walnut Creek Farmers' Market",
+    "Address": "1737 Locust Street Walnut Creek, CA 94596\n",
+    "Website": "http://www.cccfm.org",
+    "Season": "Year-round",
+    "Hours": "Sunday, 9 a.m.-1 p.m.",
+    "Notes": "Run by Contra Costa Certified Farmers' Markets",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Orinda Farmers' Market",
+    "Address": "28 Orinda Way, Orinda, CA 94563\n",
+    "Website": "http://www.cccfm.org",
+    "Season": "April-November",
+    "Hours": "Saturdays, 9 a.m.-1 p.m.",
+    "Notes": "Run by Contra Costa Certified Farmers' Markets",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "El Cerrito Plaza Farmers' Market",
+    "Address": "El Cerrito Plaza parking lot\nEl Cerrito, CA 94530",
+    "Website": "https://www.facebook.com/pages/El-Cerrito-Farmers-Market/126028950790000",
+    "Season": "Year-round",
+    "Hours": "Saturday, 9 a.m.-1 p.m.",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Benecia Farmers' Market",
+    "Address": "90 1st St, Benicia, CA 94510",
+    "Website": "http://www.beniciamainstreet.org/",
+    "Hours": "Thursday, 4-8 p.m.",
+    "Special features": "CONFIRM"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Fruitvale Farmer's Market",
+    "Address": "Avenida de la Fuente, Oakland, CA 94601",
+    "Website": "https://unitycouncil.org/program/farmers-market/",
+    "Season": "CONFIRM",
+    "Hours": "Tuesday & Thursday, 12-7 p.m.; Sunday, 10 a.m.-3 p.m.",
+    "Notes": "Run by Fruitvale non-profit The Unity Council; Tiffany Wright, Farmer's Market Manager\n510-535-7178        \ntiffanyw@unitycouncil.org",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Kensington Farmers Market",
+    "Address": "379-389 Colusa Ave, Kensington, CA 94707",
+    "Website": "http://www.kensingtonfarmersmarket.org/home",
+    "Season": "Year-round",
+    "Hours": "Sunday, 10 a.m.-2 p.m.",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Niles Certified Farmer's Market",
+    "Address": "37592 Niles Blvd, Fremont, CA 94536",
+    "Website": "http://www.wcfma.org/fremont--niles-.html",
+    "Season": "Year-round",
+    "Hours": "Saturday, 9 a.m.-1 p.m.",
+    "Notes": "Run by West Coast Farmers' Market Association",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Fremont Centerville Certified Farmers' Market",
+    "Address": "Bonde Way, Fremont, CA 94536",
+    "Website": "http://www.fremontfarmersmarket.com/",
+    "Season": "Year-round",
+    "Hours": "Saturday, 9 a.m.-1 p.m.",
+    "confirmed": "CQ - CDFA list"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Mandela Marketplace Pop-up Community Produce Stand - Met West High School",
+    "Address": "314 E 10th St, Oakland, CA 94606",
+    "Website": "http://www.mandelamarketplace.org/copy-of-healthy-retail",
+    "Season": "Year-round",
+    "Hours": "Tuesday, 2-4 p.m.",
+    "Notes": "produce comes from Mandela Foods Distribution, a Mandela MarketPlace Enterprise, that supports local, under-resourced, sustainable farmers within a 200 mile radius of Oakland.",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Mandela Marketplace Pop-up Community Produce Stand - La Escuelita",
+    "Address": "1050 2nd Ave, Oakland, CA 94606",
+    "Website": "http://www.mandelamarketplace.org/copy-of-healthy-retail",
+    "Season": "Year-round",
+    "Hours": "Tuesday, 2-4 p.m.",
+    "Notes": "produce comes from Mandela Foods Distribution, a Mandela MarketPlace Enterprise, that supports local, under-resourced, sustainable farmers within a 200 mile radius of Oakland.",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Mandela Marketplace Pop-up Community Produce Stand - North Oakland Senior Center",
+    "Address": "5714 M.L.K. Jr Way, Oakland, CA 94609",
+    "Website": "http://www.mandelamarketplace.org/copy-of-healthy-retail",
+    "Season": "Year-round",
+    "Hours": "Wednesday, 10:30 a.m.-12:30 p.m.",
+    "Notes": "produce comes from Mandela Foods Distribution, a Mandela MarketPlace Enterprise, that supports local, under-resourced, sustainable farmers within a 200 mile radius of Oakland.",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Mandela Marketplace Pop-up Community Produce Stand  - Highland Hospital",
+    "Address": "1411 E 31st St, Oakland, CA 94602",
+    "Website": "http://www.mandelamarketplace.org/copy-of-healthy-retail",
+    "Season": "Year-round",
+    "Hours": "Wednesday, 2:30-4:30 p.m.",
+    "Notes": "produce comes from Mandela Foods Distribution, a Mandela MarketPlace Enterprise, that supports local, under-resourced, sustainable farmers within a 200 mile radius of Oakland.",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Mandela Marketplace Pop-up Community Produce Stand - Cesar Chavez Elementary",
+    "Address": "2825 International Boulevard Oakland California, 94601",
+    "Website": "http://www.mandelamarketplace.org/copy-of-healthy-retail",
+    "Season": "Year-round",
+    "Hours": "Thursday, 8-10 a.m.",
+    "Special features": "CONFIRM LOCATION",
+    "Notes": "produce comes from Mandela Foods Distribution, a Mandela MarketPlace Enterprise, that supports local, under-resourced, sustainable farmers within a 200 mile radius of Oakland."
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Mandela Marketplace Pop-up Community Produce Stand - West Oakland Health Center",
+    "Address": "700 Adeline St, Oakland, CA 94607",
+    "Website": "http://www.mandelamarketplace.org/copy-of-healthy-retail",
+    "Season": "Year-round",
+    "Hours": "Thursday, 12-2 p.m.",
+    "Notes": "produce comes from Mandela Foods Distribution, a Mandela MarketPlace Enterprise, that supports local, under-resourced, sustainable farmers within a 200 mile radius of Oakland.",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Mandela Marketplace Pop-up Community Produce Stand - Lockwood/Palo Vista Gardens",
+    "Address": "1100 64th Ave, Oakland, CA 94621",
+    "Website": "http://www.mandelamarketplace.org/copy-of-healthy-retail",
+    "Season": "Monthly",
+    "Hours": "2nd Thursday, 1-3 p.m.",
+    "Notes": "produce comes from Mandela Foods Distribution, a Mandela MarketPlace Enterprise, that supports local, under-resourced, sustainable farmers within a 200 mile radius of Oakland.",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Mandela Marketplace Pop-up Community Produce Stand - Castlemont Community Market",
+    "Address": "8711 MacArthur Blvd.\nOakland, CA 94605",
+    "Website": "http://www.mandelamarketplace.org/copy-of-healthy-retail",
+    "Season": "Monthly",
+    "Hours": "1st Saturday, 12-3 p.m.",
+    "Notes": "produce comes from Mandela Foods Distribution, a Mandela MarketPlace Enterprise, that supports local, under-resourced, sustainable farmers within a 200 mile radius of Oakland.",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "San Ramon Farmers' Market",
+    "Address": "2641 Camino Ramon, San Ramon, CA 94526",
+    "Website": "https://www.sanramonfarmersmarket.org/",
+    "Season": "Year-round",
+    "Hours": "Tuesday & Thursday, 10 a.m.-2 p.m.; Saturday, 9 a.m.-1 p.m.",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Discovery Bay Certified Farmers' Market",
+    "Address": "1555 Riverlake Road, Discovery Bay, CA 94505",
+    "Website": "http://dbcf.info/farmers.html",
+    "Season": "May-December",
+    "Hours": "Thursdsy, 4-8 p.m.",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Crockett-Port Costa Farmers' Market",
+    "Address": "1214APomona St., Crockette, CA 94525",
+    "Website": "https://www.facebook.com/CPCFM1/",
+    "Season": "April-September",
+    "Hours": "Saturday, 10 a.m.-2 p.m.",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Richmond Certified Farmers' Market",
+    "Address": "Barrett Ave.\nRichmond, CA 94804",
+    "Website": "https://www.facebook.com/Richmond-CA-Certified-Farmers-Market-531848233666298/",
+    "Season": "Year-round",
+    "Hours": "Friday, 8 a.m.-5 p.m.",
+    "Notes": "established in 1984 and is one of the oldest markets in the East Bay",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Rossmoor Certified Farmers' Market",
+    "Address": "Golden Rain Rd, Walnut Creek, CA 94595",
+    "Website": "http://www.cafarmersmkts.com/rossmoor-farmers-market",
+    "Season": "May-October",
+    "Hours": "Friday, 9:30 a.m.-1 p.m.",
+    "Notes": "ONLY FOR MEMBERS OF THE ROSSMOOR RETIREMENT COMMUNITY & THEIR FAMILIES. Run by California Farmers' Markets Association",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Alamo Certified Farmers' Market",
+    "Address": "Alamo Plz\nAlamo, CA 94507",
+    "Website": "https://www.facebook.com/pg/alamocfm/about/?ref=page_internal",
+    "Season": "Year-round",
+    "Hours": "Saturday, 9 a.m.-2 p.m.",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "East Bay",
+    "Name": "Contra Costa Regional Medical Center Certified Farmers' Market",
+    "Address": "2500 Alhambra Ave., Martinez, CA 94553",
+    "Website": "http://www.co.contra-costa.ca.us/2214/Farmers-Markets",
+    "Season": "May-September",
+    "Hours": "Tuesday, 10 a.m.-2 p.m."
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "Kaiser Vallejo Farmers' Market",
+    "Address": "975 Sereno Dr,Vallejo, CA,94589",
+    "Website": "http://www.pcfma.org/",
+    "Season": "Year-round",
+    "Hours": "Friday, 10 a.m.-2 p.m.",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "Vacaville Farmers' Market",
+    "Address": "300 Main St., Vacaville, CA  95688",
+    "Website": "http://www.pcfma.org/",
+    "Season": "May-October",
+    "Hours": "Saturday, 8 a.m.-12 p.m.",
+    "Special features": "Starts back 5/6",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "Vallejo Farmers' Market",
+    "Address": "400 Georgia St., Vallejo, CA  94590",
+    "Website": "http://www.pcfma.org/",
+    "Season": "Year-round",
+    "Hours": "Saturday, 9 a.m.-2 p.m.",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "Bodega Bay Community Farmers Market",
+    "Address": "2255 CA-1, Bodega Bay, CA 94923",
+    "Website": "http://bodegabaycommunitycenter.org/farmers-market/",
+    "Season": "Memorial Day-October",
+    "Hours": "Sunday, 10 a.m.-2 p.m.",
+    "Special features": "CONFIRM"
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "Occidental Bohemian Farmers Market",
+    "Address": "3611 Bohemian Hwy Occidental, CA 95465",
+    "Website": "http://occidentalfarmersmarket.com/",
+    "Season": "June-October",
+    "Hours": "Friday, 4 p.m.-dusk",
+    "Special features": "CONFIRM"
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "Oakmont Farmers Market ",
+    "Address": "Oakmont Dr & White Oak Dr, Santa Rosa, CA 95409",
+    "Website": "http://www.sonomacounty.com/farms-farmers-markets/oakmont-farmers-market",
+    "Season": "Year-round",
+    "Hours": "Saturday, 9 a.m.-12 p.m.",
+    "Special features": "CONFIRM"
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "Corte Madera Farmers Market",
+    "Address": "Town Center Corte Madera, 100 Corte Madera Town Center, Corte Madera, CA 94925",
+    "Website": "https://www.marincommunityfarmersmarkets.org/",
+    "Season": "Year-round",
+    "Hours": "Wednesday, 12-5 p.m.",
+    "Special features": "CONFIRM",
+    "Notes": "Run by Marin Community Farmers Markets"
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "Point Reyes Farmers' Market",
+    "Address": "11250 CA-1, Point Reyes Station, CA 94956\n",
+    "Website": "http://www.pointreyesfarmersmarket.org/",
+    "Season": "June-November",
+    "Hours": "Saturday, 9 a.m.-1 p.m.",
+    "Special features": "CONFIRM"
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "San Rafael/Marin Civic Center Farmers' Market",
+    "Address": "3501 Civic Center Drive, San Rafael, CA  94903",
+    "Website": "https://www.agriculturalinstitute.org/directory/listing-details/sunday-san-rafael-market",
+    "Season": "Year-round",
+    "Hours": "Sunday, 8 a.m.-1 p.m.",
+    "Special features": "200+ vendors; opened in 1987",
+    "Notes": "Run by Agricultural Institute of Marin",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "San Rafael/Marin Civic Center Farmers' Market",
+    "Address": "6000 Northgate Parking Lot, San Rafael, CA  94903",
+    "Website": "https://www.agriculturalinstitute.org/directory/listing-details/thursday-san-rafael-market",
+    "Season": "Year-round",
+    "Hours": "Thursday, 8 a.m.-1 p.m.",
+    "Special features": "100+ vendros; Is temporarily relocated, through March TBD, from Marin Center Avenue of Flags site to the Northgate Mall.",
+    "Notes": "Run by Agricultural Institute of Marin",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "Downtown San Rafael Farmers Market",
+    "Address": "1000 Fourth Street\nSan Rafael, CA 94903",
+    "Website": "http://www.sanrafaelmarket.org",
+    "Season": "April-September",
+    "Hours": "Thursday, 6-9 p.m.",
+    "Notes": "2017 will be market's 28th season",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "Downtown Napa Farmers' Market",
+    "Address": "195 Gasser Dr, Napa, CA 94559\n",
+    "Website": "https://napafarmersmarket.org/",
+    "Season": "April-November",
+    "Hours": "Tuesday & Saturday, 8 a.m.-12:30 p.m.",
+    "Special features": "2017 will open earlier than previous years; 70+ vendors",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "Sonoma Valley Certified Farmers Market",
+    "Address": "241 West First Street, Sonoma, CA, 94999",
+    "Website": "http://www.svcfm.org/",
+    "Season": "Year-round",
+    "Hours": "Friday, 9 a.m.-12:30 p.m.",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "Tiburon Farmers Market",
+    "Address": "Main St., Tiburon, CA 94920",
+    "Website": "http://communityfarmersmarkets.com/markets/",
+    "Season": "June-October",
+    "Hours": "Thursday, 3-7 p.m.",
+    "Special features": "CONFIRM",
+    "Notes": "Run by Agricultural Community Events Farmers’ Markets"
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "San Anselmo Organic Farm Stand",
+    "Address": "525 San Anselmo Avenue\nSan Anselmo, CA 94960",
+    "Website": "http://www.communityfarmstands.com/san-anselmo.html",
+    "Season": "June-October",
+    "Hours": "Friday, 11 a.m.-7:30 p.m.",
+    "Notes": "Run by Marin Community Farm Stands & CSA"
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "Ross Organic Farm Stand",
+    "Address": "1 Ross Common, Ross, CA 94957",
+    "Website": "http://www.communityfarmstands.com/new-ross-farm-stand.html",
+    "Season": "CONFIRM SEASON",
+    "Hours": "Thursday, 12-7:30 p.m.",
+    "Notes": "Run by Marin Community Farm Stands & CSA"
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "The Farm Stand at Forest Knolls",
+    "Address": "6700 Sir Francis Drake Blvd. \nForest Knolls CA 94933",
+    "Website": "http://www.communityfarmstands.com/the-farm-stand-at-forest-knolls.html",
+    "Season": "Year-round",
+    "Hours": "Monday & Thursday, 11 a.m.-7 p.m.; Friday-Sunday, 10 a.m.-7:30 p.m.",
+    "Notes": "Run by Marin Community Farm Stands & CSA"
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "St. Helena Farmers' Market",
+    "Address": "\n360 Crane Ave, St Helena, CA 94574",
+    "Website": "http://sthelenafarmersmkt.org/",
+    "Season": "May-October",
+    "Hours": "Friday, 8 a.m.-1 p.m.",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "Healdsburg Farmers' Market",
+    "Address": "W North St & Vine St, Healdsburg, CA 95448\n",
+    "Website": "http://www.healdsburgfarmersmarket.org/",
+    "Season": "May-November",
+    "Hours": "Saturday, 9 a.m.-12 p.m."
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "Healdsburg Farmers' Market",
+    "Address": "10 North St, Healdsburg, CA 95448",
+    "Website": "http://www.healdsburgfarmersmarket.org/",
+    "Season": "June-October",
+    "Hours": "Wednesday, 3-6 p.m."
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "Santa Rosa Original Certified Farmers' Market",
+    "Address": "50 Mark West Springs Road,\nSanta Rosa, CA 95403",
+    "Website": "http://thesantarosafarmersmarket.com/",
+    "Season": "Year-round",
+    "Hours": "Wednesday, 8:30 a.m.-1 p.m.; Saturday, 8:30 a.m.-1 p.m."
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "Sebastopol Farmers' Market",
+    "Address": "Sebastopol Plaza,\nSebastopol, CA 95472",
+    "Website": "http://www.sebastopolfarmmarket.org/",
+    "Season": "Year-round",
+    "Hours": "Sunday, 10 a.m.-1:30 a.m."
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "Petaluma Farmers' Market - East Side",
+    "Address": "320 N. McDowell Petaluma, CA 94954",
+    "Website": "http://communityfarmersmarkets.com/markets/",
+    "Season": "Year-round",
+    "Hours": "Tuesday, 10 a.m.-1:30 p.m.",
+    "Special features": "CONFIRM",
+    "Notes": "Run by Agricultural Community Events Farmers’ Markets"
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "Petaluma Farmers' Market - Walnut Park",
+    "Address": "Petaluma Blvd & D St\nPetaluma, CA 94952",
+    "Website": "http://communityfarmersmarkets.com/markets/",
+    "Season": "May-November",
+    "Hours": "Saturday, 2-5:30 p.m.",
+    "Special features": "CONFIRM",
+    "Notes": "Run by Agricultural Community Events Farmers’ Markets"
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "Petaluma Farmers' Market - Theatre District",
+    "Address": "140 2nd St #112, Petaluma, CA 94952\n",
+    "Website": "http://communityfarmersmarkets.com/markets/",
+    "Season": "June-August",
+    "Hours": "Wednesday, 4:30-8 p.m.",
+    "Special features": "CONFIRM",
+    "Notes": "Run by Agricultural Community Events Farmers’ Markets"
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "Mill Valley Farmers Market",
+    "Address": "759 E Blithedale Ave, Mill Valley, CA 94941",
+    "Website": "https://www.marincommunityfarmersmarkets.org/",
+    "Season": "Year-round",
+    "Hours": "Friday, 9:30 a.m.-2:30 p.m.",
+    "Special features": "CONFIRM",
+    "Notes": "Run by Marin Community Farmers Markets"
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "Tam Valley Farmers Market",
+    "Address": "203 Marin Ave, Mill Valley, CA 94941",
+    "Website": "https://www.marincommunityfarmersmarkets.org/",
+    "Season": "June 21-November",
+    "Hours": "Tuesday, 3-7 p.m.",
+    "Special features": "CONFIRM",
+    "Notes": "Run by Marin Community Farmers Markets"
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "Downtown Novato Community Farmers Market",
+    "Address": "Grant Ave\nNovato, CA 94945",
+    "Website": "http://communityfarmersmarkets.com/markets/",
+    "Season": "May-September",
+    "Hours": "Tuesday, 4-8 p.m.",
+    "Special features": "CONFIRM",
+    "Notes": "Run by Agricultural Community Events Farmers’ Markets"
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "Fairfax Community Farmers' Market",
+    "Address": "\n2097 Sir Francis Drake Blvd, Fairfax, CA 94930",
+    "Website": "http://communityfarmersmarkets.com/markets/",
+    "Season": "Year-round",
+    "Hours": "Sunday, 12-3 p.m.",
+    "Special features": "CONFIRM",
+    "Notes": "Run by Agricultural Community Events Farmers’ Markets"
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "Fairfax Community Farmers' Market",
+    "Address": "124 Bolinas Rd, Fairfax, CA 94930",
+    "Website": "http://communityfarmersmarkets.com/markets/",
+    "Season": "April-September",
+    "Hours": "Wednesday, 4-8 p.m.",
+    "Special features": "CONFIRM",
+    "Notes": "Run by Agricultural Community Events Farmers’ Markets"
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "Kenwood Community Farmers Market",
+    "Address": "9000 Sonoma Hwy, Kenwood, CA 95452",
+    "Website": "http://communityfarmersmarkets.com/markets/",
+    "Season": "June-September",
+    "Hours": "Sunday, 11 a.m.-3 p.m.",
+    "Special features": "CONFIRM",
+    "Notes": "Run by Agricultural Community Events Farmers’ Markets"
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "Rohnert Park Farmers' Market",
+    "Address": "500 City Center Drive Rohnert, CA 94928",
+    "Website": "http://communityfarmersmarkets.com/markets/",
+    "Season": "June-August",
+    "Hours": "Friday, 5-8 p.m.",
+    "Special features": "CONFIRM",
+    "Notes": "Run by Agricultural Community Events Farmers’ Markets"
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "Forestville Certified Farmers Market",
+    "Address": "6990 Front St, Forestville, CA 95436",
+    "Website": "http://www.forestvillefarmersmarket.com/",
+    "Season": "June-October",
+    "Hours": "Tuesday, 4-7:30 p.m."
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "Valley of the Moon Certified Farmers' Market",
+    "Address": "Sonoma Plaza on the Square\n2 E Napa St\nSonoma, CA 95476",
+    "Website": "http://www.sonomaplazamarket.org/",
+    "Season": "May-September",
+    "Hours": "Tuesday, 5:30 p.m.-dusk"
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "Russian River Farmers Market",
+    "Address": "CA-116\nGuerneville, CA 95446",
+    "Website": " https://www.facebook.com/Russian-River-Farmers-Market-154363401401149/",
+    "Season": "seasonal?",
+    "Hours": "Thursday, 3-7 p.m.",
+    "Special features": "LEFT VM TO CONFIRM"
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "The Farmer's Market at Marin Country Mart",
+    "Address": "2257 Larkspur Landing Cir, Larkspur, CA 94939",
+    "Website": "http://marincountrymart.com/farmers-market",
+    "Season": "Year-round",
+    "Hours": "Saturday, 9 a.m.-2 p.m.",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "Santa Rosa Downtown Market",
+    "Address": "637 1st St, Santa Rosa, CA 95404",
+    "Website": "http://www.wednesdaynightmarket.org/",
+    "Season": "May-August",
+    "Hours": "Wednesday, 5-8:30 p.m."
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "Santa Rosa Community Farmers' Market - Veteran's Building",
+    "Address": "1351 Maple Avenue Santa Rosa, CA 95404",
+    "Website": "http://communityfarmersmarkets.com/markets/",
+    "Season": "Year-round",
+    "Hours": "Wednesday, 9 a.m.-1 p.m.; Saturday, 8:30 a.m.-1 p.m.",
+    "Special features": "CONFIRM",
+    "Notes": "Run by Agricultural Community Events Farmers’ Markets"
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "Cotati Community Farmers Market",
+    "Address": "La Plaza Park, Cotati, CA 94931",
+    "Website": "http://communityfarmersmarkets.com/markets/",
+    "Season": "June-August",
+    "Hours": "Thursday, 4:30-7:30",
+    "Special features": "CONFIRM",
+    "Notes": "Run by Agricultural Community Events Farmers’ Markets"
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "Windsor Certified Farmers Market",
+    "Address": "701 McClelland Dr, Windsor, CA 95492",
+    "Website": "http://www.windsorfarmersmarket.com/",
+    "Season": "Sunday: April-Mid-December; Thursday, Mid-June-August",
+    "Hours": "Sunday, 10 a.m.-1 p.m.; Thursday, 5-8 p.m.",
+    "Special features": "CONFIRM"
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "Cloverdale Certified Farmers Market",
+    "Address": "N Cloverdale Blvd\nCloverdale, CA 95425",
+    "Website": "http://cloverdalefarmersmarket.com/",
+    "Season": "June-September",
+    "Hours": "Friday, 6-9 p.m."
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "Calistoga Farmers Market",
+    "Address": "1311 Washington St, Calistoga, CA 94515",
+    "Website": "http://www.calistogafarmersmarket.org/",
+    "Season": "CONFIRM SEASON",
+    "Hours": "CONFIRM",
+    "Special features": "CONFIRM"
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "Long Meadow Ranch Farmers Market",
+    "Address": "738 Main St, St Helena, CA 94574",
+    "Website": "http://www.longmeadowranch.com/things-to-do/farmers-market",
+    "Season": "Saturday & Sunday:Year-round;\nFriday: November-April",
+    "Hours": "Saturday & Sunday, 10 a.m.-2 p.m.; Friday, 9 a.m.-1 p.m.",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "North Bay/Wine Country",
+    "Name": "Yountville Community Farmers Market",
+    "Address": "6516 Washington St., Yountville, CA  94599",
+    "Website": "?",
+    "Season": "June-October",
+    "Hours": "Monday, 8-11 a.m. CONFIRM"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Berryessa Farmers' Market",
+    "Address": "1376 Piedmont Rd, San Jose, CA  95132",
+    "Website": "http://www.pcfma.org/",
+    "Season": "Year-round",
+    "Hours": "Saturday, 9 a.m.-1 p.m.",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Portola Valley Farmers' Market",
+    "Address": " 765 Portola Rd, Portola Valley, CA 94028",
+    "Website": "http://www.pvfarmersmarket.com",
+    "Season": "Year-round",
+    "Hours": "Thursday, 2-6 p.m. (2-5 p.m. in the winter)",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Cambrian Park - San Jose",
+    "Address": "Camden Ave & Union Ave, San Jose, CA 95124",
+    "Website": "http://uvfm.org/cambrian-park-wednesday/",
+    "Season": "May-September",
+    "Hours": "Wednesday, 4-8 p.m.",
+    "Notes": "Run by Urban Village Farmers Market Association",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Santa Clara Farmers' Market",
+    "Address": "Homestead Rd & Jackson St, Santa Clara, CA 95050",
+    "Website": "http://uvfm.org/santa-clara-saturdays/",
+    "Season": "Year-round",
+    "Hours": "Saturday, 9 a.m.-1 p.m.",
+    "Notes": "Run by Urban Village Farmers Market Association",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Sunnyvale Farmers' Market",
+    "Address": "E Washington Ave & S Murphy Ave, Sunnyvale, CA 94086",
+    "Website": "http://uvfm.org/sunnyvale-saturday/",
+    "Season": "Year-round",
+    "Hours": "Saturday, 9 a.m.-1 p.m.",
+    "Notes": "Run by Urban Village Farmers Market Association",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Willow Glen - San Jose",
+    "Address": "1165 Lincoln Ave, San Jose, CA 95125",
+    "Website": "http://uvfm.org/willow-glen-saturday/",
+    "Season": "June-October",
+    "Hours": "Saturday, 9 a.m.-1 p.m.",
+    "Notes": "Run by Urban Village Farmers Market Association",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Palo Alto - California Ave.",
+    "Address": "El Camino Real & California Ave, Palo Alto, CA 94306",
+    "Website": "http://uvfm.org/palo-alto-sundays/",
+    "Season": "Year-round",
+    "Hours": "Sunday, 9 a.m.-1 p.m.",
+    "Notes": "Run by Urban Village Farmers Market Association",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Daly City Farmers' Market at Serramonte",
+    "Address": "133 Serramonte Center, Daly City, CA 94015",
+    "Website": "http://www.cafarmersmkts.com/daly-city-farmers-market",
+    "Season": "Year-round",
+    "Hours": "Thursday & Saturday, 9 a.m.-1 p.m.",
+    "Special features": "55 farmstands; oldest market in the CFMA system",
+    "Notes": "Run by California Farmers' Markets Association",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "25th Ave. Farmers' Market",
+    "Address": "194 W 25th Ave, San Mateo, CA 94403",
+    "Website": "http://www.pcfma.org/",
+    "Season": "May-October",
+    "Hours": "Tuesday, 4-7:30 p.m.",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Alum Rock Farmers' Market ",
+    "Address": "1-, 23 N White Rd, San Jose, CA 95127",
+    "Website": "http://www.pcfma.org/",
+    "Season": "Year-round",
+    "Hours": "Sunday, 8 a.m.-1 p.m.",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Belmont Farmers' Market",
+    "Address": "1299 El Camino Real,Belmont, CA  94002",
+    "Website": "http://www.pcfma.org/",
+    "Season": "Year-round",
+    "Hours": "Sunday, 9 a.m.-1 p.m.",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Downtown San Jose Farmers' Market",
+    "Address": "1 N San Pedro St., San Jose, CA  95110",
+    "Website": "http://www.pcfma.org/",
+    "Season": "May-October",
+    "Hours": "Friday, 10 a.m.-2 p.m.",
+    "Special features": "Started in 1993",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Evergreen Farmers' Market - San Jose",
+    "Address": "4035 Evergreen Village Square,San Jose, CA,95135",
+    "Website": "http://www.pcfma.org/",
+    "Season": "Year-round",
+    "Hours": "Wednesday, 9 a.m.-1 p.m.; Sunday, 9 a.m.-1 p.m.",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Kaiser Redwood City Farmers' Market",
+    "Address": "1150 Maple St., Redwood City, CA  94063",
+    "Website": "http://www.pcfma.org/",
+    "Season": "April-November",
+    "Hours": "Wednesday, 10 a.m.-2 p.m.",
+    "Special features": "Starts up 4/5",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Kaiser San Jose Farmers' Market",
+    "Address": "270 International Circle, San Jose, CA  95119",
+    "Website": "http://www.pcfma.org/",
+    "Season": "Year-round",
+    "Hours": "Friday, 10 a.m.-2 p.m.",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Kaiser Santa Clara Farmers' Market",
+    "Address": "700 Lawrence Expy,Santa Clara, CA,95051",
+    "Website": "http://www.pcfma.org/",
+    "Season": "Year-round",
+    "Hours": "Friday, 8:30 a.m.-1:30 p.m.",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Milpitas Farmers' Market",
+    "Address": "882 Great Mall Drive,Milpitas, CA,95035",
+    "Website": "http://www.pcfma.org/",
+    "Season": "Year-round",
+    "Hours": "Sunday, 8 a.m.-1 p.m.",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "College of San Mateo Farmers' Market",
+    "Address": "1700 W Hillsdale Blvd,San Mateo, CA,94402",
+    "Website": "http://www.pcfma.org/",
+    "Season": "Year-round",
+    "Hours": "Saturday, 9 a.m.-1 p.m.",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Santa Clara VMC Farmers' Market - San Jose",
+    "Address": "771 Turner Dr,San Jose, CA,95128",
+    "Website": "http://www.pcfma.org/",
+    "Season": "May-November",
+    "Hours": "Wednesday, 10 a.m.-2 p.m.",
+    "Special features": "Starts back up 5/10",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Santa Teresa Farmers' Market - San Jose",
+    "Address": "6104 Camino Verde Dr,San Jose, CA,95119",
+    "Website": "http://www.pcfma.org/",
+    "Season": "Year-round",
+    "Hours": "Saturday, 10 a.m.-2 p.m.",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "South San Francisco Farmers' Market",
+    "Address": "781 Tennis Drive,South San Francisco, CA,94080",
+    "Website": "http://www.pcfma.org/",
+    "Season": "May-October",
+    "Hours": "Saturday, 10 a.m.-2 p.m.",
+    "Special features": "Starts back up 5/6",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "V.A. Palo Alto Farmers' Market",
+    "Address": "3801 Miranda Ave., Palo Alto, CA  94304",
+    "Website": "http://www.pcfma.org/",
+    "Season": "April-October",
+    "Hours": "Wednesday, 10 a.m.-2 p.m.",
+    "Special features": "Starts back 4/12",
+    "Notes": "Run by PCFMA",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Los Gatos Farmers' Market",
+    "Address": "Town Park Plaza on Main Street & N. Santa Cruz Avenue",
+    "Website": "http://www.cafarmersmkts.com/losgatos-farmers-market",
+    "Season": "Year-round",
+    "Hours": "Sunday, 9 a.m.-1 p.m.",
+    "Special features": "40+ farmers & vendors",
+    "Notes": "Run by California Farmers' Markets Association",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "San Jose Blossom Hill Farmers Market",
+    "Address": "Ohlone/Chynoweth VTA Station, Santa Teresa Blvd. & Hwy 85/87 junction",
+    "Website": "http://www.cafarmersmkts.com/blossom-hill-san-jose-farmers-market",
+    "Season": "Year-round",
+    "Hours": "Sunday, 9 a.m.-1 p.m.",
+    "Special features": "served the neighborhood for 17 years; peak season has over 40 growers/food makers selling there.",
+    "Notes": "Run by California Farmers' Markets Association"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Downtown Los Altos Farmers' Market",
+    "Address": "2nd St, Los Altos, CA 94022",
+    "Website": "http://www.cafarmersmkts.com/los-altos-farmers-market",
+    "Season": "May-September",
+    "Hours": "Thursday, 4-8 p.m.",
+    "Special features": " Hosted by the Los Altos Village Association and the City of Los Altos",
+    "Notes": "Run by California Farmers' Markets Association"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Morgan Hill Farmers' Market",
+    "Address": "Caltrain Station, 3rd St. & Depot St\nMorgan Hill, CA 95037",
+    "Website": "http://www.cafarmersmkts.com/morgan-hill-farmers-market",
+    "Season": "Year-round",
+    "Hours": "Saturday, 9 a.m.-1 p.m.",
+    "Special features": "35+ vendors",
+    "Notes": "Run by California Farmers' Markets Association",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Mountain View Farmers' Market",
+    "Address": "Mountain View Caltrain Station, 600 West Evelyn Ave., Mountain View, CA 94041",
+    "Website": "http://www.cafarmersmkts.com/mountain-view-farmers-market",
+    "Season": "Year-round",
+    "Hours": "Sunday, 9 a.m.-1 p.m.",
+    "Special features": "3rd largest market in the state; 80+ vendors; was voted Top 5 in the Nation by American Farmland Trusts’ Favorite Farmers’ Market Contest",
+    "Notes": "Run by California Farmers' Markets Association",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Saratoga Farmers' Market",
+    "Address": "West Valley College, Parking Lot 3, 14000 Fruitvale Ave, Saratoga, CA 95070",
+    "Website": "http://www.cafarmersmkts.com/saratoga-farmers-market",
+    "Season": "Year-round",
+    "Hours": "Saturday, 9 a.m.-1 p.m.",
+    "Special features": "50+ vendors",
+    "Notes": "Run by California Farmers' Markets Association",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Menlo Park Farmers' Market",
+    "Address": "1001 Chestnut St, # 1099\nMenlo Park, CA 94025",
+    "Website": "https://www.facebook.com/MenloParkFarmersMarket/",
+    "Season": "Year-round",
+    "Hours": "Sunday, 9 a.m.-1 p.m.",
+    "Notes": "Sponsored by the local LIONS Club",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Burlingame Fresh Market",
+    "Address": "Park Road at Burlingame Avenue \nBurlingame, CA 94010 ",
+    "Website": "http://www.burlingamechamber.org/burlingame-events/burlingame-fresh-market/",
+    "Season": "Sunday: Year-round; Thursday: May-October",
+    "Hours": "Sunday, 9-1:30 p.m.; Thursday, 3-7 p.m.",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Downtown Palo Alto Farmers' Market",
+    "Address": "601-699 Gilman St, Palo Alto, CA 94301",
+    "Website": "http://pafarmersmarket.org/",
+    "Season": "May-December",
+    "Hours": "Saturday, 8 a.m.-12 p.m.",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Brisbane Farmers' Market",
+    "Address": "11 Old County Rd, Brisbane, CA 94005",
+    "Website": "http://www.wcfma.org/brisbane.html",
+    "Season": "Year-round",
+    "Hours": "Thursday, 2:30-6:30 p.m.",
+    "Notes": "Run by West Coast Farmers' Market Association",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Stanford Farmers' Market",
+    "Address": "459 Lagunita Dr.\nStanford CA 94305",
+    "Website": "http://www.wcfma.org/stanford.html",
+    "Season": "Year-round",
+    "Hours": "Tuesday, 10 a.m.-2 p.m.",
+    "Notes": "Run by West Coast Farmers' Market Association",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "East Ridge Mall Certified Farmers Market",
+    "Address": "2200 Eastridge Loop, \nSan Jose, California 95122",
+    "Website": "http://eastridgecenter.com/events/champs-farmers-market/",
+    "Season": "May-December",
+    "Hours": "Saturday, 8 a.m.-1 p.m.",
+    "Special features": "CONFIRM"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Almaden Via Valiente Certified Farmers' Market",
+    "Address": "6902 Almaden Expressway, San Jose, CA  94120",
+    "Website": "http://www.avca-sj.org/farmersmarket.html",
+    "Season": "Year-round",
+    "Hours": "Sunday, 9 a.m.-3 p.m.; Wednesday, 10 a.m.-3 p.m.",
+    "Special features": "CONFIRM"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "San Jose - Samsung",
+    "Address": "\n\n3655 N 1st St, San Jose, California 95134",
+    "Website": "http://www.wcfma.org/san-jose.html",
+    "Season": "Year-round",
+    "Hours": "Tuesday, 10 a.m.-2 p.m.",
+    "Notes": "Run by West Coast Farmers' Market Association",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Sunnyvale (Moffett Towers) Farmers' Market",
+    "Address": "1100 Enterprise Way\nSunnyvale, CA  94089",
+    "Website": "http://www.wcfma.org/sunnyvale.html",
+    "Season": "Year-round",
+    "Hours": "Wednesday, 10 a.m.-2 p.m.",
+    "Notes": "Run by West Coast Farmers' Market Association",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Farmers' Market at Visa",
+    "Address": "900 Metro Center Blvd., Foster City, CA  94404",
+    "Season": "May-December",
+    "Hours": "Wednesday, 11 a.m.-2 p.m.",
+    "Special features": "CONFIRM"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Foster City (Peninsula Jewish Community Center) Farmers' Market",
+    "Address": "800 Foster City Blvd, Foster City, CA 94404",
+    "Website": "http://www.wcfma.org/foster-city--jcc-.html",
+    "Season": "CONFIRM",
+    "Hours": "Wednesday, 9 a.m.-1 p.m.",
+    "Notes": "Run by West Coast Farmers' Market Association",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Foster City (Charter Square Shopping Center) Farmers' Market",
+    "Address": "791 Beach Park Blvd, Foster City, CA 94404",
+    "Website": "http://www.wcfma.org/foster-city.html",
+    "Season": "Year-round",
+    "Hours": "Wednesday, 2:30-6:30 p.m.; Saturday, 9 a.m.-1 p.m.",
+    "Notes": "Run by West Coast Farmers' Market Association",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Cupertino (Cupertino Oaks Shopping Center) Farmers' Market",
+    "Address": "21275 Stevens Creek Blvd, Cupertino, CA 95014",
+    "Website": "http://www.wcfma.org/cupertino.html",
+    "Season": "Year-round",
+    "Hours": "Sunday, 9 a.m.-1 p.m.",
+    "Notes": "Run by West Coast Farmers' Market Association",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Coast Side Farmers' Markets - Half Moon Bay",
+    "Address": "225 Cabrillo Hwy N, Half Moon Bay, CA 94019",
+    "Website": "http://www.coastsidefarmersmarkets.org/",
+    "Season": "May-December",
+    "Hours": "Saturday, 9 a.m.-1 p.m.",
+    "Notes": "Run by Coast Side Farmers' Markets",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Millbrae Certified Farmers Market",
+    "Address": "240 Broadway Millbrae, CA 94030-2645",
+    "Website": "http://www.millbrae.com/index.php?page=8",
+    "Season": "Year-round",
+    "Hours": "Saturday, 8 a.m.-1 p.m.",
+    "Special features": "CONFIRM",
+    "Notes": "Run by the Chamber of Commerce"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Pescadero Grown Certified Community Farmer's Market",
+    "Address": "350 Stage Rd, Pescadero, 94060",
+    "Website": "http://pescaderogrown.org",
+    "Season": "June-October",
+    "Hours": "Thursday, 3-7 p.m.",
+    "Special features": "CONFIRM"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Redwood City Kiwanis Farmers Market",
+    "Address": "500 Arguello St, Redwood City, CA 94063\n",
+    "Website": "https://www.facebook.com/pg/Redwood-City-Kiwanis-Farmers-Market-278357422298854/about/?ref=page_internal",
+    "Season": "April-November",
+    "Hours": "Saturday, 8 a.m.-12 p.m.",
+    "Notes": "oldest and the largest farmers' market on the Peninsula",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Coast Side Farmers' Markets - Pacifica",
+    "Address": "Rockaway Beach Ave\nPacifica, CA 94044",
+    "Website": "http://www.coastsidefarmersmarkets.org/",
+    "Season": "May-December",
+    "Hours": "Wednesday, 2:30-6:30 p.m.",
+    "Notes": "Run by Coast Side' Farmers Markets",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "San Carlos Farmers' Market",
+    "Address": "700 Laurel St, San Carlos, CA 94071",
+    "Website": "https://www.facebook.com/pg/sancarlosfarmersmarket/about/?ref=page_internal",
+    "Season": "Year-round",
+    "Hours": "Sunday, 10 a.m.-2 p.m.",
+    "Notes": "Run by San Carlos Chamber of Commerce",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Campbell",
+    "Address": "E Campbell Ave & S Central Ave, Campbell, CA 95008",
+    "Website": "http://uvfm.org/campbell-sundays/",
+    "Season": "Year-round",
+    "Hours": "Sunday, 9 a.m.-1 p.m.",
+    "Notes": "Run by Urban Village Farmers Market Association",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "San Jose - Japantown San Jose Farmer's Market",
+    "Address": "251-, 299 Jackson St, San Jose, CA 95112",
+    "Website": "http://www.japantownsanjose.org/market.html",
+    "Season": "Year-round",
+    "Hours": "Sunday, 8:30 a.m.-12 p.m.",
+    "Notes": "Run by Japantown Business Association",
+    "confirmed": "CQ"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Kaiser Santa Teresa Farmers' Market",
+    "Address": "Santa Teresa Blvd and Camino Verde\nSanta Teresa, CA 95119",
+    "Website": "https://www.facebook.com/pg/SantaTeresaFarmersMarket/about/?ref=page_internal",
+    "Season": "Year-round",
+    "Hours": "Saturday, 10 a.m.-2 p.m.",
+    "Notes": "Run by PCFMA"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "East Palo Alto Community Farmers Market",
+    "Address": "1885 Bay Road, East Palo Alto, CA 94303",
+    "Website": "http://www.collectiveroots.org/farmers-market/",
+    "Season": "CONFIRM SEASON",
+    "Hours": "CONFIRM HOURS",
+    "Notes": "Run by Collective Roots"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "El Mercado Popular ",
+    "Address": "344 Tully Road, San Jose, CA  95111",
+    "Website": "https://www.facebook.com/MercadoPopularSanJose/",
+    "Season": "Year-round",
+    "Hours": "Sunday & Wednesday, 3-10 p.m.",
+    "Notes": "CONFIRM"
+  },
+  {
+    "Region": "Peninsula/South Bay",
+    "Name": "Saratoga Village Farmers Market",
+    "Address": "14485 Big Basin Way\nSaratoga, CA 95070",
+    "Website": "https://www.facebook.com/SaratogaVillageFarmersMarket/",
+    "Season": "Year-round",
+    "Hours": "Wednesday, 1:30-6 p.m.",
+    "confirmed": "CQ"
+  }
+]
