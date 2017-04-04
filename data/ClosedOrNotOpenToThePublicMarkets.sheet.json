@@ -117,5 +117,40 @@
     "http://www.pcfma.org/": "https://facebookfarmersmarket.com/",
     "currently closed": "Saturday, 2-5 p.m.",
     "undefined": "closed"
+  },
+  {
+    "Peninsula/South Bay": "North Bay/Wine Country",
+    "Vallco Farmers' Market - Cupertino": "Yountville Community Farmers Market",
+    "10101 Wolfe Rd., Cupertino, CA  95014": "6516 Washington St., Yountville, CA  94599",
+    "http://www.pcfma.org/": "?",
+    "currently closed": "Monday, 8-11 a.m. CONFIRM",
+    "We are currently working with the City of Cupertino to finalize the move to Creekside Park by March, 2017": "no longer active"
+  },
+  {
+    "Peninsula/South Bay": "Peninsula/South Bay",
+    "Vallco Farmers' Market - Cupertino": "Farmers' Market at Visa",
+    "10101 Wolfe Rd., Cupertino, CA  95014": "900 Metro Center Blvd., Foster City, CA  94404",
+    "currently closed": "Wednesday, 11 a.m.-2 p.m.",
+    "undefined": "not open to public",
+    "We are currently working with the City of Cupertino to finalize the move to Creekside Park by March, 2017": "only for employees -- Good Roots -- corporations; just partner facebook (1 hacker way menlo park on the fb campus -- may 13-october -- Saturday 2nd saturday, 12-5 p.m.; San Carlos (Sundays -- 10-2; downtown san carlos on laurel); goodrootsevents.com; goodrootsfm.com; more corporate but some public 831-402-3870; Nile Estep <nile@goodrootsfm.com>"
+  },
+  {
+    "Vallco Farmers' Market - Cupertino": "Peninsula/South Bay",
+    "10101 Wolfe Rd., Cupertino, CA  95014": "East Ridge Mall Certified Farmers Market",
+    "http://www.pcfma.org/": "2200 Eastridge Loop, \nSan Jose, California 95122",
+    "currently closed": "May-December",
+    "undefined": "CLOSED; opening mgmt from market in Morgan Hill -- May 3 aiming -- On Cochran  Ave in the the Cochran Plaza; also looking at Milpitas in the works ; check back middle of April to know for sure; EBT program for all markets.",
+    "We are currently working with the City of Cupertino to finalize the move to Creekside Park by March, 2017": "CONFIRM",
+    "Run by PCFMA": "closed this one, opening a new one in Morgan Hill; call after 12 p.m. on Thurs Joe Aliotti (831) 905-1407 "
+  },
+  {
+    "Peninsula/South Bay": "San Francisco",
+    "Vallco Farmers' Market - Cupertino": "Fremont Plaza Farmers' Market",
+    "10101 Wolfe Rd., Cupertino, CA  95014": "50 Fremont St (on First St, between Mission St & Market Street) \nSan Francisco, CA 94105",
+    "http://www.pcfma.org/": "http://50fremontplazafm.weebly.com/",
+    "currently closed": "Monday, 11 a.m.-3 p.m.",
+    "We are currently working with the City of Cupertino to finalize the move to Creekside Park by March, 2017": "brie says closed; CONFIRM",
+    "Run by PCFMA": "em & vm 3/29 iefma@live.com to confirm",
+    "undefined": "No"
   }
 ]

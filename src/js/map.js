@@ -5,15 +5,37 @@ var d3 = require('d3');
 var bright_green = "#377357";
 var dot_green = "#377357";//"red";
 
+(function() {
+    var days = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+
+    var months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+
+    Date.prototype.getMonthName = function() {
+        return months[ this.getMonth() ];
+    };
+    Date.prototype.getDayName = function() {
+        return days[ this.getDay() ];
+    };
+})();
+
+var now = new Date();
+
+var day = now.getDayName();
+var month = now.getMonthName();
+
+console.log("THIS IS TODAY:");
+console.log(day);
+console.log(month);
+
 // setting parameters for the center of the map and initial zoom level
 if (screen.width <= 480) {
   var sf_lat = 37.85;
   var sf_long = -122.43;
   var zoom_deg = 8;
 } else {
-  var sf_lat = 37.75;
-  var sf_long = -122.0;
-  var zoom_deg = 9;
+  var sf_lat = 37.77;
+  var sf_long = -122.44;
+  var zoom_deg = 13;
 }
 
 // tooltip information
@@ -81,10 +103,10 @@ map._initPathRoot();
 
 // creating Lat/Lon objects that d3 is expecting
 farmData.forEach(function(d,idx) {
-    d.LatLng = new L.LatLng(sf_lat+Math.random(),
-                sf_long+Math.random());
-		// d.LatLng = new L.LatLng(d.Latitude,
-		// 						d.Longitude);
+    // d.LatLng = new L.LatLng(sf_lat+Math.random(),
+    //             sf_long+Math.random());
+		d.LatLng = new L.LatLng(d.Lat,
+								d.Lng);
 });
 
 // creating svg layer for data
@@ -96,13 +118,13 @@ var feature = g.selectAll("circle")
   .data(farmData)
   .enter().append("circle")
   .attr("id",function(d) {
-    return "market"+d.Name.toLowerCase().replace(/ /g,'');
+    return "market"+d.Name.toLowerCase().replace(/ /g,'').replace(/'/g, '').replace('.','').replace(/\./g,'');
   })
   .attr("class",function(d) {
-    return "dot "+"market"+d.Name.toLowerCase().replace(/ /g,'');
+    return "dot "+"market"+d.Name.toLowerCase().replace(/ /g,'').replace(/'/g, '').replace(/\./g,'');
   })
   .style("opacity", function(d) {
-    return 0.8;
+    return 0.9;
   })
   .style("fill", function(d) {
     return "#518D71";
@@ -112,7 +134,7 @@ var feature = g.selectAll("circle")
     if (screen.width <= 480) {
       return 8;
     } else {
-      return 10;
+      return 12;
     }
   })
   .on('mouseover', function(d) {
@@ -149,8 +171,9 @@ var feature = g.selectAll("circle")
 var tooltip = d3.select("div.tooltip-marketmap");
 
 // searchbar code
-$("#searchbar").bind("input propertychange", function () {
+$("#searchmap").bind("input propertychange", function () {
   var filter = $(this).val().toLowerCase().replace(/ /g,'');
+  console.log(filter);
   var class_match = 0;
 
   $(".market-group").filter(function() {
@@ -188,7 +211,7 @@ qsa(".clickme").forEach(function(group,index) {
 
     // highlight the appropriate dot
     d3.selectAll(".dot").style("fill", dot_green);
-    d3.selectAll(".dot").style("opacity", "0.2");
+    d3.selectAll(".dot").style("opacity", "0.4");
     d3.selectAll(".dot").style("stroke","black");
     d3.select("#"+e.target.classList[1]).style("fill",dot_green);
     d3.select("#"+e.target.classList[1]).style("opacity","1.0");
@@ -210,7 +233,7 @@ qsa(".dot").forEach(function(group,index) {
 
     // highlight the appropriate dot
     d3.selectAll(".dot").style("fill", dot_green);
-    d3.selectAll(".dot").style("opacity", "0.2");
+    d3.selectAll(".dot").style("opacity", "0.4");
     d3.selectAll(".dot").style("stroke","black");
     d3.select("#"+e.target.classList[1]).style("fill",dot_green);
     d3.select("#"+e.target.classList[1]).style("opacity","1.0");
@@ -270,26 +293,29 @@ qsa(".dot").forEach(function(group,index) {
 
 // buttons for brewery trails and list -----------------------------------------
 //
-// var search_click = document.getElementById('list-button');
+var search_click = document.getElementById('list-button');
 // var search_sec = document.getElementById('ssec');
 //
 // var paths_click = document.getElementById('trails-button');
 // var paths_sec = document.getElementById('psec');
 //
-// var reset_click = document.getElementById("reset-button");
+var reset_click = document.getElementById("reset-button");
 //
 // paths_sec.style.display = "none";
 //
-// search_click.addEventListener("click",function(){
-//   document.querySelector("#chosen-brewery").innerHTML = "";
-//   map.setView(new L.LatLng(sf_lat,sf_long),zoom_deg,{animate:true});
-//   paths_click.classList.remove("selected");
-//   search_click.classList.add("selected");
-//   reset_click.classList.remove("selected");
-//   search_sec.style.display = "block";
-//   paths_sec.style.display = "none";
-//   d3.selectAll(".leaflet-clickable").style("display", "none");
-// });
+search_click.addEventListener("click",function(){
+  document.querySelector("#chosen-market").innerHTML = "";
+  map.setView(new L.LatLng(sf_lat,sf_long),zoom_deg,{animate:true});
+  // paths_click.classList.remove("selected");
+  search_click.classList.add("selected");
+  reset_click.classList.remove("selected");
+  d3.selectAll(".dot").style("fill", dot_green);
+  d3.selectAll(".dot").style("opacity", "0.8");
+  d3.selectAll(".dot").style("stroke","#696969");
+  // search_sec.style.display = "block";
+  // paths_sec.style.display = "none";
+  d3.selectAll(".leaflet-clickable").style("display", "none");
+});
 //
 // paths_click.addEventListener("click",function(){
 //   document.querySelector("#chosen-brewery").innerHTML = "";
@@ -313,17 +339,17 @@ qsa(".dot").forEach(function(group,index) {
 //   d3.selectAll(".leaflet-clickable").style("stroke-width","3");
 // });
 //
-// // event listener for re-setting the map
-// reset_click.addEventListener("click",function(e) {
-//   paths_click.classList.remove("selected");
-//   search_click.classList.remove("selected");
-//   document.querySelector("#chosen-brewery").innerHTML = "";
-//   d3.selectAll(".dot").style("fill", "#FFCC32");
-//   d3.selectAll(".dot").style("opacity", "0.8");
-//   d3.selectAll(".dot").style("stroke","#696969");
-//   map.setView(new L.LatLng(sf_lat,sf_long),zoom_deg,{animate:true});
-//   d3.selectAll(".leaflet-clickable").style("display", "none");
-// });
+// event listener for re-setting the map
+reset_click.addEventListener("click",function(e) {
+  // paths_click.classList.remove("selected");
+  search_click.classList.remove("selected");
+  document.querySelector("#chosen-market").innerHTML = "";
+  d3.selectAll(".dot").style("fill", dot_green);
+  d3.selectAll(".dot").style("opacity", "0.8");
+  d3.selectAll(".dot").style("stroke","#696969");
+  map.setView(new L.LatLng(sf_lat,sf_long),zoom_deg,{animate:true});
+  // d3.selectAll(".leaflet-clickable").style("display", "none");
+});
 
 // hack to fix zooming issue with scrolling ------------------------------------
 

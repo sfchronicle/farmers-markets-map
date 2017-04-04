@@ -4,15 +4,34 @@
 @dark-green: #377357;// #1E5A3E;//#005E21;
 
 .link-recipes {
+  max-width: 600px;
+  float: center;
   font-family: @bold-graphics;
+  font-family: @block-graphics;
   text-align: center;
+  background: darken(@dark-green,10%);
+  // background: darken(@sea-blue,20%);
+  border-radius: 5px;
+  padding: 5px 0;
   a {
-    color: darken(@sea-blue,25%) !important;
+    color: white;
+    // color: darken(@sea-blue,25%) !important;
   }
-  font-size: 16px;
+  font-size: 20px;
   .fa {
     padding-right: 10px;
   }
+  margin: 20px auto;
+}
+
+.hed-wrapper {
+  position: relative;
+  padding-top: 30px;
+}
+.hed-wrapper::after {
+    content:"";
+    display:block;
+    clear:both;
 }
 
 .tooltip-marketmap {
@@ -71,7 +90,7 @@
     background: lighten(@light-gray,5%);
     padding: 10px;
   }
-  padding-bottom: 20px;
+  // padding-bottom: 20px;
   text-align: center;
 }
 
@@ -90,10 +109,10 @@
   .display-flex;
   .flex-wrap(wrap);
   .sidebar {
-    .flex(0 0 28%);
+    .flex(0 0 33%);
     margin-right: 2%;
     .markets-list {
-      height: 850px;
+      height: 900px;
       overflow-y: scroll;
       margin-bottom: 20px;
     }
@@ -104,7 +123,7 @@
     }
   }
   .map-wrapper {
-    .flex(0 0 68%);
+    .flex(0 0 62%);
     margin-right: 2%;
     position: relative;
     #chosen-market {
@@ -188,7 +207,7 @@
 
 .chatter {
   max-width: 900px;
-  padding-bottom: 20px;
+  // padding-bottom: 20px;
   @media @mobile {
     padding: 25px 15px;
   }
@@ -212,13 +231,10 @@ circle {
   .button {
     display: inline-block;
     font-family: @med-graphics;
+    display: inline-block;
+    padding: 3px 10px;
+    margin: 4px 2px;
     font-size: 16px;
-    // width: 200px;
-    // text-align: center;
-    padding: 2px 20px;
-    margin: auto;
-    // margin-top: 30px;
-    border-radius: 5px;
     border: 1px solid @dark-green;
     color: @dark-green;
     &:hover {
@@ -268,6 +284,9 @@ circle {
   &.active {
     display: block;
   }
+  .bold {
+    font-family: @bold-graphics;
+  }
 }
 
 .fa-external-link {
@@ -284,27 +303,64 @@ circle {
   }
 }
 
-.search-container {
-  font-family: @block-graphics;
-  @media @mobile {
-    margin-top: 20px;
-  }
-  // text-align: center;
-  .search {
-    font-family: @med-graphics;
-    font-size: 16px;
-    margin-bottom: 5px;
-  }
-  input {
-    border-radius: 5px;
-    border: 1px solid @dark-gray;
-    font-family: @block-graphics;
-    padding: 5px;
-    width: 80%;
-    font-size: 14px;
+// .search-container {
+//   font-family: @block-graphics;
+//   @media @mobile {
+//     margin-top: 20px;
+//   }
+//   // text-align: center;
+//   .search {
+//     font-family: @med-graphics;
+//     font-size: 16px;
+//     margin-bottom: 5px;
+//   }
+//   input {
+//     border-radius: 5px;
+//     border: 1px solid @dark-gray;
+//     font-family: @block-graphics;
+//     padding: 5px;
+//     width: 80%;
+//     font-size: 14px;
+//     @media @mobile {
+//       width: 90%;
+//       font-size: 16px;
+//     }
+//   }
+// }
+
+.banner-img {
+  width: 20%;
+  float: left;
+  padding-top: 40px;
+  img {
+    display: block;
+    max-width: 200px;
+    width: 90%;
+    margin: auto;
+    padding-top: 30px;
     @media @mobile {
-      width: 90%;
-      font-size: 16px;
+      height: 100%;
+      padding: 30px 0;
     }
+  }
+  &.desktop {
+    @media @mobile {
+      display: none;
+    }
+  }
+  &.mobile {
+    display: none;
+    @media @mobile {
+      display: block;
+    }
+  }
+}
+
+.banner-content {
+  padding: 40px 0 20px 0;
+  width: 60%;
+  float: left;
+  @media @mobile {
+    width: 100%;
   }
 }

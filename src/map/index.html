@@ -1,0 +1,119 @@
+<!doctype html>
+<html>
+  <head>
+    <title><%= json.project.seo_title %></title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="__sync_contentCategory" content="meterA">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="../style.css">
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7/leaflet.css"/>
+
+    <%= !json.project.embedded ? t.include("partials/_paywall.html") : t.include("partials/_embedframe.html") %>
+
+    <%= t.include("partials/_head.html") %>
+
+  </head>
+
+  <%= !json.project.embedded ? "<body>" : "<body is='responsive-body'>" %>
+
+    <%= t.include("partials/_nav.html") %>
+
+    <div class="hed-wrapper">
+      <div class="banner-img left desktop"><img src="../assets/graphics/hopsL.png"></img></div>
+      <div class="banner-content">
+        <div class="title-mobile">
+          <div class="banner-img left mobile"><img src="../assets/graphics/hopsL.png"></img></div>
+          <div class="hed">Guide to S.F. Farmer's Markets</div>
+          <div class="banner-img right mobile"><img src="../assets/graphics/hopsR.png"></img></div>
+        </div>
+        <div class="chatter">This redesigned interactive map features more than 230 breweries in Northern California. Hover and click on the spots, search for your favorites, or check out our list of beer excursions.</div>
+
+        <div class="link-recipes"><a href="../recipes/index.html" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i>Search for seasonal recipes</a></div>
+
+      </div>
+      <div class="banner-img right desktop"><img src="../assets/graphics/hopsR.png"></img></div>
+    </div>
+    <div class="button-container">
+      <div class="button selected" id="list-button">Complete List</div>
+      <div class="button" id="opennow-button">Open Today</div>
+      <div class="button" id="reset-button">Reset Map</div>
+    </div>
+    <div class="dropdown-container">
+      <div class="drop-down">
+        <div class="select-text">Sort by region</div>
+        <select name="select" id="select-region">
+          <option value='all' class="option">All</option>
+          <option value='sf' class="option">San Francisco</option>
+          <option value='eb' class="option">East Bay</option>
+          <option value='nb' class="option">North Bay / Wine Country</option>
+          <option value='sb' class="option">Peninsula / South Bay</option>
+        </select>
+      </div>
+      <div class="drop-down right">
+        <div class="select-text">Sort by day</div>
+        <select name="select" id="select-day">
+          <option value='all' class="option">All</option>
+          <option value='sun' class="option">Sunday</option>
+          <option value='mon' class="option">Monday</option>
+          <option value='tues' class="option">Tuesday</option>
+          <option value='wed' class="option">Wednesday</option>
+          <option value='thurs' class="option">Thursday</option>
+          <option value='fri' class="option">Friday</option>
+          <option value='sat' class="option">Saturday</option>
+        </select>
+      </div>
+    </div>
+    <div class="search-container">
+      <span class="search">Search by market or day  </span>
+      <input class="input" id="searchmap" type="text" placeholder='Try "Ferry building" or "Sunday" ...'></input>
+    </div>
+
+    <div class="content">
+      <div class="map-wrapper">
+        <div id="scroll-to-top"></div>
+        <div class="map-container">
+          <div id="map"></div>
+        </div>
+        <div id="chosen-market"></div>
+      </div>
+
+      <div class="sidebar">
+        <div id="ssec">
+          <div class="cntl" id="scntl">Markets List</div>
+          <div class="markets-list">
+            <div class="markets-scroll-container">
+
+              <% json.SanFrancisco.forEach(function(d){ %>
+              <% var strMarket = d.Name.toLowerCase().replace(/ /g,'').replace(/'/g,'').replace(/\./g,'') %>
+
+              <% var strRegion = d.Region; %>
+                <div class="market-group <%=strMarket%> <%=d.Days %> active">
+                  <div class="name"><%=d.Name%>  <a href="<%=d.Website%>" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i></a></div>
+                  <div class="season"><span class="bold">Season: </span><%=d.Season%></div>
+                  <div class="hours"><span class="bold">Hours: </span><%=d.Hours%></div>
+                  <div class="features"><span class="bold">Special features: </span><%=d["Special features"]%></div>
+                  <div class="address"><%=d.Address%></div>
+                  <div class="clickme market<%=strMarket%>"><i class="fa fa-hand-o-right" aria-hidden="true"></i>  Click here to find me on the map.</div>
+                </div>
+              <% }); %>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+    <div class="tooltip-marketmap"></div>
+
+    <%= t.include("partials/_footer.html") %>
+
+    <script>
+      var farmData = <%= JSON.stringify(json.SanFrancisco) %>
+    </script>
+
+    <script src="../map-app.js" async></script>
+    <%= t.include("partials/_helloSFC.html") %>
+
+  </body>
+</html>
