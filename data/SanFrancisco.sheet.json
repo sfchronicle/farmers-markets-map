@@ -12,7 +12,7 @@
     "Size": "Large",
     "Special features": "Fresh produce; prepared foods; view of the Bay. CUESA offers free cooking demonstrations, seasonal celebrations and other presentations. A free veggie valet service is available during market hours to store your market purchases. ",
     "Notes": "Run by CUESA",
-    "confirmed": "CQ",
+    "CQ'd": "YES",
     "FILE ART?": "Lots to choose from in Merlin"
   },
   {
@@ -28,7 +28,7 @@
     "Size": "Small",
     "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by California Farmers' Markets Association; 17 farmstands; ",
-    "confirmed": "CQ",
+    "CQ'd": "YES",
     "FILE ART?": "https://hearst.merlinone.net/MX/Profiles/en/default/#/main/single/e08c6389-3fb7-46c2-bd14-9b301e71f303 ; https://hearst.merlinone.net/MX/Profiles/en/default/#/main/single/e08c6389-3fb7-46c2-bd14-9b301e71f303"
   },
   {
@@ -44,7 +44,7 @@
     "Size": "Medium",
     "Special features": "Fresh produce; prepared foods; views of the Bay and Golden Gate Bridge. ",
     "Notes": "Run by California Farmers' Markets Association; 35 farmstands",
-    "confirmed": "CQ",
+    "CQ'd": "YES",
     "FILE ART?": "??"
   },
   {
@@ -60,7 +60,7 @@
     "Size": "Medium",
     "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by PCFMA",
-    "confirmed": "CQ",
+    "CQ'd": "YES",
     "FILE ART?": "No"
   },
   {
@@ -76,7 +76,7 @@
     "Size": "Large",
     "Special features": "Fresh produce; prepared foods",
     "Notes": "Since 1981",
-    "confirmed": "CQ",
+    "CQ'd": "YES",
     "FILE ART?": "https://hearst.merlinone.net/MX/Profiles/en/default/#/main/single/92ea7a79-ea8d-494e-b8b8-beb8a5e5380f ;  "
   },
   {
@@ -91,7 +91,7 @@
     "Days": "Saturday",
     "Size": "Small",
     "Special features": "Fresh produce; prepared foods",
-    "confirmed": "CQ",
+    "CQ'd": "YES",
     "FILE ART?": "https://hearst.merlinone.net/MX/Profiles/en/default/#/main/single/92ea7a79-ea8d-494e-b8b8-beb8a5e5380f ; https://hearst.merlinone.net/MX/Profiles/en/default/#/main/single/92ea7a79-ea8d-494e-b8b8-beb8a5e5380f"
   },
   {
@@ -107,7 +107,7 @@
     "Size": "Small",
     "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by PCFMA",
-    "confirmed": "CQ",
+    "CQ'd": "YES",
     "FILE ART?": "No"
   },
   {
@@ -123,7 +123,7 @@
     "Days": "Thursday",
     "Size": "Small",
     "Special features": "Fresh produce; prepared foods; newly opened \"La Placita\" public space at the market features murals and partially covered shopping area.",
-    "confirmed": "CQ",
+    "CQ'd": "YES",
     "FILE ART?": "https://hearst.merlinone.net/MX/Profiles/en/default/#/main/single/669adfba-2e1e-4efa-8534-0f58cc1e1679 ; https://hearst.merlinone.net/MX/Profiles/en/default/#/main/single/669adfba-2e1e-4efa-8534-0f58cc1e1679 "
   },
   {
@@ -139,7 +139,7 @@
     "Size": "Large",
     "Special features": "Fresh produce; prepared foods; plentiful parking at Stonestown Mall.",
     "Notes": "Run by Agricultural Institute of Marin; 65+ vendors",
-    "confirmed": "CQ",
+    "CQ'd": "YES",
     "FILE ART?": "https://hearst.merlinone.net/MX/Profiles/en/default/#/main/single/5aff681c-d018-4aac-9f73-8b3a7bec87dc ; https://hearst.merlinone.net/MX/Profiles/en/default/#/main/single/5aff681c-d018-4aac-9f73-8b3a7bec87dc"
   },
   {
@@ -155,7 +155,7 @@
     "Size": "Small",
     "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by PCFMA",
-    "confirmed": "CQ",
+    "CQ'd": "YES",
     "FILE ART?": "No"
   },
   {
@@ -170,7 +170,7 @@
     "Days": "Thursday",
     "Size": "Small",
     "Special features": "Fresh produce; prepared foods; located in front of the Humanities Building on the San Francisco State University campus.",
-    "confirmed": "CQ",
+    "CQ'd": "YES",
     "FILE ART?": "No"
   },
   {
@@ -186,7 +186,7 @@
     "Size": "Large",
     "Special features": "Fresh produce; prepared foods; founded in 1943, Alemany was the first farmers' market in California; It's also the only city-run farmers’ market in San Francisco.",
     "Notes": "It is the only City-run farmers’ market in San Francisco.",
-    "confirmed": "CQ",
+    "CQ'd": "YES",
     "FILE ART?": "Lots to choose from"
   },
   {
@@ -202,7 +202,7 @@
     "Size": "Large",
     "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by Agricultural Institute of Marin; 50+ vendors",
-    "confirmed": "CQ",
+    "CQ'd": "YES",
     "FILE ART?": "https://hearst.merlinone.net/MX/Profiles/en/default/#/main/single/5a34f39c-2a17-46af-868c-d82f69fe54af"
   },
   {
@@ -219,7 +219,7 @@
     "Size": "Medium",
     "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by PCFMA; 22 producers with more to come in May-- 8 non ag",
-    "confirmed": "CQ",
+    "CQ'd": "YES",
     "FILE ART?": "No"
   },
   {
@@ -235,7 +235,7 @@
     "Size": "Medium",
     "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by PCFMA",
-    "confirmed": "CQ",
+    "CQ'd": "YES",
     "FILE ART?": "https://hearst.merlinone.net/MX/Profiles/en/default/#/main/single/81106bce-871f-434a-8e65-7ecab06a55ae"
   },
   {
@@ -251,7 +251,7 @@
     "Size": "Small",
     "Special features": "Held at the SF V.A. Medical Center. Fresh produce; prepared foods",
     "Notes": "Run by PCFMA; 6 stand -- 4 farmers 2 non ag",
-    "confirmed": "CQ",
+    "CQ'd": "YES",
     "FILE ART?": "No"
   },
   {
@@ -267,7 +267,7 @@
     "Size": "Small",
     "Special features": "Fresh produce; prepared foods; Due to construction, the market is temporarily closed and scheduled to reopen May 10th; Check the website for updates.",
     "Notes": "Run by PCFMA",
-    "confirmed": "CQ",
+    "CQ'd": "YES",
     "FILE ART?": "No"
   },
   {
@@ -283,7 +283,7 @@
     "Size": "Small",
     "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by PCFMA",
-    "confirmed": "CQ",
+    "CQ'd": "YES",
     "FILE ART?": "No"
   }
 ]
