@@ -53,6 +53,8 @@
       <input class="input" id="searchbar" type="text" placeholder='Try "asparagus", "cherries" or "risotto" ...'>
     </div>
 
+    <div class="recipe-noresults hide" id="recipe-noresults">No search results found. Try a different ingredient or keyword.</div>
+
     <div class="recipe-wrapper">
       <% json.SeasonalRecipes.forEach(function(d){ %>
         <% if (d.PhotoID) { %>

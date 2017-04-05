@@ -6,6 +6,7 @@ var filter = document.getElementsByClassName('filter');
 $("#searchbar").bind("input propertychange", function () {
   var filter = $(this).val().toLowerCase().replace(/ /g,'');
   var class_match = 0;
+  var count = 0;
 
   $(".recipe-item").filter(function() {
 
@@ -19,12 +20,19 @@ $("#searchbar").bind("input propertychange", function () {
     }
     if (class_match > 0) {
       $(this).addClass("active");
+      count+=1;
     } else {
       $(this).removeClass("active");
     }
     class_match = 0;
 
   });
+
+  if (count > 0) {
+    document.getElementById('recipe-noresults').classList.add("hide");
+  } else {
+    document.getElementById('recipe-noresults').classList.remove("hide");
+  }
 
 });
 
