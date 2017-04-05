@@ -12,5 +12,17 @@
   "image": "assets/social.jpg",
   "sheets": ["18tY02OvFIJa4kU1ibntCYnLWC_PpzWizTd3PO1undu8"],
   "production": false,
-  "embedded": false
+  "embedded": false,
+
+  "map_slug":"map/",
+  "map_title": "Rising Reality: Regional response to encroaching tide",
+  "map_description": "Special report: The Bay Area needs to plan for these shifting tides now and upend a half-century of priorities that inhibits adventurous decision-making and design.",
+  "map_twitter": "A regional response to SF bay’s encroaching waters.",
+  "map_image": "assets/photos/therisk/sealevel_social.jpg",
+
+  "recipes_slug":"recipes/",
+  "recipes_title": "Rising Reality: Regional response to encroaching tide",
+  "recipes_description": "Special report: The Bay Area needs to plan for these shifting tides now and upend a half-century of priorities that inhibits adventurous decision-making and design.",
+  "recipes_twitter": "A regional response to SF bay’s encroaching waters.",
+  "recipes_image": "assets/photos/therisk/sealevel_social.jpg"
 }

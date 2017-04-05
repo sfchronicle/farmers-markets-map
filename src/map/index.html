@@ -11,13 +11,13 @@
 
     <%= !json.project.embedded ? t.include("partials/_paywall.html") : t.include("partials/_embedframe.html") %>
 
-    <%= t.include("partials/_head.html") %>
+    <%= t.include("partials/_head_map.html") %>
 
   </head>
 
   <%= !json.project.embedded ? "<body>" : "<body is='responsive-body'>" %>
 
-    <%= t.include("partials/_nav.html") %>
+    <%= t.include("partials/_nav_map.html") %>
 
     <div class="hed-wrapper">
       <div class="banner-img left desktop"><img src="../assets/graphics/hopsL.png"></img></div>
@@ -78,10 +78,9 @@
             <div class="markets-scroll-container">
 
               <% json.SanFrancisco.forEach(function(d){ %>
-              <% var strMarket = d.Name.toLowerCase().replace(/ /g,'').replace(/'/g,'').replace(/\./g,'') %>
-
-              <% var strRegion = d.Region; %>
-                <div class="market-group <%=strMarket%> <%=d.Days %> active">
+                <% var strMarket = d.Name.toLowerCase().replace(/ /g,'').replace(/'/g,'').replace(/\./g,'') %>
+                <% var strRegion = d.Region; %>
+                <div class="market-group <%=strMarket%> <%=d.Days %> <%=d.Season%> <%=d.Months%> active">
                   <div class="name"><%=d.Name%>  <a href="<%=d.Website%>" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i></a></div>
                   <div class="season"><span class="bold">Season: </span><%=d.Season%></div>
                   <div class="hours"><span class="bold">Hours: </span><%=d.Hours%></div>

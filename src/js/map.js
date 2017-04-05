@@ -50,12 +50,6 @@ function fill_info(data){
   return html;
 }
 
-// // put info for highlighted brewery trail at the top
-// function fill_path_info(data){
-//   var html = "<div class='brewery-group-top active'><div class='name'>"+data.Name+"</div><div class='address'>"+data.Address+"</div></div>";
-//   return html;
-// }
-
 // function that zooms and pans the data when the map zooms and pans
 function update() {
 	feature.attr("transform",
@@ -220,6 +214,16 @@ qsa(".dot").forEach(function(group,index) {
 // MAP FUNCTIONALITY  -----------------------------------------
 // ----------------------------------------------------------------
 
+// these are all the buttons
+// this button clears all filters on the list
+var list_click = document.getElementById('list-button');
+// this button resets the map
+var reset_click = document.getElementById("reset-button");
+// this button filters by day
+var select_day = document.getElementById("select-day");
+// this button filters by current day and current month
+var today_button = document.getElementById("opennow-button");
+
 // searchbar code
 $("#searchmap").bind("input propertychange", function () {
   var filter = $(this).val().toLowerCase().replace(/ /g,'');
@@ -227,7 +231,7 @@ $("#searchmap").bind("input propertychange", function () {
 
   $(".market-group").filter(function() {
 
-    var classes = this.className.split(" ");
+    var classes = this.className.toLowerCase().split(" ");
     for (var i=0; i< classes.length; i++) {
 
       var current_class = classes[i].toLowerCase();
@@ -246,131 +250,84 @@ $("#searchmap").bind("input propertychange", function () {
 
 });
 
-var list_click = document.getElementById('list-button');
-var reset_click = document.getElementById("reset-button");
-var select_day = document.getElementById("select-day");
-var today_button = document.getElementById("opennow-button");
-
+// show markets that match current day and month
 today_button.addEventListener("click",function() {
+  // set buttons
   list_click.classList.remove("selected");
   today_button.classList.add("selected");
-  console.log(day);
-  var class_match = 0;
+
+  // check matching days and months
   $(".market-group").filter(function() {
     var filter = day.toLowerCase();
     var classes = this.className.split(" ");
-    for (var i=0; i< classes.length; i++) {
-      var current_class = classes[i].toLowerCase();
-        if ( current_class.match(filter)) {
-          class_match = class_match + 1;
-        }
-    }
-    if (class_match > 0) {
+    if ((classes.indexOf(month)>0) && (classes.indexOf(day)>0)) {
+      $(this).addClass("active");
+    } else if ((classes.indexOf("Year-round")>0) && (classes.indexOf(day)>0)) {
       $(this).addClass("active");
     } else {
       $(this).removeClass("active");
     }
-    class_match = 0;
   });
 })
 
+// show day selected by dropdown
 select_day.addEventListener("change",function(){
-  console.log("change");
 
-  // reset list search parameters
-  // reset_click.classList.remove("selected");
+  // set buttons
   today_button.classList.remove("selected");
 
-  var class_match = 0;
-
-  console.log(select_day.value);
-
+  // only show markets that match the day / all days
   if (select_day.value != "all") {
+    // set button for complete list as false if "all" not chosen
     list_click.classList.remove("selected");
+    // show markets that match selected day
     $(".market-group").filter(function() {
       var filter = select_day.value;
-      var classes = this.className.split(" ");
-      for (var i=0; i< classes.length; i++) {
-        var current_class = classes[i].toLowerCase();
-          if ( current_class.match(filter)) {
-            class_match = class_match + 1;
-          }
-      }
-      if (class_match > 0) {
+      var classes = this.className.toLowerCase().split(" ");
+      if (classes.indexOf(filter)>0) {
         $(this).addClass("active");
       } else {
         $(this).removeClass("active");
       }
-      class_match = 0;
     });
   } else {
+    // set button for complete list as true if "all" is chosen
     list_click.classList.add("selected");
+    // show all markets
     $(".market-group").filter(function() {
       $(this).addClass("active");
     });
   }
 });
-//
-// paths_sec.style.display = "none";
-//
+
+// show full list
 list_click.addEventListener("click",function(){
-  document.querySelector("#chosen-market").innerHTML = "";
-  map.setView(new L.LatLng(sf_lat,sf_long),zoom_deg,{animate:true});
-  // paths_click.classList.remove("selected");
+
+  // set buttons
   list_click.classList.add("selected");
   reset_click.classList.remove("selected");
+  today_button.classList.remove("selected");
+
+  // reset map
+  document.querySelector("#chosen-market").innerHTML = "";
   d3.selectAll(".dot").style("fill", dot_green);
   d3.selectAll(".dot").style("opacity", "0.8");
   d3.selectAll(".dot").style("stroke","#696969");
+  map.setView(new L.LatLng(sf_lat,sf_long),zoom_deg,{animate:true});
 
-  today_button.classList.remove("selected");
+  // show all markets
   $(".market-group").filter(function() {
     $(this).addClass("active");
   });
-  // search_sec.style.display = "block";
-  // paths_sec.style.display = "none";
-  // d3.selectAll(".leaflet-clickable").style("display", "none");
 });
-//
-// paths_click.addEventListener("click",function(){
-//   document.querySelector("#chosen-brewery").innerHTML = "";
-//   d3.selectAll(".dot").style("fill", "#FFCC32");
-//   d3.selectAll(".dot").style("opacity", "0.8");
-//   d3.selectAll(".dot").style("stroke","#696969");
-//   if (screen.width >= 480) {
-//     map.setView(new L.LatLng(37.718929,-122.338428),11,{animate:true});
-//   } else {
-//     map.setView(new L.LatLng(37.852280,-122.386665),10,{animate:true});
-//   }
-//   paths_click.classList.add("selected");
-//   search_click.classList.remove("selected");
-//   reset_click.classList.remove("selected");
-//   paths_sec.style.display = "block";
-//   search_sec.style.display = "none";
-//
-//   d3.selectAll(".leaflet-clickable").style("display", "block");
-//   d3.selectAll(".leaflet-clickable").style("stroke",off_red);
-//   d3.selectAll(".leaflet-clickable").style("opacity","1.0");
-//   d3.selectAll(".leaflet-clickable").style("stroke-width","3");
-// });
-//
+
 // event listener for re-setting the map
 reset_click.addEventListener("click",function(e) {
-  // paths_click.classList.remove("selected");
-  list_click.classList.remove("selected");
+
+  //reset map
   document.querySelector("#chosen-market").innerHTML = "";
   d3.selectAll(".dot").style("fill", dot_green);
   d3.selectAll(".dot").style("opacity", "0.8");
   d3.selectAll(".dot").style("stroke","#696969");
   map.setView(new L.LatLng(sf_lat,sf_long),zoom_deg,{animate:true});
-  // d3.selectAll(".leaflet-clickable").style("display", "none");
 });
-
-// hack to fix zooming issue with scrolling ------------------------------------
-
-// document.querySelector(".leaflet-control-zoom").addEventListener("click",function() {
-//   console.log("scrolling down");
-//   $('html, body').animate({
-//       scrollTop: $("#scroll-to-top").offset().top-35
-//   }, 600);
-// });
