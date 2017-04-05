@@ -29,9 +29,9 @@ console.log(month);
 
 // setting parameters for the center of the map and initial zoom level
 if (screen.width <= 480) {
-  var sf_lat = 37.85;
+  var sf_lat = 37.77;
   var sf_long = -122.43;
-  var zoom_deg = 8;
+  var zoom_deg = 11;
 } else {
   var sf_lat = 37.77;
   var sf_long = -122.44;
@@ -276,6 +276,7 @@ today_button.addEventListener("click",function() {
   list_click.classList.remove("selected");
   today_button.classList.add("selected");
   select_day.selectedIndex = 0;
+  document.getElementById('searchmap').value = "";
 
   var count = 0;
 
@@ -308,6 +309,7 @@ select_day.addEventListener("change",function(){
 
   // set buttons
   today_button.classList.remove("selected");
+  document.getElementById('searchmap').value = "";
 
   var count = 0;
 
@@ -353,6 +355,7 @@ list_click.addEventListener("click",function(){
   reset_click.classList.remove("selected");
   today_button.classList.remove("selected");
   select_day.selectedIndex = 0;
+  document.getElementById('searchmap').value = "";
 
   // reset map
   document.querySelector("#chosen-market").innerHTML = "";

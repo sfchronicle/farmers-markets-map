@@ -59,8 +59,7 @@
       <% json.SeasonalRecipes.forEach(function(d){ %>
         <% if (d.PhotoID) { %>
           <div class="recipe-item active <%=[d.Tags].toString().toLowerCase().replace(',',' ')%> <%=[d['Recipe Name']]%>">
-            <img src="http://ww2.hdnux.com/photos/54/11/64/<%=d.PhotoID%>/3/premium_landscape.jpg"></img>
-            <div class="caption"><%=d.Photographer%></div>
+            <a href="<%=d['Link to Recipe']%>" target="_blank"><img src="http://ww2.hdnux.com/photos/54/11/64/<%=d.PhotoID%>/3/premium_landscape.jpg"></img></a>
             <div class="event"><%=d["Recipe Name"]%><a href="<%=d['Link to Recipe']%>" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i></a></div>
             <% var array = [d.Tags].toString().split(','); %>
             <div class="tags">
