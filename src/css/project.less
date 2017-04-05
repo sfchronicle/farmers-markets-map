@@ -3,6 +3,15 @@
 @sea-blue: #879BBC;
 @dark-green: #377357;// #1E5A3E;//#005E21;
 
+.byline {
+  font-style: normal;
+  text-align: center;
+  margin-top: -10px;
+  a {
+    text-decoration: underline;
+  }
+}
+
 .link-recipes {
   max-width: 600px;
   float: center;
@@ -17,7 +26,7 @@
     color: white;
     // color: darken(@sea-blue,25%) !important;
   }
-  font-size: 20px;
+  font-size: 18px;
   .fa {
     padding-right: 10px;
   }
@@ -77,21 +86,22 @@
   .drop-down {
     display: inline-block;
     &.right {
-      padding-left: 20px;
+      // padding-left: 20px;
     }
   }
   .select-text {
     display: inline-block;
     padding-right: 5px;
+    font-family: @med-graphics;
   }
   select {
     font-family: @med-graphics;
     font-size: 14px;
-    background: lighten(@light-gray,5%);
+    background: white;//lighten(@light-gray,5%);
     padding: 10px;
   }
   // padding-bottom: 20px;
-  text-align: center;
+  // text-align: center;
 }
 
 .cntl {
@@ -112,7 +122,7 @@
     .flex(0 0 33%);
     margin-right: 2%;
     .markets-list {
-      height: 900px;
+      height: 740px;
       overflow-y: scroll;
       margin-bottom: 20px;
     }
@@ -237,6 +247,7 @@ circle {
     font-size: 16px;
     border: 1px solid @dark-green;
     color: @dark-green;
+    background: white;
     &:hover {
       color: white;
       background: @dark-green;
@@ -295,7 +306,7 @@ circle {
 
 .leaflet-control-zoom {
   display: block !important;
-  top: 30px !important;
+  top: 50px !important;
   right: 20px !important;
   @media @mobile {
     top: 5px !important;
@@ -362,5 +373,42 @@ circle {
   float: left;
   @media @mobile {
     width: 100%;
+  }
+}
+
+.map-wrapper {
+  .button {
+    display: inline-block;
+    font-family: @med-graphics;
+    display: inline-block;
+    padding: 3px 10px;
+    margin: 4px 2px;
+    font-size: 16px;
+    border: 1px solid @dark-green;
+    color: @dark-green;
+    &:hover {
+      color: white;
+      background: @dark-green;
+    }
+    &.selected {
+      color: white;
+      background: @dark-green;
+    }
+    cursor: pointer;
+  }
+}
+
+#reset-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  z-index: 100;
+  background: rgba(255,255,255,1);
+  &:hover {
+    color: darken(@dark-green,15%);
+  }
+  &.selected {
+    color: white;
+    background: @dark-green;
   }
 }

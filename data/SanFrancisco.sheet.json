@@ -10,7 +10,7 @@
     "Hours": "Saturday, 8 a.m.-2 p.m.; Tuesdays & Thursdays, 10 a.m.-2 p.m.",
     "Days": "Saturday Tuesday Thursday",
     "Size": "Large",
-    "Special features": "Fresh produce; prepared foods; view of the Bay",
+    "Special features": "Fresh produce; prepared foods; view of the Bay. CUESA offers free cooking demonstrations, seasonal celebrations and other presentations. A free veggie valet service is available during market hours to store your market purchases. ",
     "Notes": "Run by CUESA",
     "confirmed": "CQ",
     "FILE ART?": "Lots to choose from in Merlin"
@@ -23,11 +23,11 @@
     "Lng": "-122.4030516",
     "Website": "http://www.cafarmersmkts.com/san-francisco-farmers-market-at-crocker-galleria/",
     "Season": "Year-round",
-    "Hours": "Thursday, 11 a.m.-3 p.m.",
+    "Hours": "Thursday, 10 a.m.-2 p.m.",
     "Days": "Thursday",
     "Size": "Small",
-    "Special features": "12 farmstands; Fresh produce; prepared foods",
-    "Notes": "Run by California Farmers' Markets Association",
+    "Special features": "Fresh produce; prepared foods",
+    "Notes": "Run by California Farmers' Markets Association; 17 farmstands; ",
     "confirmed": "CQ",
     "FILE ART?": "https://hearst.merlinone.net/MX/Profiles/en/default/#/main/single/e08c6389-3fb7-46c2-bd14-9b301e71f303 ; https://hearst.merlinone.net/MX/Profiles/en/default/#/main/single/e08c6389-3fb7-46c2-bd14-9b301e71f303"
   },
@@ -41,9 +41,9 @@
     "Season": "Year-round",
     "Hours": "Sunday, 9:30 a.m.-1:30 p.m.",
     "Days": "Sunday",
-    "Size": "Large",
-    "Special features": "35 farmstands",
-    "Notes": "Run by California Farmers' Markets Association",
+    "Size": "Medium",
+    "Special features": "Fresh produce; prepared foods; views of the Bay and Golden Gate Bridge. ",
+    "Notes": "Run by California Farmers' Markets Association; 35 farmstands",
     "confirmed": "CQ",
     "FILE ART?": "??"
   },
@@ -58,7 +58,7 @@
     "Hours": "Sunday, 9 a.m.-1 p.m.",
     "Days": "Sunday",
     "Size": "Medium",
-    "Special features": "Fresh produce; prepared foods; accepts EBT (Cal-Fresh) and WIC FMNP (Women, Infants and Children Farmers’ Market Nutrition Program coupons).",
+    "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by PCFMA",
     "confirmed": "CQ",
     "FILE ART?": "No"
@@ -73,7 +73,8 @@
     "Season": "Year-round",
     "Hours": "Sundays, 7 a.m.-5 p.m.; Wednesdays, 7 a.m.-5:30 p.m.",
     "Days": "Sunday Wednesday",
-    "Size": "Medium",
+    "Size": "Large",
+    "Special features": "Fresh produce; prepared foods",
     "Notes": "Since 1981",
     "confirmed": "CQ",
     "FILE ART?": "https://hearst.merlinone.net/MX/Profiles/en/default/#/main/single/92ea7a79-ea8d-494e-b8b8-beb8a5e5380f ;  "
@@ -88,6 +89,8 @@
     "Season": "Year-round",
     "Hours": "Saturday, 8 a.m.-1 p.m.",
     "Days": "Saturday",
+    "Size": "Small",
+    "Special features": "Fresh produce; prepared foods",
     "confirmed": "CQ",
     "FILE ART?": "https://hearst.merlinone.net/MX/Profiles/en/default/#/main/single/92ea7a79-ea8d-494e-b8b8-beb8a5e5380f ; https://hearst.merlinone.net/MX/Profiles/en/default/#/main/single/92ea7a79-ea8d-494e-b8b8-beb8a5e5380f"
   },
@@ -101,7 +104,8 @@
     "Season": "Year-round",
     "Hours": "Wednesday, 10 a.m.-2 p.m.",
     "Days": "Wednesday",
-    "Special features": "Fresh produce; prepared foods; accepts EBT (Cal-Fresh) and WIC FMNP (Women, Infants and Children Farmers’ Market Nutrition Program coupons).",
+    "Size": "Small",
+    "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by PCFMA",
     "confirmed": "CQ",
     "FILE ART?": "No"
@@ -117,6 +121,7 @@
     "Hours": "Thursday, 4-8 p.m.",
     "Days": "Thursday",
     "Size": "Small",
+    "Special features": "Fresh produce; prepared foods; newly opened \"La Placita\" public space at the market features murals and partially covered shopping area.",
     "confirmed": "CQ",
     "FILE ART?": "https://hearst.merlinone.net/MX/Profiles/en/default/#/main/single/669adfba-2e1e-4efa-8534-0f58cc1e1679 ; https://hearst.merlinone.net/MX/Profiles/en/default/#/main/single/669adfba-2e1e-4efa-8534-0f58cc1e1679 "
   },
@@ -131,8 +136,8 @@
     "Hours": "Sunday, 9 a.m.-1 p.m.",
     "Days": "Sunday",
     "Size": "Large",
-    "Special features": "65+ vendors",
-    "Notes": "Run by Agricultural Institute of Marin",
+    "Special features": "Fresh produce; prepared foods; plentiful parking at Stonestown Mall.",
+    "Notes": "Run by Agricultural Institute of Marin; 65+ vendors",
     "confirmed": "CQ",
     "FILE ART?": "https://hearst.merlinone.net/MX/Profiles/en/default/#/main/single/5aff681c-d018-4aac-9f73-8b3a7bec87dc ; https://hearst.merlinone.net/MX/Profiles/en/default/#/main/single/5aff681c-d018-4aac-9f73-8b3a7bec87dc"
   },
@@ -147,7 +152,7 @@
     "Hours": "Saturday, 9 a.m.-1 p.m.",
     "Days": "Saturday",
     "Size": "Small",
-    "Special features": "Fresh produce; prepared foods; accepts EBT (Cal-Fresh) and WIC FMNP (Women, Infants and Children Farmers’ Market Nutrition Program coupons).",
+    "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by PCFMA",
     "confirmed": "CQ",
     "FILE ART?": "No"
@@ -163,7 +168,7 @@
     "Hours": "Thursday, 10 a.m.-3 p.m.",
     "Days": "Thursday",
     "Size": "Small",
-    "Special features": "Located in front of the Humanities Building on the San Francisco State University campus.",
+    "Special features": "Fresh produce; prepared foods; located in front of the Humanities Building on the San Francisco State University campus.",
     "confirmed": "CQ",
     "FILE ART?": "No"
   },
@@ -178,7 +183,7 @@
     "Hours": "Saturday, 6 a.m.-2:30 p.m.",
     "Days": "Saturday",
     "Size": "Large",
-    "Special features": "Founded in 1943; the first farmers' market in California. ",
+    "Special features": "Fresh produce; prepared foods; founded in 1943, Alemany was the first farmers' market in California; It's also the only city-run farmers’ market in San Francisco.",
     "Notes": "It is the only City-run farmers’ market in San Francisco.",
     "confirmed": "CQ",
     "FILE ART?": "Lots to choose from"
@@ -194,8 +199,8 @@
     "Hours": "Sunday, 9 a.m.-2 p.m.",
     "Days": "Sunday",
     "Size": "Large",
-    "Special features": "50+ vendors",
-    "Notes": "Run by Agricultural Institute of Marin",
+    "Special features": "Fresh produce; prepared foods",
+    "Notes": "Run by Agricultural Institute of Marin; 50+ vendors",
     "confirmed": "CQ",
     "FILE ART?": "https://hearst.merlinone.net/MX/Profiles/en/default/#/main/single/5a34f39c-2a17-46af-868c-d82f69fe54af"
   },
@@ -210,8 +215,8 @@
     "Hours": "Wednesday, 4-7 p.m.",
     "Days": "Wednesday",
     "Size": "Medium",
-    "Special features": "Fresh produce; prepared foods; accepts EBT (Cal-Fresh) and WIC FMNP (Women, Infants and Children Farmers’ Market Nutrition Program coupons).",
-    "Notes": "Run by PCFMA",
+    "Special features": "Fresh produce; prepared foods",
+    "Notes": "Run by PCFMA; 22 producers with more to come in May-- 8 non ag",
     "confirmed": "CQ",
     "FILE ART?": "No"
   },
@@ -225,7 +230,8 @@
     "Season": "Year-round",
     "Hours": "Sunday, 10 a.m.-2 p.m.",
     "Days": "Sunday",
-    "Size": "Small",
+    "Size": "Medium",
+    "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by PCFMA",
     "confirmed": "CQ",
     "FILE ART?": "https://hearst.merlinone.net/MX/Profiles/en/default/#/main/single/81106bce-871f-434a-8e65-7ecab06a55ae"
@@ -241,8 +247,8 @@
     "Hours": "Wednesday, 10 a.m.-2 p.m.",
     "Days": "Wednesday",
     "Size": "Small",
-    "Special features": "Held at the SF VA Hospital",
-    "Notes": "Run by PCFMA",
+    "Special features": "Held at the SF V.A. Medical Center. Fresh produce; prepared foods",
+    "Notes": "Run by PCFMA; 6 stand -- 4 farmers 2 non ag",
     "confirmed": "CQ",
     "FILE ART?": "No"
   },
@@ -257,7 +263,7 @@
     "Hours": "Wednesday, 10 a.m.-2 p.m.",
     "Days": "Wednesday",
     "Size": "Small",
-    "Special features": "Per website: currently closed due to construction, but will reopen ",
+    "Special features": "Fresh produce; prepared foods; Due to construction, the market is temporarily closed and scheduled to reopen May 10th; Check the website for updates.",
     "Notes": "Run by PCFMA",
     "confirmed": "CQ",
     "FILE ART?": "No"
@@ -273,6 +279,7 @@
     "Hours": "Wednesday, 10 a.m.-3 p.m.",
     "Days": "Wednesday",
     "Size": "Small",
+    "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by PCFMA",
     "confirmed": "CQ",
     "FILE ART?": "No"

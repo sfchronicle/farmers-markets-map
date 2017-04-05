@@ -1,10 +1,26 @@
 [
   {
-    "Tags": "Vegetables",
-    "Subtags": "asparagus, peas, fava beans, fava leaves"
+    "Tags": "Artichokes"
   },
   {
-    "Tags": "Fruits",
-    "Subtags": "cherries, apricots, rhubarb, strawberries"
+    "Tags": "Asparagus"
+  },
+  {
+    "Tags": "Peas"
+  },
+  {
+    "Tags": "Favas"
+  },
+  {
+    "Tags": "Cherries"
+  },
+  {
+    "Tags": "Apricots"
+  },
+  {
+    "Tags": "Rhubarb"
+  },
+  {
+    "Tags": "Strawberries"
   }
 ]

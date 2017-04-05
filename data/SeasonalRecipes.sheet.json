@@ -65,9 +65,8 @@
   {
     "Recipe Name": "Fried Asparagus With Meyer Lemon-Mustard Dipping Sauce",
     "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Fried-Asparagus-With-Meyer-Lemon-Mustard-10955216.php",
-    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=12430616",
     "Tags": "asparagus",
-    "PhotoID": 2430616,
+    "PhotoID": 12430616,
     "Photographer": "Sarah Fritsche, The Chronicle",
     "Season": "Spring"
   },
@@ -92,9 +91,8 @@
   {
     "Recipe Name": "Asparagus & Lemon Tempura",
     "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Asparagus-Lemon-Tempura-6105856.php",
-    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=12430616",
     "Tags": "asparagus",
-    "PhotoID": 2430616,
+    "PhotoID": 7564635,
     "Photographer": "Santiago Mejia, The Chronicle",
     "Season": "Spring"
   },
@@ -128,9 +126,8 @@
   {
     "Recipe Name": "Shihan Phool (Spicy Ethiopian Fava Beans)",
     "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Shihan-Phool-Spicy-Ethiopian-Fava-Beans-8378360.php",
-    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=10543762",
     "Tags": "favas",
-    "PhotoID": 543762,
+    "PhotoID": 10543762,
     "Photographer": "Michael Noble Jr., The Chronicle",
     "Season": "Spring"
   },
@@ -173,9 +170,8 @@
   {
     "Recipe Name": "Pasta Salad by Tosca Cafe’s Josh Even",
     "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Pasta-Salad-by-Tosca-Cafe-s-Josh-Even-8342023.php",
-    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=10145538",
     "Tags": "peas",
-    "PhotoID": 145538,
+    "PhotoID": 10145538,
     "Photographer": "Liz Hafalia, The Chronicle",
     "Season": "Spring"
   },
@@ -235,23 +231,23 @@
   },
   {
     "Recipe Name": "Roasted Honey Apricot Vanilla Shortbread Napoleon ",
-    "Link to Recipe": "//NEED TO REPUBLISH IN WCM//",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Emily-Luchetti-s-Roasted-Honey-Apricot-11050280.php",
     "Tags": "apricots",
-    "PhotoID": "",
+    "PhotoID": 4780045,
     "Photographer": "Craig Lee, Special To The Chronicle",
     "Season": "Spring"
   },
   {
     "Recipe Name": "Farro & Roasted Apricot Salad\n",
-    "Link to Recipe": "//NEED TO REPUBLISH IN WCM//",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Farro-Roasted-Apricot-Salad-11050268.php",
     "Tags": "apricots",
-    "PhotoID": "",
+    "PhotoID": 2045431,
     "Photographer": "Craig Lee, Special To The Chronicle",
     "Season": "Spring"
   },
   {
     "Recipe Name": "Orange Honey Apricot Refresher",
-    "Link to Recipe": "//NEED TO REPUBLISH IN WCM//",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Apricot-Orange-Honey-Refresher-11050248.php",
     "Tags": "apricots",
     "PhotoID": 1880003,
     "Photographer": "John Lee, Special To The Chronicle",
@@ -278,9 +274,8 @@
   {
     "Recipe Name": "Cherry Black Pepper Cake",
     "Link to Recipe": "http://www.sfchronicle.com/recipes/article/A-Brown-Kitchen-Cherry-Black-Pepper-Cake-8334983.php",
-    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=10494939",
     "Tags": "cherries",
-    "PhotoID": 494939,
+    "PhotoID": 10494939,
     "Photographer": "Nik Sharma, The Chronicle",
     "Season": "Spring"
   },
@@ -323,9 +318,8 @@
   {
     "Recipe Name": "Roasted Rhubarb, Green Cardamom and Rose Water Kulfi",
     "Link to Recipe": "http://www.sfchronicle.com/recipes/article/A-Brown-Kitchen-Rhubarb-and-cardamom-kulfi-11041900.php",
-    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=12608909",
     "Tags": "rhubarb",
-    "PhotoID": 2608909,
+    "PhotoID": 12608909,
     "Photographer": "Nik Sharma, The Chronicle",
     "Season": "Spring"
   },
@@ -350,9 +344,8 @@
   {
     "Recipe Name": "Strawberry Shiso Shrub",
     "Link to Recipe": "http://www.sfchronicle.com/food/article/A-Brown-Kitchen-Strawberry-Shrubs-9186974.php",
-    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=10833732",
     "Tags": "strawberries",
-    "PhotoID": 833732,
+    "PhotoID": 10833732,
     "Photographer": "Nik Sharma, The Chronicle",
     "Season": "Spring"
   },
@@ -376,7 +369,7 @@
   },
   {
     "Recipe Name": "Pietisserie's Strawberry-Rhubarb Pie In A Chocolate Crust",
-    "Link to Recipe": "http://www.sfchronicle.com/aboutsfgate/article/Recipe-PieTisserie-s-Strawberry-Rhubarb-Pie-in-a-11050149.php?t=88a09d80e5\n",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-PieTisserie-s-Strawberry-Rhubarb-Pie-in-a-11050149.php",
     "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=4711513",
     "Tags": "strawberries, rhubarb",
     "PhotoID": 4711513,

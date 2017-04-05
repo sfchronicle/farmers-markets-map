@@ -170,35 +170,6 @@ var feature = g.selectAll("circle")
 // show tooltip
 var tooltip = d3.select("div.tooltip-marketmap");
 
-// searchbar code
-$("#searchmap").bind("input propertychange", function () {
-  var filter = $(this).val().toLowerCase().replace(/ /g,'');
-  console.log(filter);
-  var class_match = 0;
-
-  $(".market-group").filter(function() {
-
-    var classes = this.className.split(" ");
-    for (var i=0; i< classes.length; i++) {
-
-      var current_class = classes[i].toLowerCase();
-
-      // if (classes[i] != "column" && classes[i] != "restaurant") {
-        if ( current_class.match(filter)) {
-          class_match = class_match + 1;
-        }
-      // }
-    }
-    if (class_match > 0) {
-      $(this).addClass("active");
-    } else {
-      $(this).removeClass("active");
-    }
-    class_match = 0;
-
-  });
-
-});
 
 // event listener for each brewery that highlights the brewery on the map and calls the function to fill in the info at the top
 var qsa = s => Array.prototype.slice.call(document.querySelectorAll(s));
@@ -245,76 +216,120 @@ qsa(".dot").forEach(function(group,index) {
   });
 });
 
+// --------------------------------------------------------------
+// MAP FUNCTIONALITY  -----------------------------------------
+// ----------------------------------------------------------------
 
-// controls for collapsing and expanding sections -----------------------------------
+// searchbar code
+$("#searchmap").bind("input propertychange", function () {
+  var filter = $(this).val().toLowerCase().replace(/ /g,'');
+  var class_match = 0;
 
-// var search_click = document.getElementById('scntl');
-// var search_cntl = document.getElementById('scaret');
-// var search_sec = document.getElementById('ssec');
-//
-// var paths_click = document.getElementById('pcntl');
-// var paths_cntl = document.getElementById('pcaret');
-// var paths_sec = document.getElementById('psec');
-// paths_sec.style.display = "none";
-//
-// search_click.addEventListener("click",function(){
-//   if (search_sec.style.display != "none") {
-//     search_sec.style.display = "none";
-//     search_cntl.classList.remove('fa-caret-down');
-//     search_cntl.classList.add('fa-caret-right');
-//     d3.selectAll(".leaflet-clickable").style("display", "none");
-//   } else {
-//     search_sec.style.display = "block";
-//     search_cntl.classList.remove('fa-caret-right');
-//     search_cntl.classList.add('fa-caret-down');
-//     paths_sec.style.display = "none";
-//     paths_cntl.classList.remove('fa-caret-down');
-//     paths_cntl.classList.add('fa-caret-right');
-//     d3.selectAll(".leaflet-clickable").style("display", "none");
-//   }
-// });
-//
-// paths_click.addEventListener("click",function(){
-//   if (paths_sec.style.display != "none") {
-//     paths_sec.style.display = "none";
-//     paths_cntl.classList.remove('fa-caret-down');
-//     paths_cntl.classList.add('fa-caret-right');
-//     d3.selectAll(".leaflet-clickable").style("display", "none");
-//   } else {
-//     paths_sec.style.display = "block";
-//     paths_cntl.classList.remove('fa-caret-right');
-//     paths_cntl.classList.add('fa-caret-down');
-//     search_sec.style.display = "none";
-//     search_cntl.classList.remove('fa-caret-down');
-//     search_cntl.classList.add('fa-caret-right');
-//     d3.selectAll(".leaflet-clickable").style("display", "block");
-//   }
-// });
+  $(".market-group").filter(function() {
 
-// buttons for brewery trails and list -----------------------------------------
-//
-var search_click = document.getElementById('list-button');
-// var search_sec = document.getElementById('ssec');
-//
-// var paths_click = document.getElementById('trails-button');
-// var paths_sec = document.getElementById('psec');
-//
+    var classes = this.className.split(" ");
+    for (var i=0; i< classes.length; i++) {
+
+      var current_class = classes[i].toLowerCase();
+      if ( current_class.match(filter)) {
+        class_match = class_match + 1;
+      }
+    }
+    if (class_match > 0) {
+      $(this).addClass("active");
+    } else {
+      $(this).removeClass("active");
+    }
+    class_match = 0;
+
+  });
+
+});
+
+var list_click = document.getElementById('list-button');
 var reset_click = document.getElementById("reset-button");
+var select_day = document.getElementById("select-day");
+var today_button = document.getElementById("opennow-button");
+
+today_button.addEventListener("click",function() {
+  list_click.classList.remove("selected");
+  today_button.classList.add("selected");
+  console.log(day);
+  var class_match = 0;
+  $(".market-group").filter(function() {
+    var filter = day.toLowerCase();
+    var classes = this.className.split(" ");
+    for (var i=0; i< classes.length; i++) {
+      var current_class = classes[i].toLowerCase();
+        if ( current_class.match(filter)) {
+          class_match = class_match + 1;
+        }
+    }
+    if (class_match > 0) {
+      $(this).addClass("active");
+    } else {
+      $(this).removeClass("active");
+    }
+    class_match = 0;
+  });
+})
+
+select_day.addEventListener("change",function(){
+  console.log("change");
+
+  // reset list search parameters
+  // reset_click.classList.remove("selected");
+  today_button.classList.remove("selected");
+
+  var class_match = 0;
+
+  console.log(select_day.value);
+
+  if (select_day.value != "all") {
+    list_click.classList.remove("selected");
+    $(".market-group").filter(function() {
+      var filter = select_day.value;
+      var classes = this.className.split(" ");
+      for (var i=0; i< classes.length; i++) {
+        var current_class = classes[i].toLowerCase();
+          if ( current_class.match(filter)) {
+            class_match = class_match + 1;
+          }
+      }
+      if (class_match > 0) {
+        $(this).addClass("active");
+      } else {
+        $(this).removeClass("active");
+      }
+      class_match = 0;
+    });
+  } else {
+    list_click.classList.add("selected");
+    $(".market-group").filter(function() {
+      $(this).addClass("active");
+    });
+  }
+});
 //
 // paths_sec.style.display = "none";
 //
-search_click.addEventListener("click",function(){
+list_click.addEventListener("click",function(){
   document.querySelector("#chosen-market").innerHTML = "";
   map.setView(new L.LatLng(sf_lat,sf_long),zoom_deg,{animate:true});
   // paths_click.classList.remove("selected");
-  search_click.classList.add("selected");
+  list_click.classList.add("selected");
   reset_click.classList.remove("selected");
   d3.selectAll(".dot").style("fill", dot_green);
   d3.selectAll(".dot").style("opacity", "0.8");
   d3.selectAll(".dot").style("stroke","#696969");
+
+  today_button.classList.remove("selected");
+  $(".market-group").filter(function() {
+    $(this).addClass("active");
+  });
   // search_sec.style.display = "block";
   // paths_sec.style.display = "none";
-  d3.selectAll(".leaflet-clickable").style("display", "none");
+  // d3.selectAll(".leaflet-clickable").style("display", "none");
 });
 //
 // paths_click.addEventListener("click",function(){
@@ -342,7 +357,7 @@ search_click.addEventListener("click",function(){
 // event listener for re-setting the map
 reset_click.addEventListener("click",function(e) {
   // paths_click.classList.remove("selected");
-  search_click.classList.remove("selected");
+  list_click.classList.remove("selected");
   document.querySelector("#chosen-market").innerHTML = "";
   d3.selectAll(".dot").style("fill", dot_green);
   d3.selectAll(".dot").style("opacity", "0.8");
