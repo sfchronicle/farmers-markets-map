@@ -28,6 +28,7 @@ $("#searchbar").bind("input propertychange", function () {
 
   });
 
+  // display text for empty search results
   if (count > 0) {
     document.getElementById('recipe-noresults').classList.add("hide");
   } else {

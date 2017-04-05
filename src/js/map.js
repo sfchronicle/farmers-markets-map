@@ -226,8 +226,20 @@ var today_button = document.getElementById("opennow-button");
 
 // searchbar code
 $("#searchmap").bind("input propertychange", function () {
+
   var filter = $(this).val().toLowerCase().replace(/ /g,'');
   var class_match = 0;
+  var count = 0;
+
+  select_day.selectedIndex = 0;
+
+  if (filter != "") {
+    list_click.classList.remove("selected");
+    today_button.classList.remove("selected");
+  } else {
+    list_click.classList.add("selected");
+    today_button.classList.remove("selected");
+  }
 
   $(".market-group").filter(function() {
 
@@ -241,12 +253,20 @@ $("#searchmap").bind("input propertychange", function () {
     }
     if (class_match > 0) {
       $(this).addClass("active");
+      count += 1;
     } else {
       $(this).removeClass("active");
     }
     class_match = 0;
 
   });
+
+  // display text for empty search results
+  if (count > 0) {
+    document.getElementById('map-noresults').classList.add("hide");
+  } else {
+    document.getElementById('map-noresults').classList.remove("hide");
+  }
 
 });
 
@@ -255,6 +275,9 @@ today_button.addEventListener("click",function() {
   // set buttons
   list_click.classList.remove("selected");
   today_button.classList.add("selected");
+  select_day.selectedIndex = 0;
+
+  var count = 0;
 
   // check matching days and months
   $(".market-group").filter(function() {
@@ -262,12 +285,22 @@ today_button.addEventListener("click",function() {
     var classes = this.className.split(" ");
     if ((classes.indexOf(month)>0) && (classes.indexOf(day)>0)) {
       $(this).addClass("active");
+      count += 1;
     } else if ((classes.indexOf("Year-round")>0) && (classes.indexOf(day)>0)) {
       $(this).addClass("active");
+      count += 1;
     } else {
       $(this).removeClass("active");
     }
   });
+
+  // display text for empty search results
+  if (count > 0) {
+    document.getElementById('map-noresults').classList.add("hide");
+  } else {
+    document.getElementById('map-noresults').classList.remove("hide");
+  }
+
 })
 
 // show day selected by dropdown
@@ -275,6 +308,8 @@ select_day.addEventListener("change",function(){
 
   // set buttons
   today_button.classList.remove("selected");
+
+  var count = 0;
 
   // only show markets that match the day / all days
   if (select_day.value != "all") {
@@ -286,6 +321,7 @@ select_day.addEventListener("change",function(){
       var classes = this.className.toLowerCase().split(" ");
       if (classes.indexOf(filter)>0) {
         $(this).addClass("active");
+        count += 1;
       } else {
         $(this).removeClass("active");
       }
@@ -296,8 +332,17 @@ select_day.addEventListener("change",function(){
     // show all markets
     $(".market-group").filter(function() {
       $(this).addClass("active");
+      count += 1;
     });
   }
+
+  // display text for empty search results
+  if (count > 0) {
+    document.getElementById('map-noresults').classList.add("hide");
+  } else {
+    document.getElementById('map-noresults').classList.remove("hide");
+  }
+
 });
 
 // show full list
@@ -307,6 +352,7 @@ list_click.addEventListener("click",function(){
   list_click.classList.add("selected");
   reset_click.classList.remove("selected");
   today_button.classList.remove("selected");
+  select_day.selectedIndex = 0;
 
   // reset map
   document.querySelector("#chosen-market").innerHTML = "";
@@ -319,6 +365,10 @@ list_click.addEventListener("click",function(){
   $(".market-group").filter(function() {
     $(this).addClass("active");
   });
+
+  // do not display text for empty results because all results are shown
+  document.getElementById('map-noresults').classList.add("hide");
+
 });
 
 // event listener for re-setting the map

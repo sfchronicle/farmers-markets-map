@@ -3,6 +3,15 @@
 @sea-blue: #879BBC;
 @dark-green: #377357;// #1E5A3E;//#005E21;
 
+.map-noresults {
+  font-style: italic;
+  // text-align: center;
+  padding-top: 40px;
+  &.hide {
+    display: none;
+  }
+}
+
 .byline {
   font-style: normal;
   text-align: center;
@@ -402,7 +411,7 @@ circle {
   position: absolute;
   top: 10px;
   right: 10px;
-  z-index: 100;
+  z-index: 98;
   background: rgba(255,255,255,1);
   &:hover {
     color: darken(@dark-green,15%);
