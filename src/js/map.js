@@ -2,8 +2,8 @@ require("./lib/social"); //Do not delete
 require("leaflet");
 var d3 = require('d3');
 
-var bright_green = "#377357";
-var dot_green = "#377357";//"red";
+var bright_green = "#319C6A";//"#377357";
+var dot_green = "#178250";//"#377357";//"red";
 
 (function() {
     var days = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
@@ -121,7 +121,7 @@ var feature = g.selectAll("circle")
     return 0.9;
   })
   .style("fill", function(d) {
-    return "#518D71";
+    return dot_green;
   })
   .style("stroke","#696969")
   .attr("r", function(d) {

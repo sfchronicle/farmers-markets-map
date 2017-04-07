@@ -23,7 +23,7 @@
       <div class="chatter">We have tested all these delicious recipes for you and they're perfect for summer. Go to your local Farmer's Market to find some fruits and vegetables and get cooking!</div>
       <div class="byline">By <a href="mailto:sfritsche@sfchronicle.com">Sarah Fritsche</div>
 
-      <div class="link-markets"><a href="https://google.com" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i>Find your local Farmer's Market</a></div>
+      <div class="link-markets"><a class="link-button" href="../map/index.html" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i>Find your local Farmer's Market</a></div>
     </div>
 
     <div class="filter-instructions">Click on the buttons below to see recipes or use the search box for other look-ups:</div>
@@ -50,7 +50,7 @@
 
     <div class="search-container">
       <span class="search">Search by keywords  </span>
-      <input class="input" id="searchbar" type="text" placeholder='Try "asparagus", "cherries" or "risotto" ...'>
+      <input class="input" id="searchbar" type="text" placeholder='Try "steak", "cherries" or "risotto" ...'>
     </div>
 
     <div class="recipe-noresults hide" id="recipe-noresults">No search results found. Try a different ingredient or keyword.</div>
@@ -59,14 +59,16 @@
       <% json.SeasonalRecipes.forEach(function(d){ %>
         <% if (d.PhotoID) { %>
           <div class="recipe-item active <%=[d.Tags].toString().toLowerCase().replace(',',' ')%> <%=[d['Recipe Name']]%>">
-            <a href="<%=d['Link to Recipe']%>" target="_blank"><img src="http://ww2.hdnux.com/photos/54/11/64/<%=d.PhotoID%>/3/premium_landscape.jpg"></img></a>
-            <div class="event"><%=d["Recipe Name"]%><a href="<%=d['Link to Recipe']%>" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i></a></div>
+            <a class="link-image" href="<%=d['Link to Recipe']%>" target="_blank">
+            <img src="http://ww2.hdnux.com/photos/54/11/64/<%=d.PhotoID%>/3/premium_landscape.jpg"></img>
+            <div class="event"><%=d["Recipe Name"]%><i class="fa fa-external-link" aria-hidden="true"></i></div>
             <% var array = [d.Tags].toString().split(','); %>
             <div class="tags">
               <% array.forEach(function(t){ %>
                 <div class="tag <%=t.toString().toLowerCase().replace(/\s/g,'')%>"><%=t%></div>
               <% }) %>
             </div>
+            </a>
           </div>
         <% } %>
       <% }); %>

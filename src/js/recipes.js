@@ -8,6 +8,14 @@ $("#searchbar").bind("input propertychange", function () {
   var class_match = 0;
   var count = 0;
 
+  var filter_list = document.getElementsByClassName("filter");
+  for (var i=0; i<filter_list.length; i++) {
+    filter_list[i].classList.remove("active");
+  };
+  if (filter == "") {
+    document.getElementById("showall").classList.add("active");
+  }
+
   $(".recipe-item").filter(function() {
 
     var classes = this.className.split(" ");
@@ -47,16 +55,16 @@ qsa(".filter").forEach(function(f,index) {
 
     // clicked on a filter level filter
     if (classes.indexOf("subfilter") == -1) {
-      // hide all subfilter containers to start
-      var subfilter_list = document.getElementsByClassName("sub-filter-container");
-      for (var i=0; i<subfilter_list.length; i++) {
-        subfilter_list[i].classList.remove("active");
-      };
-      // check for subfilters that we should display
-      var subfilter_container = document.getElementById("subfilter"+classes_ls[2]);
-      if (subfilter_container) {
-        subfilter_container.classList.add("active");
-      }
+      // hide all subfilter containers to start - ADD BACK IN LATER!!!
+      // var subfilter_list = document.getElementsByClassName("sub-filter-container");
+      // for (var i=0; i<subfilter_list.length; i++) {
+      //   subfilter_list[i].classList.remove("active");
+      // };
+      // // check for subfilters that we should display
+      // var subfilter_container = document.getElementById("subfilter"+classes_ls[2]);
+      // if (subfilter_container) {
+      //   subfilter_container.classList.add("active");
+      // }
 
       // add active class to chosen filter (if it is a subfilter, we don't need to hide stuff)
       var filter_list = document.getElementsByClassName("filter");
