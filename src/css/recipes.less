@@ -101,7 +101,7 @@ body {
   }
   margin: 20px auto;
   @media @mobile {
-    margin: 20px 10px;
+    margin: 20px 10px 5px 10px;
   }
 }
 
@@ -164,15 +164,17 @@ body {
   margin-top: 20px;
   margin-bottom: 30px;
   @media @mobile {
-    // margin-left: 10px;
+    text-align: center;
     margin-top: 20px;
-    // text-align: center;
   }
-  // text-align: center;
   .search {
     font-family: @med-graphics;
     font-size: 16px;
     margin-bottom: 5px;
+    @media @mobile {
+      display: inline-block;
+      margin-bottom: 0;
+    }
   }
   input {
     margin-left: 5px;
