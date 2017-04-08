@@ -65,7 +65,7 @@ function update() {
 // initialize map with center position and zoom levels
 var map = L.map("map", {
   minZoom: 6,
-  maxZoom: 15,
+  maxZoom: 16,
   zoomControl: false,
   dragging: true,
   // touchZoom: true

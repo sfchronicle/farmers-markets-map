@@ -23,35 +23,39 @@
       <div class="chatter">We have tested all these delicious recipes for you and they're perfect for spring. Go to your local Farmer's Market to find some fruits and vegetables and get cooking!</div>
       <div class="byline">By <a href="mailto:sfritsche@sfchronicle.com">Sarah Fritsche</div>
 
-      <div class="link-markets"><a class="link-button" href="../map/index.html" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i>Find your local Farmer's Market</a></div>
+      <div class="link-markets"><a class="link-button" href="../map/index.html" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i>Find your SF Farmer's Market</a></div>
     </div>
 
     <div class="filter-instructions">Click on the buttons below to see recipes or use the search box for other look-ups:</div>
-    <div class="filter-container">
-      <% json.IngredientTags.forEach(function(tt){ %>
-        <div class="filter topic <%=tt.Tags.toString().toLowerCase().replace(',','').replace(/\s/g,'')%>" id="<%=tt.Tags.toString().toLowerCase().replace(',','').replace(/\s/g,'')%>"><%=tt.Tags%></div>
-      <% }); %>
-      <div class="filter topic showall active" id="showall">View All</div>
-    </div>
+    <div id="stick-here"></div>
+    <div id="stick-me">
+      <div class="filter-container">
+        <% json.IngredientTags.forEach(function(tt){ %>
+          <div class="filter topic <%=tt.Tags.toString().toLowerCase().replace(',','').replace(/\s/g,'')%>" id="<%=tt.Tags.toString().toLowerCase().replace(',','').replace(/\s/g,'')%>"><%=tt.Tags%></div>
+        <% }); %>
+        <div class="filter topic showall active" id="showall">View All</div>
+      </div>
 
-    <% json.IngredientTags.forEach(function(ss){ %>
-      <% var array = [ss.Subtags].toString().split(','); %>
-      <% if (array != "") { %>
-        <div class="sub-filter-container" id="subfilter<%=ss.Tags.toString().toLowerCase().replace(',','').replace(/\s/g,'')%>">
-          <div class="sub-filter-instructions">Related topics:</div>
-            <div class="filter-container">
-              <% array.forEach(function(t){ %>
-                <div class="filter subfilter <%=t.toString().toLowerCase().replace(/\s/g,'')%>" id="<%=t.toString().toLowerCase().replace(/\s/g,'')%>"><%=t%></div>
-                <% }); %>
+      <% json.IngredientTags.forEach(function(ss){ %>
+        <% var array = [ss.Subtags].toString().split(','); %>
+        <% if (array != "") { %>
+          <div class="sub-filter-container" id="subfilter<%=ss.Tags.toString().toLowerCase().replace(',','').replace(/\s/g,'')%>">
+            <div class="sub-filter-instructions">Related topics:</div>
+              <div class="filter-container">
+                <% array.forEach(function(t){ %>
+                  <div class="filter subfilter <%=t.toString().toLowerCase().replace(/\s/g,'')%>" id="<%=t.toString().toLowerCase().replace(/\s/g,'')%>"><%=t%></div>
+                  <% }); %>
+              </div>
             </div>
-          </div>
-        <% } %>
-    <% }); %>
+          <% } %>
+      <% }); %>
 
-    <div class="search-container">
-      <span class="search">Search by keywords  </span>
-      <input class="input" id="searchbar" type="text" placeholder='Try "steak", "cherries" or "risotto" ...'>
+      <div class="search-container">
+        <span class="search">Search by keywords  </span>
+        <i class="fa fa-search" aria-hidden="true"></i><input class="input" id="searchbar" type="text" placeholder='Try "steak", "cherries" or "risotto" ...'>
+      </div>
     </div>
+    <div id="stick-ph"></div>
 
     <div class="recipe-noresults hide" id="recipe-noresults">No search results found. Try a different ingredient or keyword.</div>
 
