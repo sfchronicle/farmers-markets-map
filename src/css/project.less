@@ -37,6 +37,9 @@
   a {
     text-decoration: underline;
   }
+  @media @mobile {
+    font-size: 15px;
+  }
 }
 
 .link-image {
@@ -152,13 +155,32 @@
     font-family: @med-graphics;
     font-size: 14px;
     background: white;//lighten(@light-gray,5%);
-    padding: 10px;
+    padding: 5px 10px;
     @media @mobile {
       padding: 5px 10px;
     }
   }
   // padding-bottom: 20px;
   // text-align: center;
+}
+
+.drop-down {
+  position: relative;
+}
+
+.drop-down:after {
+    // content:"▼";
+    content: "\25BE";//&#129171;
+    // padding: 12px 8px;
+    font-size: 20px;
+    position: absolute; right: 10px; top: 0px;
+    z-index: 1;
+    text-align: center;
+    width: 10%;
+    height: 80%;
+    pointer-events: none;
+    box-sizing: border-box;
+    color: @dark-gray;
 }
 
 .cntl {
@@ -238,7 +260,7 @@
         font-family: @med-graphics;
         font-size: 18px;
         text-align: center;
-        border-radius: 1px @dark-gray solid;
+        border: 1px @dark-gray solid;
         .address {
           font-family: @block-graphics;
           font-style: italic;
@@ -411,27 +433,34 @@ circle {
 .banner-img {
   width: 20%;
   float: left;
-  padding-top: 40px;
+  // padding-top: 40px;
   img {
     display: block;
-    max-width: 200px;
-    width: 90%;
-    margin: auto;
-    padding-top: 30px;
-    @media @mobile {
+    max-width: 300px;
+    width: 100%;
+    // width: 90%;
+    // margin: auto;
+    // padding-top: 30px;
+    @media @tablet {
+      max-width: 100%;
       height: 100%;
-      padding: 30px 0;
+      // width: 100%;
+      // padding: 30px 0;
     }
   }
   &.desktop {
-    @media @mobile {
+    @media @tablet {
       display: none;
     }
   }
   &.mobile {
     display: none;
-    @media @mobile {
+    @media @tablet {
+      // width: 100%:
       display: block;
+      max-width: 100%;
+      width: 100%;
+      padding-bottom: 20px;
     }
   }
 }
@@ -440,8 +469,12 @@ circle {
   padding: 40px 0 20px 0;
   width: 60%;
   float: left;
-  @media @mobile {
+  @media @tablet {
     width: 100%;
+    text-align: center;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 5px;
   }
 }
 

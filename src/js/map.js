@@ -126,7 +126,7 @@ var feature = g.selectAll("circle")
   .style("stroke","#696969")
   .attr("r", function(d) {
     if (screen.width <= 480) {
-      return 8;
+      return 10;
     } else {
       return 12;
     }

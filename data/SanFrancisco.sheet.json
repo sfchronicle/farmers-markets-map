@@ -1,8 +1,8 @@
 [
   {
     "Region": "San Francisco",
-    "Name": "Ferry Plaza Farmers Market",
-    "Address": "Ferry Building, 1 Ferry Building, San Francisco, CA  94111",
+    "Name": "Ferry Plaza Farmers' Market",
+    "Address": "1 Ferry Building, San Francisco, CA 94111",
     "Lat": 37.795274,
     "Lng": "-122.393421",
     "Website": "http://www.cuesa.org/",
@@ -10,7 +10,7 @@
     "Hours": "Saturday, 8 a.m.-2 p.m.; Tuesdays & Thursdays, 10 a.m.-2 p.m.",
     "Days": "Saturday Tuesday Thursday",
     "Size": "Large",
-    "Special features": "Fresh produce; prepared foods; view of the Bay. CUESA offers free cooking demonstrations, seasonal celebrations and other presentations. A free veggie valet service is available during market hours to store your market purchases. ",
+    "Special features": "Fresh produce; prepared foods; view of the Bay; free cooking demonstrations and other events. A free veggie valet service is available during market hours to store your market purchases. ",
     "Notes": "Run by CUESA",
     "CQ'd": "YES",
     "FILE ART?": "Lots to choose from in Merlin"
@@ -18,7 +18,7 @@
   {
     "Region": "San Francisco",
     "Name": "San Francisco Farmers' Market at Crocker Galleria",
-    "Address": "Crocker Galleria, 50 Post St, San Francisco, CA 94104",
+    "Address": "50 Post St., San Francisco, CA 94104",
     "Lat": 37.7895344,
     "Lng": "-122.4030516",
     "Website": "http://www.cafarmersmkts.com/san-francisco-farmers-market-at-crocker-galleria/",
@@ -34,7 +34,7 @@
   {
     "Region": "San Francisco",
     "Name": "Fort Mason Farmers' Market",
-    "Address": "Fort Mason Center, Marina Blvd, San Francisco, CA 94109",
+    "Address": "Fort Mason Center, San Francisco, CA 94109",
     "Lat": 37.8052746,
     "Lng": "-122.431931",
     "Website": "http://www.cafarmersmkts.com/fort-mason-center-farmers-market/",
@@ -42,7 +42,7 @@
     "Hours": "Sunday, 9:30 a.m.-1:30 p.m.",
     "Days": "Sunday",
     "Size": "Medium",
-    "Special features": "Fresh produce; prepared foods; views of the Bay and Golden Gate Bridge. ",
+    "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by California Farmers' Markets Association; 35 farmstands",
     "CQ'd": "YES",
     "FILE ART?": "??"
@@ -50,7 +50,7 @@
   {
     "Region": "San Francisco",
     "Name": "Inner Sunset Farmers' Market",
-    "Address": "1315 8th Avenue,San Francisco, CA,94122",
+    "Address": "1315 8th Ave., San Francisco, CA 94122",
     "Lat": 37.7637287,
     "Lng": "-122.4654274",
     "Website": "http://www.pcfma.org/",
@@ -65,7 +65,7 @@
   },
   {
     "Region": "San Francisco",
-    "Name": "Heart of the City Farmers Market",
+    "Name": "Heart of the City Farmers' Market",
     "Address": "United Nations Plaza, San Francisco, CA 94102",
     "Lat": 37.7799923,
     "Lng": "-122.4137276",
@@ -81,8 +81,8 @@
   },
   {
     "Region": "San Francisco",
-    "Name": "Noe Valley Farmers Market",
-    "Address": "3861 24th St, San Francisco, CA 94114",
+    "Name": "Noe Valley Farmers' Market",
+    "Address": "3861 24th St., San Francisco, CA 94114",
     "Lat": 37.7514056,
     "Lng": "-122.4289997",
     "Website": "http://www.noevalleyfarmersmarket.com/",
@@ -97,7 +97,7 @@
   {
     "Region": "San Francisco",
     "Name": "Mission Bay Farmers' Market at UCSF",
-    "Address": "550 Gene Friend Way,San Francisco, CA,94158",
+    "Address": "550 Gene Friend Way, San Francisco, CA 94158",
     "Lat": 37.7691473,
     "Lng": "-122.3903861",
     "Website": "http://www.pcfma.org/",
@@ -113,7 +113,7 @@
   {
     "Region": "San Francisco",
     "Name": "Mission Community Market",
-    "Address": "84 Bartlett St, San Francisco, CA 94110",
+    "Address": "84 Bartlett St., San Francisco, CA 94110",
     "Lat": 37.7556763,
     "Lng": "-122.4196007",
     "Website": "http://missioncommunitymarket.org/",
@@ -122,14 +122,14 @@
     "Hours": "Thursday, 4-8 p.m.",
     "Days": "Thursday",
     "Size": "Small",
-    "Special features": "Fresh produce; prepared foods; newly opened \"La Placita\" public space at the market features murals and partially covered shopping area.",
+    "Special features": "Fresh produce; prepared foods. Newly opened \"La Placita\" public space at the market features murals and partially covered shopping area.",
     "CQ'd": "YES",
     "FILE ART?": "https://hearst.merlinone.net/MX/Profiles/en/default/#/main/single/669adfba-2e1e-4efa-8534-0f58cc1e1679 ; https://hearst.merlinone.net/MX/Profiles/en/default/#/main/single/669adfba-2e1e-4efa-8534-0f58cc1e1679 "
   },
   {
     "Region": "San Francisco",
-    "Name": "Stonestown Farmers Market",
-    "Address": " 3251 20th Ave, San Francisco, CA 94132",
+    "Name": "Stonestown Farmers' Market",
+    "Address": "3251 20th Ave., San Francisco, CA 94132",
     "Lat": 37.7278703,
     "Lng": "-122.4770819",
     "Website": "https://www.agriculturalinstitute.org/directory/listing-details/stonestown-market",
@@ -137,7 +137,7 @@
     "Hours": "Sunday, 9 a.m.-1 p.m.",
     "Days": "Sunday",
     "Size": "Large",
-    "Special features": "Fresh produce; prepared foods; plentiful parking at Stonestown Mall.",
+    "Special features": "Fresh produce; prepared foods. Plentiful parking at Stonestown Mall.",
     "Notes": "Run by Agricultural Institute of Marin; 65+ vendors",
     "CQ'd": "YES",
     "FILE ART?": "https://hearst.merlinone.net/MX/Profiles/en/default/#/main/single/5aff681c-d018-4aac-9f73-8b3a7bec87dc ; https://hearst.merlinone.net/MX/Profiles/en/default/#/main/single/5aff681c-d018-4aac-9f73-8b3a7bec87dc"
@@ -145,7 +145,7 @@
   {
     "Region": "San Francisco",
     "Name": "Fillmore Farmers' Market",
-    "Address": "1730 O'Farrell St,San Francisco, CA,94115",
+    "Address": "1730 O'Farrell St., San Francisco, CA 94115",
     "Lat": 37.783649,
     "Lng": "-122.433157",
     "Website": "http://www.pcfma.org/",
@@ -153,15 +153,15 @@
     "Hours": "Saturday, 9 a.m.-1 p.m.",
     "Days": "Saturday",
     "Size": "Small",
-    "Special features": "Fresh produce; prepared foods",
+    "Special features": "Fresh produce; prepared foods. Live jazz every weekend in conjunction with the Fillmore Center",
     "Notes": "Run by PCFMA",
     "CQ'd": "YES",
     "FILE ART?": "No"
   },
   {
     "Region": "San Francisco",
-    "Name": "SFSU Farmer's Market",
-    "Address": "San Francisco State University, 1600 Holloway Ave, San Francisco, CA 94132",
+    "Name": "SFSU Farmers' Market",
+    "Address": "1600 Holloway Ave., San Francisco, CA 94132",
     "Lat": 37.721897,
     "Lng": "-122.4782094",
     "Website": "http://asisfsu.com/asi/farmer_market/",
@@ -169,14 +169,14 @@
     "Hours": "Thursday, 10 a.m.-3 p.m.",
     "Days": "Thursday",
     "Size": "Small",
-    "Special features": "Fresh produce; prepared foods; located in front of the Humanities Building on the San Francisco State University campus.",
+    "Special features": "Fresh produce; prepared foods. Located in front of the Humanities Building on the San Francisco State campus.",
     "CQ'd": "YES",
     "FILE ART?": "No"
   },
   {
     "Region": "San Francisco",
     "Name": "Alemany Farmer's Market",
-    "Address": "100 Alemany Blvd, San Francisco, CA 94110",
+    "Address": "100 Alemany Blvd., San Francisco, CA 94110",
     "Lat": 37.7357188,
     "Lng": "-122.4099429",
     "Website": "http://sfgov.org/realestate/alemany-farmers-market",
@@ -184,15 +184,15 @@
     "Hours": "Saturday, 6 a.m.-2:30 p.m.",
     "Days": "Saturday",
     "Size": "Large",
-    "Special features": "Fresh produce; prepared foods; founded in 1943, Alemany was the first farmers' market in California; It's also the only city-run farmers’ market in San Francisco.",
+    "Special features": "Fresh produce; prepared foods. Founded in 1943, Alemany was the first farmers' market in California; It's also the only city-run farmers’ market in San Francisco.",
     "Notes": "It is the only City-run farmers’ market in San Francisco.",
     "CQ'd": "YES",
     "FILE ART?": "Lots to choose from"
   },
   {
     "Region": "San Francisco",
-    "Name": "Clement Street Farmers Market",
-    "Address": " 200 Clement Street, San Francisco, CA 94118,",
+    "Name": "Clement Street Farmers' Market",
+    "Address": "200 Clement St., San Francisco, CA 94118,",
     "Lat": 37.7832733,
     "Lng": "-122.4614084",
     "Website": "https://www.agriculturalinstitute.org/directory/listing-details/clement-st",
@@ -208,7 +208,7 @@
   {
     "Region": "San Francisco",
     "Name": "Castro Farmers' Market",
-    "Address": "288 Noe St., San Francisco, CA  94414",
+    "Address": "288 Noe St., San Francisco, CA 94414",
     "Lat": 37.7645065,
     "Lng": "-122.433426",
     "Website": "http://www.pcfma.org/",
@@ -217,7 +217,7 @@
     "Hours": "Wednesday, 4-7 p.m.",
     "Days": "Wednesday",
     "Size": "Medium",
-    "Special features": "Fresh produce; prepared foods",
+    "Special features": "Fresh produce; prepared foods; live music",
     "Notes": "Run by PCFMA; 22 producers with more to come in May-- 8 non ag",
     "CQ'd": "YES",
     "FILE ART?": "No"
@@ -225,7 +225,7 @@
   {
     "Region": "San Francisco",
     "Name": "Divisadero Farmers' Market",
-    "Address": "700 Divisadero St,San Francisco, CA,94117",
+    "Address": "700 Divisadero St., San Francisco, CA 94117",
     "Lat": 37.7759529,
     "Lng": "-122.4379591",
     "Website": "http://www.pcfma.org/",
@@ -241,7 +241,7 @@
   {
     "Region": "San Francisco",
     "Name": "V.A. San Francisco Farmers' Market",
-    "Address": "212 Veterans Dr., San Francisco, CA  94121",
+    "Address": "212 Veterans Dr., San Francisco, CA 94121",
     "Lat": 37.7815687,
     "Lng": "-122.5036785",
     "Website": "http://www.pcfma.org/",
@@ -257,7 +257,7 @@
   {
     "Region": "San Francisco",
     "Name": "Kaiser San Francisco Farmers' Market",
-    "Address": "2425 Geary Boulevard, San Francisco, CA  94115",
+    "Address": "2425 Geary Blvd., San Francisco, CA 94115",
     "Lat": 37.7823277,
     "Lng": "-122.4432896",
     "Website": "http://www.pcfma.org/",
@@ -265,15 +265,15 @@
     "Hours": "Wednesday, 10 a.m.-2 p.m.",
     "Days": "Wednesday",
     "Size": "Small",
-    "Special features": "Fresh produce; prepared foods; Due to construction, the market is temporarily closed and scheduled to reopen May 10th; Check the website for updates.",
+    "Special features": "Fresh produce; prepared foods. (Note: Due to construction, the market is temporarily closed and scheduled to reopen May 10. Check website for updates.)",
     "Notes": "Run by PCFMA",
     "CQ'd": "YES",
     "FILE ART?": "No"
   },
   {
     "Region": "San Francisco",
-    "Name": "UCSF Parnassus Farmers Market",
-    "Address": "505 Parnassus Ave\nSan Francisco, CA 94122",
+    "Name": "UCSF Parnassus Farmers' Market",
+    "Address": "505 Parnassus Ave., San Francisco, CA 94122",
     "Lat": 37.763453,
     "Lng": "-122.4579864",
     "Website": "https://campuslifeservices.ucsf.edu/retail/services/dine/farmers_market",
@@ -281,7 +281,7 @@
     "Hours": "Wednesday, 10 a.m.-3 p.m.",
     "Days": "Wednesday",
     "Size": "Small",
-    "Special features": "Fresh produce; prepared foods",
+    "Special features": "Fresh produce; farmer operated",
     "Notes": "Run by PCFMA",
     "CQ'd": "YES",
     "FILE ART?": "No"
