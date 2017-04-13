@@ -5,7 +5,6 @@ var filter = document.getElementsByClassName('filter');
 // sticky nav on mobile -------------------------------------------------------
 
 if (screen.width <= 480) {
-  console.log("are we getting here");
   window.onscroll = function() {activate()};
 }
 
@@ -75,6 +74,8 @@ $("#searchbar").bind("input propertychange", function () {
 var qsa = s => Array.prototype.slice.call(document.querySelectorAll(s));
 qsa(".filter").forEach(function(f,index) {
   f.addEventListener("click", function(e) {
+
+    document.getElementById('recipe-noresults').classList.add("hide");
 
     if (screen.width <= 480) {
       // animated top scrolling
