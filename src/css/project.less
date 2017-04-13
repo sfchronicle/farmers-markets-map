@@ -130,7 +130,7 @@ body {
 .hed {
   font-size: 30px;
   color: @dark-green;
-  font-family: @boldest-graphics;
+  font-family: @bold-graphics;
   padding-top: 20px;
   padding-bottom: 10px;
   @media @tablet {
@@ -320,6 +320,10 @@ body {
 
 .chatter {
   max-width: 900px;
+  @media @tablet {
+    margin-top: 0;
+    padding: 0 20px;
+  }
   @media @mobile {
     padding: 10px;
     padding-top: 0;
