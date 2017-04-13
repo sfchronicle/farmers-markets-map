@@ -128,13 +128,29 @@ body {
 }
 
 .hed {
-  font-size: 30px;
+  font-size: 35px;
   color: @dark-green;
-  font-family: @med-graphics;
+  font-family: @boldest-graphics;
+  padding-top: 30px;
+  padding-bottom: 10px;
   @media @tablet {
+    padding: 10px 0;
     font-size: 25px;
   }
   font-weight: normal;
+  &.desktop {
+    @media @tablet {
+      display: none;
+    }
+  }
+  &.mobile {
+    padding: 0;
+    margin: 0 auto;
+    display: none;
+    @media @tablet {
+      display: block;
+    }
+  }
   // word-spacing: 0.1em;
   // @media @mobile {
   //   font-size: 18px;
@@ -327,7 +343,8 @@ body {
   max-width: 900px;
   // padding-bottom: 20px;
   @media @mobile {
-    padding: 10px 15px;
+    padding: 10px;
+    padding-top: 0;
   }
 }
 
@@ -465,12 +482,15 @@ circle {
 // }
 
 .banner-img {
-  width: 20%;
-  float: left;
+  // width: 20%;
+  // float: left;
   // padding-top: 40px;
+  width: 100%;
   img {
+    margin: auto;
     display: block;
-    max-width: 300px;
+    max-width: 600px;
+    // max-width: 300px;
     width: 100%;
     // width: 90%;
     // margin: auto;
@@ -500,11 +520,13 @@ circle {
 }
 
 .banner-content {
-  padding: 40px 0 20px 0;
-  width: 60%;
-  float: left;
+  padding: 10px 20px 0 20px;
+  margin: auto;
+  // width: 60%;
+  // float: left;
   @media @tablet {
     width: 100%;
+    padding: 0;
     text-align: center;
     margin: auto;
     padding-top: 10px;
