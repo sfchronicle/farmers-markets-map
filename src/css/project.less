@@ -4,6 +4,10 @@
 @dark-green: #178250;
 // @dark-green: #33B076;// #377357;// #1E5A3E;//#005E21;
 
+body {
+    font-weight: normal;
+}
+
 .dont-miss-head {
   text-align: left;
   font-family: @med-graphics;
@@ -130,6 +134,8 @@
   @media @tablet {
     font-size: 25px;
   }
+  font-weight: normal;
+  // word-spacing: 0.1em;
   // @media @mobile {
   //   font-size: 18px;
   //   width: 60%;
@@ -159,6 +165,7 @@
     @media @mobile {
       padding: 5px 10px;
     }
+    border-radius: 0;
   }
   // padding-bottom: 20px;
   // text-align: center;
@@ -168,20 +175,20 @@
   position: relative;
 }
 
-.drop-down:after {
-    // content:"▼";
-    content: "\25BE";//&#129171;
-    // padding: 12px 8px;
-    font-size: 20px;
-    position: absolute; right: 10px; top: 0px;
-    z-index: 1;
-    text-align: center;
-    width: 10%;
-    height: 80%;
-    pointer-events: none;
-    box-sizing: border-box;
-    color: @dark-gray;
-}
+// .drop-down:after {
+//     // content:"▼";
+//     content: "\25BE";//&#129171;
+//     // padding: 12px 8px;
+//     font-size: 20px;
+//     position: absolute; right: 5px; top: 0px;
+//     z-index: 1;
+//     text-align: center;
+//     width: 10%;
+//     height: 80%;
+//     pointer-events: none;
+//     box-sizing: border-box;
+//     color: @dark-gray;
+// }
 
 .cntl {
   font-family: @med-graphics;
@@ -230,6 +237,18 @@
       opacity: 0.8;
       font-size: 16px;
       padding: 20px;
+      .address {
+        font-family: @med-graphics;
+        font-style: italic;
+        padding-top: 5px;
+        .fa {
+          padding-left: 10px;
+          font-size: 16px;
+        }
+        @media @mobile {
+          font-size: 14px;
+        }
+      }
       .bold {
         font-family: @med-graphics;
         border-bottom: 1px solid @dark-gray;
@@ -262,13 +281,17 @@
         text-align: center;
         border: 1px @dark-gray solid;
         .address {
-          font-family: @block-graphics;
+          font-family: @med-graphics;
           font-style: italic;
           padding-bottom: 3px;
           font-size: 16px;
+          padding-top: 5px;
           &.small {
             font-size: 14px;
             padding-top: 5px;
+          }
+          .fa {
+            padding-left: 10px;
           }
         }
         .blurb {
@@ -375,12 +398,23 @@ circle {
     padding-bottom: 3px;
     font-size: 14px;
     color: @dark-gray;
+    font-family: @med-graphics;
+    @media @mobile {
+      padding-top: 5px;
+    }
+    .fa {
+      padding-left: 10px;
+      font-size: 16px;
+      @media @mobile {
+        padding-left: 5px;
+      }
+    }
   }
   .clickme {
     font-family: @bold-graphics;
     padding-top: 5px;
     font-size: 14px;
-    color: darken(@gray-blue,10%);
+    color: darken(@dark-green,5%);
     cursor: pointer;
   }
   &.active {

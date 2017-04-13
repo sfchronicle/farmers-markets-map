@@ -20,7 +20,7 @@
     <%= t.include("partials/_nav_map.html") %>
 
     <div class="hed-wrapper">
-      <div class="banner-img left desktop"><img src="../assets/graphics/flourishes_1.gif"></img></div>
+      <div class="banner-img left desktop"><img src="../assets/graphics/flourishes_0.gif"></img></div>
       <div class="banner-content">
         <div class="title-mobile">
           <div class="banner-img mobile"><img src="../assets/graphics/banner.gif"></img></div>
@@ -49,7 +49,7 @@
         <div id="ssec">
           <div class="cntl" id="scntl">List of Markets</div>
           <div class="controls-container">
-            <div class="search-container">
+            <div class="search-container map">
               <span class="search">Search by market or day  </span>
               <input class="input" id="searchmap" type="text" placeholder='Try "Mission" or "Sunday" ...'></input>
             </div>
@@ -70,7 +70,7 @@
             </div>
             <div class="button-container side">
               <div class="button" id="opennow-button">Open Today</div>
-              <div class="button selected" id="list-button">Complete List</div>
+              <div class="button selected" id="list-button">View All</div>
             </div>
           </div>
 
@@ -81,13 +81,14 @@
 
               <% json.SanFrancisco.forEach(function(d){ %>
                 <% var strMarket = d.Name.toLowerCase().replace(/ /g,'').replace(/'/g,'').replace(/\./g,'') %>
+                <% var strAddress = d.Address.toLowerCase().replace(/ /g,'').replace(/'/g,'').replace(/\./g,'') %>
                 <% var strRegion = d.Region; %>
-                <div class="market-group <%=strMarket%> <%=d.Days %> <%=d.Season%> <%=d.Months%> active">
+                <div class="market-group <%=strMarket%> <%=d.Days %> <%=d.Season%> <%=d.Months%> <%=strAddress%> active">
                   <div class="name"><%=d.Name%>  <a href="<%=d.Website%>" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i></a></div>
                   <div class="season"><span class="bold">Season: </span><%=d.Season%></div>
                   <div class="hours"><span class="bold">Hours: </span><%=d.Hours%></div>
                   <div class="features"><span class="bold">Special features: </span><%=d["Special features"]%></div>
-                  <div class="address"><%=d.Address%></div>
+                  <div class="address"><a  class="google-link" href="https://www.google.com/maps/place/<%=d.Address%>" target="_blank"><%=d.Address%><i class="fa fa-map-marker" aria-hidden="true"></i></a></div>
                   <div class="clickme market<%=strMarket%>"><i class="fa fa-hand-o-right" aria-hidden="true"></i>  Click here to find me on the map.</div>
                 </div>
               <% }); %>

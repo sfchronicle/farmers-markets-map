@@ -46,7 +46,7 @@ function tooltip_function (d) {
 
 // put info for highlighted brewery at the top
 function fill_info(data){
-  var html = "<div class='name bold'>"+data.Name+"<a href="+data.Website+" target='_blank'><i class='fa fa-external-link' aria-hidden='true'></i></a></div><div class='season'>"+data.Season+"</div><div class='hours'>"+data.Hours+"</div><div class='address'>"+data.Address+"</div>";
+  var html = "<div class='name bold'>"+data.Name+"<a href="+data.Website+" target='_blank'><i class='fa fa-external-link' aria-hidden='true'></i></a></div><div class='season'>"+data.Season+"</div><div class='hours'>"+data.Hours+"</div><div class='address'><a  class='google-link' href='https://www.google.com/maps/place/"+data.Address+"' target='_blank'>"+data.Address+"<i class='fa fa-map-marker' aria-hidden='true'></i></a></div>";
   return html;
 }
 

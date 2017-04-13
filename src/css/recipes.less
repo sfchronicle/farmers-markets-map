@@ -25,6 +25,7 @@ body {
     z-index: 99;
     left: 0;
     top: 36px;
+    padding-bottom: 5px;
     // font-size: 10px;
     background: @white;
     opacity: 0.99;
@@ -208,12 +209,16 @@ body {
 
 .search-container {
   &.recipes {
+    text-align: center;
     .search {
       @media @mobile {
         display: none;
         margin-bottom: 0;
       }
     }
+  }
+  &.map {
+    text-align: left;
   }
   @media @mobile {
     margin: auto;
@@ -226,7 +231,7 @@ body {
   font-family: @block-graphics;
   margin-top: 20px;
   margin-bottom: 30px;
-  text-align: left;
+  // text-align: left;
   @media @mobile {
     // text-align: center;
     margin: 10px 0 20px 0;
@@ -243,7 +248,7 @@ body {
   }
   input {
     margin-left: 5px;
-    border-radius: 5px;
+    // border-radius: 5px;
     border: 1px solid @dark-gray;
     font-family: @block-graphics;
     padding: 5px;
