@@ -524,7 +524,7 @@ header {
   // padding-top: 30px;
   .display-flex;
   .flex-wrap(wrap);
-  margin-bottom: 20px;
+  margin-bottom: 40px;
   font-size: 17px;
   font-family: @block-graphics;
   @media @mobile {
@@ -612,5 +612,62 @@ footer {
   @media @mobile {
     margin-bottom: 0;
     padding: 10px 20px;
+  }
+}
+
+// footer styles ---------------------------------------------------------------------
+
+footer {
+  margin-top: 30px;
+  .footer-content{
+    max-width: 1200px;
+    margin: auto;
+  }
+  .logo {
+    width: 100%;
+    padding: 20px;
+  }
+  padding-bottom: 50px;
+  a {
+    color: @light-gray !important;
+    &:hover {
+      color: white !important;
+    }
+  }
+  .fa {
+    font-size: 20px;
+    color: @light-gray !important;
+    &:hover {
+      color: white !important;
+    }
+  }
+
+  h3 {
+    width: 100%;
+    border-bottom: 1px solid @dark-gray;
+  }
+
+  ul {
+    padding: 0;
+  }
+
+  .top-list {
+    width: 100%;
+  }
+
+  .hcsf_links {
+    width: 100%;
+
+    li {
+      max-width: 100%;
+      list-style-type: none;
+      float: left;
+      padding: 0 20px;
+      @media @mobile {
+        padding: 0 15px;
+      }
+    }
+    color: white;
+    font-size: 10px;
   }
 }
