@@ -1,4 +1,5 @@
 @sea-blue: #879BBC;
+@brown: lighten(#9E7558,10%);
 // @dark-green: "#178250";//#319C6A;// #377357;// #1E5A3E;//#005E21;
 
 body {
@@ -165,7 +166,8 @@ body {
   font-size: 16px;
   .flex(0 0 30%);
   margin: 1.5%;
-  background: lighten(@light-gray,10%);
+  border: 2px solid @brown;
+  background: lighten(@light-gray,12%);
   padding: 30px;
   img {
     width: 100%;
@@ -183,6 +185,7 @@ body {
     font-size: 16px;
     padding-bottom: 5px;
     padding-top: 5px;
+    text-align: left;
   }
   .tag {
     margin: 4px;
@@ -281,6 +284,6 @@ body {
 }
 
 .controls-container {
-  background: lighten(#9E7558,10%);//darken(@lightest-gray,5%);
+  background: @brown;//darken(@lightest-gray,5%);
   padding: 10px 20px 10px 20px;
 }

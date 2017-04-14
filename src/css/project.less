@@ -422,6 +422,9 @@ circle {
     font-size: 14px;
     color: darken(@dark-green,5%);
     cursor: pointer;
+    &:hover {
+      color: darken(@dark-green,15%);
+    }
   }
   &.active {
     display: block;
@@ -521,4 +524,11 @@ circle {
     left: 25px;
     width: 100px;
   }
+}
+
+.google-link {
+    color: darken(@sea-blue,20%) !important;
+    &:hover {
+      color: darken(@sea-blue,30%) !important;
+    }
 }
