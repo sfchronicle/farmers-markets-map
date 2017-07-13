@@ -1,26 +1,10 @@
 [
   {
-    "Tags": "Artichokes"
+    "Tags": "Spring",
+    "Subtags": "Artichokes, Asparagus, Peas, Favas, Cherries, Apricots, Rhubarb, Strawberries"
   },
   {
-    "Tags": "Asparagus"
-  },
-  {
-    "Tags": "Peas"
-  },
-  {
-    "Tags": "Favas"
-  },
-  {
-    "Tags": "Cherries"
-  },
-  {
-    "Tags": "Apricots"
-  },
-  {
-    "Tags": "Rhubarb"
-  },
-  {
-    "Tags": "Strawberries"
+    "Tags": "Summer",
+    "Subtags": "Eggplant, Blueberries, Blackberries, Cucumbers, Summer Squash, Zucchini, Tomatoes, Corn, Plums, Nectarines, Peaches"
   }
 ]

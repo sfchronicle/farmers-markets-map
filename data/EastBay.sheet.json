@@ -8,7 +8,7 @@
     "Website": "http://ecologycenter.org/fm/",
     "Season": "Year-round",
     "Hours": "Thursday, 3-7 p.m.",
-    "Special features": "The Ecology Center Farmers’ Markets were the first in the country to eliminate all plastic bags and packaging from their weekly markets.",
+    "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by Ecology Center Farmers' Market",
     "confirmed": "CQ"
   },
@@ -21,7 +21,7 @@
     "Website": "http://ecologycenter.org/fm/",
     "Season": "Year-round",
     "Hours": "Saturday, 10 a.m.-3 p.m.",
-    "Special features": "The Ecology Center Farmers’ Markets were the first in the country to eliminate all plastic bags and packaging from their weekly markets.",
+    "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by Ecology Center Farmers' Market",
     "confirmed": "CQ"
   },
@@ -34,7 +34,7 @@
     "Website": "http://ecologycenter.org/fm/",
     "Season": "Year-round",
     "Hours": "Tuesday, 2-6:30 p.m.",
-    "Special features": "The Ecology Center Farmers’ Markets were the first in the country to eliminate all plastic bags and packaging from their weekly markets.",
+    "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by Ecology Center Farmers' Market",
     "confirmed": "CQ"
   },
@@ -47,6 +47,7 @@
     "Website": "http://uvfm.org/temescal-sunday/",
     "Season": "Year-round",
     "Hours": "Sunday, 9 a.m.-1 p.m.",
+    "Special features": "Knife sharpening every 4th Sunday of the month; fresh produce; prepared foods",
     "Notes": "Run by Urban Village Famers Market Association",
     "confirmed": "CQ"
   },
@@ -59,7 +60,7 @@
     "Website": "https://www.agriculturalinstitute.org/directory/listing-details/grand-lake-oakland",
     "Season": "Year-round",
     "Hours": "Saturday, 9 a.m.-2 p.m.",
-    "Special features": "70+ vendors",
+    "Special features": "70+ vendors; fresh produce; prepared foods",
     "Notes": "Run by Agricultural Institute of Marin",
     "confirmed": "CQ"
   },
@@ -72,6 +73,7 @@
     "Website": "http://www.pcfma.org/",
     "Season": "Year-round",
     "Hours": "Tuesday & Saturday, 9 a.m.-1 p.m.",
+    "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by PCFMA",
     "confirmed": "CQ"
   },
@@ -84,7 +86,7 @@
     "Website": "http://www.pcfma.org/",
     "Season": "Tuesday market is year-round; Thursday market is April-October",
     "Hours": "Tuesday, 10 a.m.-2 p.m.; Thursday, 4-8 p.m.",
-    "Special features": "Thursday market returns 4/20",
+    "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by PCFMA",
     "confirmed": "CQ"
   },
@@ -97,6 +99,7 @@
     "Website": "http://www.pcfma.org/",
     "Season": "Year-round",
     "Hours": "Saturday, 9 a.m.-1 p.m.",
+    "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by PCFMA",
     "confirmed": "CQ"
   },
@@ -109,8 +112,9 @@
     "Website": "http://www.cafarmersmkts.com/san-leandro-bayfair-farmers-market",
     "Season": "Year-round",
     "Hours": "Saturday, 9 a.m.-1 p.m.",
-    "Special features": "45+ vendors; established in 1994; accessible from Bayfair BART station",
-    "Notes": "Run by California Farmers' Markets Association"
+    "Special features": "45+ vendors selling fresh produce & prepared foods; accessible from Bayfair BART station",
+    "Notes": "Run by California Farmers' Markets Association",
+    "confirmed": "CQ"
   },
   {
     "Region": "East Bay",
@@ -121,7 +125,7 @@
     "Website": "http://www.pcfma.org/",
     "Season": "April-October",
     "Hours": "Wednesday, 4-8 p.m.",
-    "Special features": "Starts back up 4/5",
+    "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by PCFMA",
     "confirmed": "CQ"
   },
@@ -133,7 +137,8 @@
     "Lng": "-122.2777872",
     "Website": "http://www.cuesa.org/",
     "Season": "Year-round",
-    "Hours": "Sunday, 9 a.m.-2 p.m.",
+    "Hours": "Sunday, 10 a.m.-3 p.m.",
+    "Special features": "40+ vendors selling fresh & prepared foods",
     "Notes": "Run by CUESA",
     "confirmed": "CQ"
   },
@@ -146,6 +151,7 @@
     "Website": "http://uvfm.org/old-oakland-fridays/",
     "Season": "Year-round",
     "Hours": "Friday, 8 a.m.-2 p.m.",
+    "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by Urban Village Farmers Market Association",
     "confirmed": "CQ"
   },
@@ -158,6 +164,7 @@
     "Website": "http://www.phatbeetsproduce.org/",
     "Season": "Year-round",
     "Hours": "Saturday, 9:30 a.m.-2:30 p.m.",
+    "Special features": "Phat Beets is a food justice collective whose mission is to support small farmers and farmers of color by connecting them to urban communities such as North Oakland through farmers markets, produce stands and market gardens. In addition their farmers markets, they also have a community supported agriculture program (CSA). ",
     "Notes": "Run by Phat Beets. Phat Beets Produce is a food justice collective. The collective was started in North Oakland in 2007 as a guerrilla produce stand in a North Oakland park. As a collective, we strive to support social enterprise businesses and small & minority farmers.",
     "confirmed": "CQ - CDFA llst"
   },
@@ -169,7 +176,8 @@
     "Lng": "-122.2671455",
     "Website": "http://www.phatbeetsproduce.org/",
     "Season": "Year-round",
-    "Hours": "Tuesday, 2-6 p.m.",
+    "Hours": "Tuesday, 2-7 p.m.",
+    "Special features": "Phat Beets is a food justice collective whose mission is to support small farmers and farmers of color by connecting them to urban communities such as North Oakland through farmers markets, produce stands and market gardens. In addition their farmers markets, they also have a community supported agriculture program (CSA). ",
     "Notes": "Run by Phat Beets",
     "confirmed": "CQ - CDFA llst"
   },
@@ -180,11 +188,10 @@
     "Lat": 37.8388566,
     "Lng": "-122.2617897",
     "Website": "http://www.freedomfarmersmarket.com/",
-    "Season": "June-November; close first sat before thanksgiving; begin a CSA program during the off months ",
+    "Season": "July 22-December 16, 2017",
     "Hours": "Saturday, 10 a.m.-3 p.m.",
-    "Special features": "considering a relocation -- been challenged by sits in parking lot back from the street (hard to see) move closer to bart WILL CONFIRM NEXT WEEK; ",
-    "Notes": "Their mission is to bring traditional legacy foods from Black farmers and other Under-represented farmers to the Bay Area with the goal of making regionally Non GMO, fresh organic or pesticide \nfree produce and nutritional information accessible in areas devoid of supermarkets. http://www.farmstogrow.com/freedomfarmersmarket",
-    "confirmed": "em to follow-up 3/29"
+    "Special features": "The market specializes in carrying legacy foods grown by African American farmers.",
+    "confirmed": "CQ"
   },
   {
     "Region": "East Bay",
@@ -195,7 +202,7 @@
     "Website": "http://uvfm.org/castro-valley-saturdays/",
     "Season": "Year-round",
     "Hours": "Saturday 10 a.m.-2 p.m.",
-    "Special features": "At the Castro Valley BART Station.",
+    "Special features": "Fresh produce; prepared foods; located at the Castro Valley BART Station.",
     "Notes": "Run by Urban Village Farmers Market Association",
     "confirmed": "CQ"
   },
@@ -208,7 +215,7 @@
     "Website": "http://uvfm.org/montclair-village-sundays/",
     "Season": "Year-round",
     "Hours": "Sunday, 9 a.m.-1 p.m.",
-    "Special features": "Started in 2005; 40+ vendors",
+    "Special features": "40+ vendors selling fresh produce & prepared foods.",
     "Notes": "Run by Urban Village Farmers Market Association",
     "confirmed": "CQ"
   },
@@ -221,7 +228,7 @@
     "Website": "https://www.agriculturalinstitute.org/directory/listing-details/newark-market",
     "Season": "Year-round",
     "Hours": "Sunday, 9 a.m.-1 p.m.",
-    "Special features": "55+ vendors",
+    "Special features": "55+ vendors selling fresh produce & prepared foods.",
     "Notes": "Run by Agricultural Institute of Marin",
     "confirmed": "CQ"
   },
@@ -234,7 +241,7 @@
     "Website": "https://www.agriculturalinstitute.org/directory/listing-details/hayward-market",
     "Season": "Year-round",
     "Hours": "Saturday, 9 a.m.-1 p.m.",
-    "Special features": "35+ vendors",
+    "Special features": "35+ vendors selling fresh produce & prepared foods",
     "Notes": "Run by Agricultural Institute of Marin",
     "confirmed": "CQ"
   },
@@ -247,6 +254,7 @@
     "Website": "http://www.pcfma.org/",
     "Season": "Year-round",
     "Hours": "Sunday, 9 a.m.-2 p.m.",
+    "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by PCFMA",
     "confirmed": "CQ"
   },
@@ -258,7 +266,8 @@
     "Lng": "-121.7685416",
     "Website": "http://www.pcfma.org/",
     "Season": "Sunday market is year-round; Thursday market is April-October",
-    "Hours": "Sunday, 10 a.m.-2 p.m.; Thursday, 4-8 p.m.",
+    "Hours": "Sunday, 10:30 a.m.-2 p.m.; Thursday, 4-8 p.m.",
+    "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by PCFMA",
     "confirmed": "CQ"
   },
@@ -271,6 +280,7 @@
     "Website": "http://www.pcfma.org/",
     "Season": "Year-round",
     "Hours": "Saturday, 9 a.m.-1 p.m.",
+    "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by PCFMA",
     "confirmed": "CQ"
   },
@@ -283,7 +293,7 @@
     "Website": "http://www.cafarmersmkts.com/moraga-farmers-market",
     "Season": "Year-round",
     "Hours": "Sunday, 9 a.m.-1 p.m.",
-    "Special features": "40+ vendors",
+    "Special features": "40+ vendors selling fresh produce & prepared foods",
     "Notes": "Run by California Farmers' Markets Association",
     "confirmed": "CQ"
   },
@@ -296,6 +306,7 @@
     "Website": "http://www.pcfma.org/",
     "Season": "Year-round",
     "Hours": "Saturday, 9 a.m.-1 p.m.",
+    "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by PCFMA",
     "confirmed": "CQ"
   },
@@ -307,8 +318,8 @@
     "Lng": "-121.9346627",
     "Website": "http://www.pcfma.org/",
     "Season": "May-October",
-    "Hours": "Saturday, 8 a.m.-12 p.m.",
-    "Special features": "starts back up 5/13",
+    "Hours": "Saturday, 9 a.m.-1 p.m.",
+    "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by PCFMA",
     "confirmed": "CQ"
   },
@@ -321,20 +332,20 @@
     "Website": "http://www.cafarmersmkts.com/diablo-valley-farmers-market",
     "Season": "Year-round",
     "Hours": "Saturday, 9 a.m.-1 p.m.",
-    "Special features": "40+ vendors; located at the Shadelands Business Park",
+    "Special features": "40+ vendors selling fresh produce & prepared foods",
     "Notes": "Run by California Farmers' Markets Association",
     "confirmed": "CQ"
   },
   {
     "Region": "East Bay",
     "Name": "Pittsburgh Farmer's Market",
-    "Address": "600 Railroad Ave,Pittsburg, CA,94565",
+    "Address": "600 Railroad Ave., Pittsburg, CA,94565",
     "Lat": 38.0311892,
     "Lng": "-121.8838984",
     "Website": "http://www.pcfma.org/",
     "Season": "May-October",
     "Hours": "Saturday, 9 a.m.-1 p.m.",
-    "Special features": "Starts back up 5/6",
+    "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by PCFMA",
     "confirmed": "CQ"
   },
@@ -347,7 +358,7 @@
     "Website": "http://www.pcfma.org/",
     "Season": "March-November",
     "Hours": "Saturday, 8 a.m.-12 p.m.",
-    "Special features": "starts back up 3/4",
+    "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by PCFMA",
     "confirmed": "CQ"
   },
@@ -360,7 +371,7 @@
     "Website": "http://www.pcfma.org/",
     "Season": "April-September",
     "Hours": "Saturday, 3-7 p.m.",
-    "Special features": "starts back up 4/15",
+    "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by PCFMA",
     "confirmed": "CQ"
   },
@@ -373,7 +384,7 @@
     "Website": "http://www.pcfma.org/",
     "Season": "April-September",
     "Hours": "Thursday, 4-8 p.m.",
-    "Special features": "starts back up 4/13",
+    "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by PCFMA",
     "confirmed": "CQ"
   },
@@ -386,7 +397,7 @@
     "Website": "http://www.pcfma.org/",
     "Season": "May-October",
     "Hours": "Thursday, 10 a.m.-2 p.m.",
-    "Special features": "starts back 5/4",
+    "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by PCFMA",
     "confirmed": "CQ"
   },
@@ -399,6 +410,7 @@
     "Website": "http://www.pcfma.org/",
     "Season": "Year-round",
     "Hours": "Thursday, 10 a.m.-2 p.m.",
+    "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by PCFMA",
     "confirmed": "CQ"
   },
@@ -409,9 +421,9 @@
     "Lat": 37.8235195,
     "Lng": "-122.2582442",
     "Website": "http://www.pcfma.org/",
-    "Season": "April-October",
+    "Season": "May-October",
     "Hours": "Friday, 10 a.m.-2 p.m.",
-    "Special features": "starts back 4/7",
+    "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by PCFMA",
     "confirmed": "CQ"
   },
@@ -424,6 +436,7 @@
     "Website": "http://www.pcfma.org/",
     "Season": "Year-round",
     "Hours": "Wednesday, 10 a.m.-2 p.m.",
+    "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by PCFMA",
     "confirmed": "CQ"
   },
@@ -434,9 +447,9 @@
     "Lat": 37.6063676,
     "Lng": "-122.0835966",
     "Website": "http://www.pcfma.org/",
-    "Season": "April-October",
+    "Season": "April-November",
     "Hours": "Tuesday, 10 a.m.-2 p.m.",
-    "Special features": "starts back 4/12",
+    "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by PCFMA",
     "confirmed": "CQ"
   },
@@ -449,6 +462,7 @@
     "Website": "http://www.pcfma.org/",
     "Season": "Year-round",
     "Hours": "Tuesday, 10 a.m.-2 p.m.",
+    "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by PCFMA",
     "confirmed": "CQ"
   },
@@ -461,6 +475,7 @@
     "Website": "http://www.pcfma.org/",
     "Season": "Year-round",
     "Hours": "Sunday, 10 a.m.-2 p.m.",
+    "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by PCFMA",
     "confirmed": "CQ"
   },
@@ -472,8 +487,8 @@
     "Lng": "-122.0622744",
     "Website": "http://www.pcfma.org/",
     "Season": "May-October",
-    "Hours": "Saturday, 10 a.m.-2 p.m.",
-    "Special features": "starts back up 5/6",
+    "Hours": "Saturday, 9 a.m.-1 p.m.",
+    "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by PCFMA",
     "confirmed": "CQ"
   },
@@ -486,6 +501,7 @@
     "Website": "http://www.pcfma.org/",
     "Season": "Year-round",
     "Hours": "Saturday, 9 a.m.-1 p.m.",
+    "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by PCFMA",
     "confirmed": "CQ"
   },
@@ -496,9 +512,9 @@
     "Lat": 37.8099758,
     "Lng": "-122.2641173",
     "Website": "http://www.pcfma.org/",
-    "Season": "April-November",
-    "Hours": "Wednesday, 10 a.m.-2 p.m.",
-    "Special features": "Starts back up 4/12.",
+    "Season": "May-November",
+    "Hours": "Wednesday, 10 a.m.-1:30 p.m.",
+    "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by PCFMA",
     "confirmed": "CQ"
   },
@@ -511,6 +527,7 @@
     "Website": "http://www.cccfm.org",
     "Season": "Year-round",
     "Hours": "Sunday, 9 a.m.-1 p.m.",
+    "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by Contra Costa Certified Farmers' Markets",
     "confirmed": "CQ"
   },
@@ -523,6 +540,7 @@
     "Website": "http://www.cccfm.org",
     "Season": "April-November",
     "Hours": "Saturdays, 9 a.m.-1 p.m.",
+    "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by Contra Costa Certified Farmers' Markets",
     "confirmed": "CQ"
   },
@@ -532,7 +550,8 @@
     "Address": "El Cerrito Plaza parking lot\nEl Cerrito, CA 94530",
     "Website": "https://www.facebook.com/pages/El-Cerrito-Farmers-Market/126028950790000",
     "Season": "Year-round",
-    "Hours": "Saturday, 9 a.m.-1 p.m.",
+    "Hours": "Tuesday & Saturday, 9 a.m.-1 p.m.",
+    "Special features": "Fresh produce; prepared foods",
     "confirmed": "CQ"
   },
   {
@@ -544,7 +563,7 @@
     "Website": "http://www.beniciamainstreet.org/",
     "Season": "April-October",
     "Hours": "Thursday, 4-8 p.m. (April-August); 4-7 p.m. September-October",
-    "Special features": "starts back 4/27; runs through October 26",
+    "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by Benicia Main Street",
     "confirmed": "CQ"
   },
@@ -557,7 +576,8 @@
     "Website": "https://unitycouncil.org/program/farmers-market/",
     "Season": "CONFIRM",
     "Hours": "Tuesday & Thursday, 12-7 p.m.; Sunday, 10 a.m.-3 p.m.",
-    "Notes": "Run by Fruitvale non-profit The Unity Council; Tiffany Wright, Farmer's Market Manager\n510-535-7178        \ntiffanyw@unitycouncil.org",
+    "Special features": "Fresh produce; prepared foods",
+    "Notes": "Run by Fruitvale non-profit The Unity Council; Tiffany Wright, Farmer's Market Manager\n510-535-7178        \ntiffanyw@unitycouncil.org; WIC, SNAP, and EBT accepted",
     "confirmed": "CQ"
   },
   {
@@ -569,6 +589,8 @@
     "Website": "http://www.kensingtonfarmersmarket.org/home",
     "Season": "Year-round",
     "Hours": "Sunday, 10 a.m.-2 p.m.",
+    "Special features": "Fresh produce; prepared foods",
+    "Notes": "EBT + WIC",
     "confirmed": "CQ"
   },
   {
@@ -580,6 +602,7 @@
     "Website": "http://www.wcfma.org/fremont--niles-.html",
     "Season": "Year-round",
     "Hours": "Saturday, 9 a.m.-1 p.m.",
+    "Special features": "Fresh produce; prepared foods",
     "Notes": "Run by West Coast Farmers' Market Association",
     "confirmed": "CQ"
   },
@@ -592,6 +615,7 @@
     "Website": "http://www.fremontfarmersmarket.com/",
     "Season": "Year-round",
     "Hours": "Saturday, 9 a.m.-1 p.m.",
+    "Special features": "Fresh produce; prepared foods",
     "confirmed": "CQ - CDFA list"
   },
   {
@@ -600,9 +624,10 @@
     "Address": "314 E 10th St, Oakland, CA 94606",
     "Lat": 37.7952101,
     "Lng": "-122.2583672",
-    "Website": "http://www.mandelamarketplace.org/copy-of-healthy-retail",
+    "Website": "http://www.mandelamarketplace.org/communityproducestands",
     "Season": "Year-round",
     "Hours": "Tuesday, 2-4 p.m.",
+    "Special features": "Fresh produce provided by Mandela Foods Distribution, a Mandela MarketPlace Enterprise, which supports local, under-resourced, sustainable farmers within a 200 mile radius of Oakland.",
     "Notes": "produce comes from Mandela Foods Distribution, a Mandela MarketPlace Enterprise, that supports local, under-resourced, sustainable farmers within a 200 mile radius of Oakland.",
     "confirmed": "CQ"
   },
@@ -612,9 +637,10 @@
     "Address": "1050 2nd Ave, Oakland, CA 94606",
     "Lat": 37.7962574,
     "Lng": "-122.2585153",
-    "Website": "http://www.mandelamarketplace.org/copy-of-healthy-retail",
+    "Website": "http://www.mandelamarketplace.org/communityproducestands",
     "Season": "Year-round",
     "Hours": "Tuesday, 2-4 p.m.",
+    "Special features": "Fresh produce provided by Mandela Foods Distribution, a Mandela MarketPlace Enterprise, which supports local, under-resourced, sustainable farmers within a 200 mile radius of Oakland.",
     "Notes": "produce comes from Mandela Foods Distribution, a Mandela MarketPlace Enterprise, that supports local, under-resourced, sustainable farmers within a 200 mile radius of Oakland.",
     "confirmed": "CQ"
   },
@@ -624,9 +650,10 @@
     "Address": "5714 M.L.K. Jr Way, Oakland, CA 94609",
     "Lat": 37.8428693,
     "Lng": "-122.2692479",
-    "Website": "http://www.mandelamarketplace.org/copy-of-healthy-retail",
+    "Website": "http://www.mandelamarketplace.org/communityproducestands",
     "Season": "Year-round",
     "Hours": "Wednesday, 10:30 a.m.-12:30 p.m.",
+    "Special features": "Fresh produce provided by Mandela Foods Distribution, a Mandela MarketPlace Enterprise, which supports local, under-resourced, sustainable farmers within a 200 mile radius of Oakland.",
     "Notes": "produce comes from Mandela Foods Distribution, a Mandela MarketPlace Enterprise, that supports local, under-resourced, sustainable farmers within a 200 mile radius of Oakland.",
     "confirmed": "CQ"
   },
@@ -636,9 +663,10 @@
     "Address": "1411 E 31st St, Oakland, CA 94602",
     "Lat": 37.7985416,
     "Lng": "-122.2316531",
-    "Website": "http://www.mandelamarketplace.org/copy-of-healthy-retail",
+    "Website": "http://www.mandelamarketplace.org/communityproducestands",
     "Season": "Year-round",
     "Hours": "Wednesday, 2:30-4:30 p.m.",
+    "Special features": "Fresh produce provided by Mandela Foods Distribution, a Mandela MarketPlace Enterprise, which supports local, under-resourced, sustainable farmers within a 200 mile radius of Oakland.",
     "Notes": "produce comes from Mandela Foods Distribution, a Mandela MarketPlace Enterprise, that supports local, under-resourced, sustainable farmers within a 200 mile radius of Oakland.",
     "confirmed": "CQ"
   },
@@ -648,9 +676,10 @@
     "Address": "2825 International Boulevard Oakland California, 94601",
     "Lat": 37.7793766,
     "Lng": "-122.230619",
-    "Website": "http://www.mandelamarketplace.org/copy-of-healthy-retail",
+    "Website": "http://www.mandelamarketplace.org/communityproducestands",
     "Season": "Year-round",
     "Hours": "Thursday, 8-10 a.m.",
+    "Special features": "Fresh produce provided by Mandela Foods Distribution, a Mandela MarketPlace Enterprise, which supports local, under-resourced, sustainable farmers within a 200 mile radius of Oakland.",
     "Notes": "produce comes from Mandela Foods Distribution, a Mandela MarketPlace Enterprise, that supports local, under-resourced, sustainable farmers within a 200 mile radius of Oakland.",
     "confirmed": "CQ"
   },
@@ -660,9 +689,10 @@
     "Address": "700 Adeline St, Oakland, CA 94607",
     "Lat": 37.8042039,
     "Lng": "-122.2874826",
-    "Website": "http://www.mandelamarketplace.org/copy-of-healthy-retail",
+    "Website": "http://www.mandelamarketplace.org/communityproducestands",
     "Season": "Year-round",
     "Hours": "Thursday, 12-2 p.m.",
+    "Special features": "Fresh produce provided by Mandela Foods Distribution, a Mandela MarketPlace Enterprise, which supports local, under-resourced, sustainable farmers within a 200 mile radius of Oakland.",
     "Notes": "produce comes from Mandela Foods Distribution, a Mandela MarketPlace Enterprise, that supports local, under-resourced, sustainable farmers within a 200 mile radius of Oakland.",
     "confirmed": "CQ"
   },
@@ -672,9 +702,10 @@
     "Address": "1100 64th Ave, Oakland, CA 94621",
     "Lat": 37.7611982,
     "Lng": "-122.1992064",
-    "Website": "http://www.mandelamarketplace.org/copy-of-healthy-retail",
+    "Website": "http://www.mandelamarketplace.org/communityproducestands",
     "Season": "Monthly",
-    "Hours": "3rd Friday 2-4 p.m.",
+    "Hours": "2nd Thursday of each month, 1-3 p.m.",
+    "Special features": "Fresh produce provided by Mandela Foods Distribution, a Mandela MarketPlace Enterprise, which supports local, under-resourced, sustainable farmers within a 200 mile radius of Oakland.",
     "Notes": "produce comes from Mandela Foods Distribution, a Mandela MarketPlace Enterprise, that supports local, under-resourced, sustainable farmers within a 200 mile radius of Oakland.",
     "confirmed": "CQ"
   },
@@ -684,9 +715,10 @@
     "Address": "8711 MacArthur Blvd.\nOakland, CA 94605",
     "Lat": 37.7583329,
     "Lng": "-122.162355",
-    "Website": "http://www.mandelamarketplace.org/copy-of-healthy-retail",
+    "Website": "http://www.mandelamarketplace.org/communityproducestands",
     "Season": "Monthly",
     "Hours": "1st Saturday, 12-3 p.m.",
+    "Special features": "Fresh produce provided by Mandela Foods Distribution, a Mandela MarketPlace Enterprise, which supports local, under-resourced, sustainable farmers within a 200 mile radius of Oakland.",
     "Notes": "produce comes from Mandela Foods Distribution, a Mandela MarketPlace Enterprise, that supports local, under-resourced, sustainable farmers within a 200 mile radius of Oakland.",
     "confirmed": "CQ"
   },
@@ -699,6 +731,7 @@
     "Website": "https://www.sanramonfarmersmarket.org/",
     "Season": "Year-round",
     "Hours": "Tuesday & Thursday, 10 a.m.-2 p.m.; Saturday, 9 a.m.-1 p.m.",
+    "Special features": "Fresh produce; prepared foods",
     "confirmed": "CQ"
   },
   {
@@ -710,17 +743,7 @@
     "Website": "http://dbcf.info/farmers.html",
     "Season": "May-December",
     "Hours": "Thursdsy, 4-8 p.m.",
-    "confirmed": "CQ"
-  },
-  {
-    "Region": "East Bay",
-    "Name": "Crockett-Port Costa Farmers' Market",
-    "Address": "1214APomona St., Crockette, CA 94525",
-    "Lat": 38.052618,
-    "Lng": "-122.223162",
-    "Website": "https://www.facebook.com/CPCFM1/",
-    "Season": "April-September",
-    "Hours": "Saturday, 10 a.m.-2 p.m.",
+    "Special features": "Fresh produce; prepared foods",
     "confirmed": "CQ"
   },
   {
@@ -732,19 +755,8 @@
     "Website": "https://www.facebook.com/Richmond-CA-Certified-Farmers-Market-531848233666298/",
     "Season": "Year-round",
     "Hours": "Friday, 8 a.m.-5 p.m.",
+    "Special features": "Fresh produce; prepared foods",
     "Notes": "established in 1984 and is one of the oldest markets in the East Bay",
-    "confirmed": "CQ"
-  },
-  {
-    "Region": "East Bay",
-    "Name": "Rossmoor Certified Farmers' Market",
-    "Address": "Golden Rain Rd, Walnut Creek, CA 94595",
-    "Lat": 37.8754701,
-    "Lng": "-122.0793028",
-    "Website": "http://www.cafarmersmkts.com/rossmoor-farmers-market",
-    "Season": "May-October",
-    "Hours": "Friday, 9:30 a.m.-1 p.m.",
-    "Notes": "ONLY FOR MEMBERS OF THE ROSSMOOR RETIREMENT COMMUNITY & THEIR FAMILIES. Run by California Farmers' Markets Association",
     "confirmed": "CQ"
   },
   {
@@ -756,17 +768,17 @@
     "Website": "https://www.facebook.com/pg/alamocfm/about/?ref=page_internal",
     "Season": "Year-round",
     "Hours": "Saturday, 9 a.m.-2 p.m.",
+    "Special features": "Fresh produce; prepared foods",
     "confirmed": "CQ"
   },
   {
     "Region": "East Bay",
-    "Name": "Contra Costa Regional Medical Center Certified Farmers' Market",
-    "Address": "2500 Alhambra Ave., Martinez, CA 94553",
-    "Lat": 38.006764,
-    "Lng": "-122.1327937",
-    "Website": "http://www.co.contra-costa.ca.us/2214/Farmers-Markets",
-    "Season": "May-September",
-    "Hours": "Tuesday, 10 a.m.-2 p.m.",
-    "confirmed": "em 3/29 Staci DeShasier <staci@cccfm.org> to see if still in operation"
+    "Name": "UC Gill Tract Community Farm Stand",
+    "Address": "San Pablo Ave, Albany, CA 94706",
+    "Website": "http://ucgilltractfarm.wixsite.com/gilltract",
+    "Season": "Year-round",
+    "Hours": "Sunday, 3-5 p.m.",
+    "Special features": "Fresh produce",
+    "confirmed": "CQ"
   }
 ]

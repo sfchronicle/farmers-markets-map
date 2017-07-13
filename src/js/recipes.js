@@ -91,15 +91,15 @@ qsa(".filter").forEach(function(f,index) {
     // clicked on a filter level filter
     if (classes.indexOf("subfilter") == -1) {
       // hide all subfilter containers to start - ADD BACK IN LATER!!!
-      // var subfilter_list = document.getElementsByClassName("sub-filter-container");
-      // for (var i=0; i<subfilter_list.length; i++) {
-      //   subfilter_list[i].classList.remove("active");
-      // };
-      // // check for subfilters that we should display
-      // var subfilter_container = document.getElementById("subfilter"+classes_ls[2]);
-      // if (subfilter_container) {
-      //   subfilter_container.classList.add("active");
-      // }
+      var subfilter_list = document.getElementsByClassName("sub-filter-container");
+      for (var i=0; i<subfilter_list.length; i++) {
+        subfilter_list[i].classList.remove("active");
+      };
+      // check for subfilters that we should display
+      var subfilter_container = document.getElementById("subfilter"+classes_ls[2]);
+      if (subfilter_container) {
+        subfilter_container.classList.add("active");
+      }
 
       // add active class to chosen filter (if it is a subfilter, we don't need to hide stuff)
       var filter_list = document.getElementsByClassName("filter");

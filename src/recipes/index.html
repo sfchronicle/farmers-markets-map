@@ -43,11 +43,11 @@
       <% json.IngredientTags.forEach(function(ss){ %>
         <% var array = [ss.Subtags].toString().split(','); %>
         <% if (array != "") { %>
-          <div class="sub-filter-container" id="subfilter<%=ss.Tags.toString().toLowerCase().replace(',','').replace(/\s/g,'')%>">
+          <div class="sub-filter-container" id="subfilter<%=ss.Tags.toString().toLowerCase().replace(/ /g,'')%>">
             <div class="sub-filter-instructions">Related topics:</div>
               <div class="filter-container">
                 <% array.forEach(function(t){ %>
-                  <div class="filter subfilter <%=t.toString().toLowerCase().replace(/\s/g,'')%>" id="<%=t.toString().toLowerCase().replace(/\s/g,'')%>"><%=t%></div>
+                  <div class="filter subfilter <%=t.toString().toLowerCase().replace(/ /g,'')%>" id="<%=t.toString().toLowerCase().replace(/\s/g,'')%>"><%=t%></div>
                   <% }); %>
               </div>
             </div>
@@ -67,7 +67,7 @@
     <div class="recipe-wrapper">
       <% json.SeasonalRecipes.forEach(function(d){ %>
         <% if (d.PhotoID) { %>
-          <div class="recipe-item active <%=[d.Tags].toString().toLowerCase().replace(',',' ')%> <%=[d['Recipe Name']]%>">
+          <div class="recipe-item active <%=[d.Tags].toString().toLowerCase().replace(/ /g,'').replace(',',' ')%> <%=[d['Recipe Name']]%>">
             <a class="link-image" href="<%=d['Link to Recipe']%>" target="_blank">
             <img src="http://ww2.hdnux.com/photos/54/11/64/<%=d.PhotoID%>/3/premium_landscape.jpg"></img>
             <div class="caption"><%=d["Photographer"]%></div>
@@ -79,7 +79,7 @@
     </div>
 
     <%= t.include("partials/_footer_recipes.html") %>
-    <%= t.include("partials/_full_footer.html") %>
+    <%= t.include("partials/_footer_recipes.html") %>
 
     <script>
       var farmData = <%= JSON.stringify(json.FarmersMarkets) %>
