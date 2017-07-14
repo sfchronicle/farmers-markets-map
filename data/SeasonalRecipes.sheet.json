@@ -397,18 +397,18 @@
   {
     "Recipe Name": "Easy Pistachio-Olive Oil Cake With Strawberry-Rhubarb Compote",
     "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Repertoire-Easy-olive-oil-cake-topped-two-ways-11081245.php",
-    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/article&id=11081245",
+    "Photo": "http://ww4.hdnux.com/photos/60/40/55/12716895/5/920x920.jpg",
     "Tags": "strawberries, rhubarb, spring",
-    "PhotoID": 11081245,
+    "PhotoID": 12716895,
     "Photographer": "Russell Yip, The Chronicle",
     "Season": "Spring"
   },
   {
     "Recipe Name": "Strawberries Topped With Muscat Sabayon Custard",
     "Link to Recipe": "http://www.sfchronicle.com/food/article/A-spring-treat-strawberries-sabayon-and-Moscato-3552572.php",
-    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=2926052",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=13245751",
     "Tags": "strawberries, spring",
-    "PhotoID": 2926052,
+    "PhotoID": 13245751,
     "Photographer": "Craig Lee, Special to the Chronicle",
     "Season": "Spring"
   },
@@ -442,9 +442,9 @@
   {
     "Recipe Name": "Strawberry-Almond Shortcakes",
     "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Top-Recipe-2005-Strawberry-Almond-Shortcakes-2550387.php",
-    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=2648137",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=13245822",
     "Tags": "strawberries, spring",
-    "PhotoID": 2648137,
+    "PhotoID": 13245822,
     "Photographer": "Peter DaSilva, Special to The Chronicle",
     "Season": "Spring"
   },
@@ -495,7 +495,7 @@
   },
   {
     "Recipe Name": "Maple Bourbon Peaches",
-    "Link to Recipe": "NEW STORY CREATED IN WCM; JUST NEED TO PUBLISH",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Maple-Bourbon-Peaches-11248542.php?t=b4bd0fe1a6",
     "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=4904733",
     "Tags": "peaches, summer",
     "PhotoID": 4904733,
@@ -504,7 +504,7 @@
   },
   {
     "Recipe Name": "Mixed Berries in Vanilla Tarragon Syrup",
-    "Link to Recipe": "NEW STORY CREATED IN WCM; JUST NEED TO PUBLISH",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Mixed-Berries-in-Vanilla-Tarragon-Syrup-11248536.php?t=966c6161a0",
     "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=4904725",
     "Tags": "blueberries, blackberries, summer",
     "PhotoID": 4904725,
@@ -513,7 +513,7 @@
   },
   {
     "Recipe Name": "Plums in Port Ginger Syrup",
-    "Link to Recipe": "NEW STORY CREATED IN WCM; JUST NEED TO PUBLISH",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Plums-in-Port-Ginger-Syrup-11248526.php?t=08623eeb71",
     "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=4904711",
     "Tags": "plums, summer",
     "PhotoID": 4904711,
@@ -532,17 +532,18 @@
   {
     "Recipe Name": "State Bird's Amatriciana With Yuba, Tomatoes & Chantarelles",
     "Link to Recipe": "http://www.sfchronicle.com/restaurants/article/Recipe-State-Bird-s-Amatriciana-With-Yuba-11124884.php",
-    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=12812305",
-    "PhotoID": 12812305,
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=13246397",
+    "Tags": "tomatoes, summer",
+    "PhotoID": 13246397,
     "Photographer": "Renee Frojo, The Chronicle",
     "Season": "Summer"
   },
   {
     "Recipe Name": "Nicole Plue's Summer Stone Fruit \"Pudding\" With Plum Wine Cake",
     "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Pastry-chef-Nicole-Plue-shares-her-secrets-with-5614277.php",
-    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=6565161",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=13246137",
     "Tags": "plums, summer",
-    "PhotoID": 6565161,
+    "PhotoID": 13246137,
     "Photographer": "Michael Macor, The Chronicle",
     "Season": "Summer"
   },
@@ -576,9 +577,9 @@
   {
     "Recipe Name": "Dosa's South Indian Summer Corn Salad",
     "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Repertoire-The-secret-to-Dosa-s-corn-poriyal-11170910.php",
-    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=12951317",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=13246148",
     "Tags": "corn, summer",
-    "PhotoID": 12951317,
+    "PhotoID": 13246148,
     "Photographer": "Russell Yip, The Chronicle",
     "Season": "Summer"
   },
@@ -587,7 +588,7 @@
     "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Cook-Your-Week-Summer-Farro-Salad-6427207.php",
     "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=8409399",
     "Tags": "corn, tomatoes, summer",
-    "PhotoID": 6427207,
+    "PhotoID": 8409399,
     "Photographer": "Amanda Gold, The Chronicle",
     "Season": "Summer"
   },
@@ -612,15 +613,15 @@
   {
     "Recipe Name": "Shishito Pepper & Corn Relish",
     "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Shishito-a-mild-tender-pepper-5647230.php#photo-6644233",
-    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=6644233",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=13246208",
     "Tags": "corn, summer",
-    "PhotoID": 6644233,
+    "PhotoID": 13246208,
     "Photographer": "Craig Lee, Special to The Chronicle",
     "Season": "Summer"
   },
   {
     "Recipe Name": "Shaved Summer Squash & Green Beans With Basil-Lemon Vinaigrette",
-    "Link to Recipe": "NEW STORY CREATED IN WCM; JUST NEED TO PUBLISH",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Shaved-Summer-Squash-Green-Beans-With-11248507.php?t=103a0910ed",
     "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=3242653",
     "Tags": "zucchini, summer squash, summer",
     "PhotoID": 3242653,
@@ -630,9 +631,9 @@
   {
     "Recipe Name": "Romano Beans Smothered In Garlicky Tomatoes",
     "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Romano-Beans-Smothered-in-Garlicky-6455474.php",
-    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=8358457",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=13246459",
     "Tags": "tomatoes, summer",
-    "PhotoID": 8358457,
+    "PhotoID": 13246459,
     "Photographer": "Sarah Rice, Special to The Chronicle",
     "Season": "Summer"
   },
@@ -728,7 +729,7 @@
   },
   {
     "Recipe Name": "Zucchetti",
-    "Link to Recipe": "NEW STORY CREATED IN WCM; JUST NEED TO PUBLISH",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Zucchetti-11248495.php?t=0ca73c4262",
     "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=10207180",
     "Tags": "zucchini, summer squash, summer",
     "PhotoID": 10207180,
@@ -765,9 +766,9 @@
   {
     "Recipe Name": "Spoon-Biscuit Fruit Cobbler",
     "Link to Recipe": "http://www.sfchronicle.com/food/seasonalcook/article/Why-Olallieberry-is-king-of-the-blackberries-5551365.php?cmpid=twitter-premium&t=81ea0ef5073c100abe",
-    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=6442367",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=13246488",
     "Tags": "blackberries, summer",
-    "PhotoID": 6442367,
+    "PhotoID": 13246488,
     "Photographer": "Craig Lee, Special to The Chronicle",
     "Season": "Summer"
   },
@@ -818,7 +819,7 @@
   },
   {
     "Recipe Name": "SusieCakes Blueberry Pie",
-    "Link to Recipe": "NEW STORY CREATED IN WCM; JUST NEED TO PUBLISH",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/SusieCakes-Blueberry-Pie-11248417.php?t=df554b6f91",
     "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=4707927",
     "Tags": "blueberries, summer",
     "PhotoID": 4707927,
@@ -827,7 +828,7 @@
   },
   {
     "Recipe Name": "Blueberry-Honey Yogurt Parfaits with Pepita Crunch\n",
-    "Link to Recipe": "NEW STORY CREATED IN WCM; JUST NEED TO PUBLISH",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Blueberry-Honey-Yogurt-Parfaits-with-11248470.php?t=609b20a631",
     "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=1880010",
     "Tags": "blueberries, summer",
     "PhotoID": 1880010,
@@ -900,15 +901,15 @@
   {
     "Recipe Name": "Grilled Eggplant Sandwiches With Aioli",
     "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Grilled-Eggplant-Sandwiches-With-Aioli-6444882.php",
-    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=8318619",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=13246248",
     "Tags": "eggplant, summer",
-    "PhotoID": 8318619,
+    "PhotoID": 13246248,
     "Photographer": "Russell Yip, The Chronicle",
     "Season": "Summer"
   },
   {
     "Recipe Name": "Roasted Eggplants With Agrodolce Sauce & Toasted Hazelnuts",
-    "Link to Recipe": "NEW STORY CREATED IN WCM; JUST NEED TO PUBLISH",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Roasted-Eggplant-With-Agrodolce-Sauce-11248379.php?t=396fb9c20d",
     "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=10899021",
     "Tags": "eggplant, summer",
     "PhotoID": 10899021,
