@@ -924,5 +924,644 @@
     "PhotoID": 8371310,
     "Photographer": "Amanda Gold, The Chronicle",
     "Season": "Summer"
+  },
+  {
+    "Recipe Name": "Brown Butter Pear Tart",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/thebaker/article/Grand-finales-Dazzle-guests-with-a-bevy-of-2590455.php#photo-2080334",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=2080334",
+    "Tags": "pears, fall",
+    "PhotoID": 2080334,
+    "Photographer": "Craig Lee, The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Cinnamon-Poached Pear Upside Down Cake",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Baker-feels-the-heat-over-tasty-holiday-custom-3279252.php#photo-2428903",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=2428903",
+    "Tags": "pears, fall",
+    "PhotoID": 2428903,
+    "Photographer": "Craig Lee, Special to The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Apple & Fig-Stuffed Butternut Squash",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Farmers-Thanksgiving-tables-showcase-fresh-bounty-2298150.php#photo-1803042",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=1803042",
+    "Tags": "apples, winter squash, fall",
+    "PhotoID": 1803042,
+    "Photographer": "Craig Lee, Special to The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Apple Clafouti With Cinnamon-Nutmeg Cream",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/In-it-to-win-it-3301192.php#photo-2448539",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=2035847",
+    "Tags": "apples, fall",
+    "PhotoID": 2035847,
+    "Photographer": "Craig Lee, Special to The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Upside-Down Pumpkin Tart",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/In-it-to-win-it-3301192.php#photo-2448539",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=2448538",
+    "Tags": "pumpkin, winter squash, fall",
+    "PhotoID": 2448538,
+    "Photographer": "Craig Lee, Special to The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Brown Butter Caramel Apple Cake",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Liquid-gold-What-could-be-better-than-butter-3300062.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=2066244",
+    "Tags": "apples, fall",
+    "PhotoID": 2066244,
+    "Photographer": "Thor Swift, The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Spicy Apple Bread",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Hattie-s-apple-bread-a-recipe-for-a-great-fall-3248913.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=2397501",
+    "Tags": "apples, fall",
+    "PhotoID": 2397501,
+    "Photographer": "Jana Asenbrennerova, Special To The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Apple-Cardamom Pound Cake",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/thebaker/article/Roasting-apples-for-Thanksgiving-4024845.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=3711726",
+    "Tags": "apples, fall",
+    "PhotoID": 3711726,
+    "Photographer": "Craig Lee, Special to The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "White Wine-Poached Pears With Baked Vanilla Custard",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Passover-desserts-free-of-flour-4358601.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=4322494",
+    "Tags": "pears, fall",
+    "PhotoID": 4322494,
+    "Photographer": "Craig Lee, Special to The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Maple Pear Brown Betty",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Seasonal-fruit-enlivens-crumbles-crisps-cobblers-2754965.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=2192307",
+    "Tags": "pears, fall",
+    "PhotoID": 2192307,
+    "Photographer": "Craig Lee, Special to The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Butternut Squash & Leek Cobbler",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Seasonal-fruit-enlivens-crumbles-crisps-cobblers-2754965.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=2192308",
+    "Tags": "winter squash, fall",
+    "PhotoID": 2192308,
+    "Photographer": "Craig Lee, Special to The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Vanilla Bean Apple Crumble",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Seasonal-fruit-enlivens-crumbles-crisps-cobblers-2754965.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=2192309",
+    "Tags": "apples, fall",
+    "PhotoID": 2192309,
+    "Photographer": "Craig Lee, Special to The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Ginger-Asian Pear Grunt",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Seasonal-fruit-enlivens-crumbles-crisps-cobblers-2754965.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=2192310",
+    "Tags": "pears, fall",
+    "PhotoID": 2192307,
+    "Photographer": "Craig Lee, Special to The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Meyer Lemon-Cranberry Buckle",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Seasonal-fruit-enlivens-crumbles-crisps-cobblers-2754965.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=2192311",
+    "Tags": "cranberries, fall",
+    "PhotoID": 2192311,
+    "Photographer": "Craig Lee, Special to The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Caramel Apples",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Caramel-Apples-9984162.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=11448800",
+    "Tags": "apples, fall",
+    "PhotoID": 11448800,
+    "Photographer": "Sarah Fritsche, The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Dandelion & Coriander Koftas With Spiced Apple Chutney",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/A-Brown-Kitchen-Dandelion-and-Coriander-Koftas-10981331.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=12498525",
+    "Tags": "apples, fall",
+    "PhotoID": 12498525,
+    "Photographer": "Nik Sharma, The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Grilled Apple Salad With Balsamic Fig Vinaigrette",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Lightened-up-menu-for-a-S-F-Jewish-New-Year-2309659.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=11208029",
+    "Tags": "apples, fall",
+    "PhotoID": 11208029,
+    "Photographer": "Craig Lee, Special to The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Pomegranate Sorbet With Honey Brittle",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Lightened-up-menu-for-a-S-F-Jewish-New-Year-2309659.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=1817003",
+    "Tags": "pomegranates, fall",
+    "PhotoID": 1817003,
+    "Photographer": "Craig Lee, Special to The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Cap'n Mike's Honey-Smoked Salmon Sandwiches With Asian Pear Relish",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Cap-n-Mike-s-Honey-Smoked-Salmon-10921088.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=12325558",
+    "Tags": "pears, fall",
+    "PhotoID": 12325558,
+    "Photographer": "Sarah Fritsche, The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Aaron Toensing's Green Chile Apple Pie",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Aaron-Toensing-s-Green-Chile-Apple-Pie-6627500.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=8937232",
+    "Tags": "apples, fall",
+    "PhotoID": 8937232,
+    "Photographer": "Liz Hafalia, The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Petrale Sole With Pear Salsa",
+    "Link to Recipe": "http://www.sfchronicle.com/wine/pairings/article/Delicate-petrale-sole-fish-needs-firm-pear-3831845.php#photo-3385085",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=3385085",
+    "Tags": "pears, fall",
+    "PhotoID": 3385085,
+    "Photographer": "Craig Lee, Special to The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Petite Pear Pies",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/thebaker/article/Pears-spices-dress-up-easy-custard-3168181.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=2302274",
+    "Tags": "pears, fall",
+    "PhotoID": 2302274,
+    "Photographer": "Craig Lee, Special to The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Beer-Braised Brats With Pear & Mustard Compote",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/weeknightdish/article/Serving-up-brats-for-the-ballgame-3984687.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=3644070",
+    "Tags": "pears, fall",
+    "PhotoID": 3644069,
+    "Photographer": "Craig Lee, Special to The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Drew Hash's Glazed Pork Belly With Asian Pear Slaw",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Glazed-Pork-Belly-With-Asian-Pear-Slaw-10786678.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=11739083",
+    "Tags": "pears, fall",
+    "PhotoID": 11739083,
+    "Photographer": "James Tensuan, Special to The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Autumn Persimmon & Pomegranate Salad",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Recipe-Autumn-Persimmon-Pomegranate-Salad-10623267.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=11786757",
+    "Tags": "pomegranates, persimmon, fall",
+    "PhotoID": 11786757,
+    "Photographer": "Russell Yip, The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Whole Grilled Trout With Charred Napa Cabbage, Pomegranate & Smoked Cashews",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Locally-caught-It-depends-4928084.php#photo-5363444",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=5363444",
+    "Tags": "pomegranates, fall",
+    "PhotoID": 5363444,
+    "Photographer": "Craig Lee, Special to The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Asheh Anar (Pomegranate Soup With Meatballs)",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Asheh-Anar-Pomegranate-Soup-With-11014546.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=12555622",
+    "Tags": "pomegranates, fall",
+    "PhotoID": 12555622,
+    "Photographer": "Sarah Fritsche, The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Pomegranate Thumbprint Cookies",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Pomegranate-Thumbprint-Cookies-10799211.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=12008796",
+    "Tags": "pomegranates, fall",
+    "PhotoID": 12008796,
+    "Photographer": "Sarah Fritsche, The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Spiced Persimmon & Pomegranate Salad ",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Pomegranate-molasses-gets-to-fruit-s-essence-2295379.php#photo-1798910",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=1798910",
+    "Tags": "pomegranates, persimmon, fall",
+    "PhotoID": 1798910,
+    "Photographer": "Craig Lee, Special to The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Spiced Pomegranate Shrimp",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Pomegranate-molasses-gets-to-fruit-s-essence-2295379.php#photo-1798910",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=1798909",
+    "Tags": "pomegranates, fall",
+    "PhotoID": 1798909,
+    "Photographer": "Craig Lee, Special to The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Gingerbread Pecan-Cranberry Tart",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Gingerbread-Pecan-Cranberry-Tart-10623225.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=11786728",
+    "Tags": "cranberries, fall",
+    "PhotoID": 11786728,
+    "Photographer": "Russell Yip, The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Alex Ong's Cranberry-Sambal Chutney",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Alex-Ong-s-Cranberry-Sambal-Chutney-5894120.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=7126327",
+    "Tags": "cranberries, fall",
+    "PhotoID": 7126327,
+    "Photographer": "Aubrie Pick, Special to The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Daniel Patterson's Gingered Cranberry & Pear Relish",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Daniel-Patterson-s-Gingered-Cranberry-10623251.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=3707656",
+    "Tags": "cranberries, pears, fall",
+    "PhotoID": 3707656,
+    "Photographer": "Craig Lee, Special to The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Traci Des Jardin's Fuyu Persimmon Relish",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Traci-Des-Jardins-Fuyu-Persimmon-Relish-10623252.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=11827414",
+    "Tags": "persimmons, fall",
+    "PhotoID": 11827414,
+    "Photographer": "Craig Lee, Special to The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Roasted Brussels Sprouts, Trumpet Mushroom & Persimmon Stuffing",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Roasted-Brussels-Sprouts-Trumpet-10623309.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=11786760",
+    "Tags": "persimmons, brussels sprouts, fall",
+    "PhotoID": 11786760,
+    "Photographer": "Russell Yip, The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Butternut Squash Crostini With Goat Cheese & Fried Sage",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Butternut-Squash-Crostini-With-Goat-10623209.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=11818858",
+    "Tags": "winter squash, fall",
+    "PhotoID": 11818858,
+    "Photographer": "Sarah Fritsche, The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Brussels Sprouts Salad With Dill & Almonds",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Brussels-Sprouts-Salad-With-Dill-Almonds-10623224.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=11817701",
+    "Tags": "brussels sprouts, fall",
+    "PhotoID": 11817701,
+    "Photographer": "Liz Hafalia, The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Pomegranate-Roasted Duck Breast",
+    "Link to Recipe": "http://www.sfchronicle.com/wine/article/Sauce-unites-duck-with-Riesling-3176570.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=2025859",
+    "Tags": "pomegranates, fall",
+    "PhotoID": 2025859,
+    "Photographer": "Craig Lee, Special to The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Pomegranate Jelly",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Pomegranates-can-be-juiced-or-jellied-3884506.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=3483635",
+    "Tags": "pomegranates, fall",
+    "PhotoID": 3483635,
+    "Photographer": "Craig Lee, Special to The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Pomegranate Ruz Sandwich",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Pomegranates-can-be-juiced-or-jellied-3884506.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=3483636",
+    "Tags": "pomegranates, fall",
+    "PhotoID": 3483636,
+    "Photographer": "Craig Lee, Special to The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Kale & Brussels Sprouts Salad With Toasted Almonds, Apples & Lemon-Tahini Vinaigrette",
+    "Link to Recipe": "http://www.sfchronicle.com/food/seasonalcook/article/Bright-and-bold-winter-salads-4283158.php#photo-4196069",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=4196069",
+    "Tags": "brussels sprouts, apples, fall",
+    "PhotoID": 4196069,
+    "Photographer": "Craig Lee, Special to The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Winter Squash & Chickpea Soup",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Winter-Squash-Chickpea-Soup-6615359.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=8893364",
+    "Tags": "winter squash, fall",
+    "PhotoID": 8893364,
+    "Photographer": "Connor Radnovich, The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Beef & Butternut Squash Stew With Rosemary",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Beef-and-Butternut-Squash-Stew-with-6750929.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=9234064",
+    "Tags": "winter squash, fall",
+    "PhotoID": 9234064,
+    "Photographer": "Amanda Gold, The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Delicata Squash & Red Lentil Stew",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/A-Brown-Kitchen-Delicata-Squash-and-Red-Lentil-10591068.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=11683340",
+    "Tags": "winter squash, fall",
+    "PhotoID": 11683340,
+    "Photographer": "Nik Sharma, The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Dosa's Pumpkin Chutney",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Dosa-s-Pumpkin-Chutney-6581925.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=8749314",
+    "Tags": "pumpkin, winter squash, fall",
+    "PhotoID": 8749314,
+    "Photographer": "Russell Yip, The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Aziza's Pumpkin Spice Mousse With Chicory Cream",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Aziza-s-Pumpkin-Spice-Mousse-With-6581942.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=8789654",
+    "Tags": "pumpkin, winter squash, fall",
+    "PhotoID": 8789654,
+    "Photographer": "Russell Yip, The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Garam Masala Pumpkin Butter ",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/From-simple-to-spicy-recipes-for-fall-s-glut-5815065.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=6967207 ",
+    "Tags": "pumpkin, winter squash, fall",
+    "PhotoID": 6967207,
+    "Photographer": "Russell Yip, The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Sambal Roasted Pumpkin",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/From-simple-to-spicy-recipes-for-fall-s-glut-5815065.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=6967204 ",
+    "Tags": "pumpkin, winter squash, fall",
+    "PhotoID": 6967204,
+    "Photographer": "Russell Yip, The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Pumpkin Blue Cheese Strata",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/From-simple-to-spicy-recipes-for-fall-s-glut-5815065.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=6967206 ",
+    "Tags": "pumpkin, winter squash, fall",
+    "PhotoID": 6967206,
+    "Photographer": "Russell Yip, The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Pumpkin Flan",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/A-Brown-Kitchen-Pumpkin-flan-set-in-memories-9961149.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=11360714",
+    "Tags": "pumpkin, winter squash, fall",
+    "PhotoID": 11360714,
+    "Photographer": "Nik Sharma, The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Pumpkin Caramel Whoopie Pies",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/thebaker/article/A-cake-A-cookie-No-it-s-a-whoopie-pie-3965374.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=3610923",
+    "Tags": "pumpkin, winter squash, fall",
+    "PhotoID": 3610923,
+    "Photographer": "Craig Lee, Special to The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Kabocha, Kale & Mushroom \"Stoup\"",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Market-watch-Kabocha-squash-is-perfect-for-rainy-10786969.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=12008814",
+    "Tags": "winter squash, fall",
+    "PhotoID": 12008814,
+    "Photographer": "Sarah Fritsche, The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Easy Chicken Pho With Spaghetti Squash \"Noodles\" ",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Easy-Chicken-Pho-with-Spaghetti-Squash-6750925.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=9234063",
+    "Tags": "winter squash, fall",
+    "PhotoID": 9234063,
+    "Photographer": "Amanda Gold, The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Anthony Strong's Squash Gnocchi With Amaretti Crumbs",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Squash-Gnocchi-With-Chestnuts-Amaretti-Poppy-5979955.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=7303390",
+    "Tags": "winter squash, fall",
+    "PhotoID": 7303390,
+    "Photographer": "Russell Yip, The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Sharon Ardiana's Farrotto With Roasted Butternut Squash & Shallots",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Sharon-Ardiana-s-Farrotto-With-Roasted-6577722.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=8746041",
+    "Tags": "winter squash, fall",
+    "PhotoID": 8746041,
+    "Photographer": "Liz Hafalia, The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Roasted Butternut Squash With Salsa Cascabel & Queso Fresco",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Wave-of-female-chef-owners-shape-hot-Oakland-scene-4969785.php#photo-5428105",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=5448161",
+    "Tags": "butternut squash, fall",
+    "PhotoID": 5448161,
+    "Photographer": "Liz Hafalia, The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Hoshigaki (Japanese Dried Persimmons)",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/How-to-make-hoshigaki-at-home-6654895.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=8973960",
+    "Tags": "persimmons, fall",
+    "PhotoID": 8973960,
+    "Photographer": "Russell Yip, The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Persimmon Pudding",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/thebaker/article/Hachiya-persimmons-prove-outstanding-in-pudding-4968839.php#photo-5431620",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=5431622",
+    "Tags": "persimmons, fall",
+    "PhotoID": 5431622,
+    "Photographer": "Craig Lee, Special to The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Persimmons Grand Marnier",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/breakawaycook/article/Enjoying-persimmons-from-salads-to-dessert-3248752.php#photo-2397330",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=2397332",
+    "Tags": "persimmons, fall",
+    "PhotoID": 2397332,
+    "Photographer": "Thor Swift, The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Shaved Brussels Sprouts Salad With Roasted Mushrooms & Wheat Berries",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Shaved-winter-salad-brings-Brussels-sprouts-into-10856403.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=12166455",
+    "Tags": "brussels sprouts, fall",
+    "PhotoID": 12166455,
+    "Photographer": "Sarah Fritsche, The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Brussels Sprouts Kimchi",
+    "Link to Recipe": "http://www.sfchronicle.com/food/chefssecrets/article/Charred-so-good-kimchi-Brussels-sprouts-3903364.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=3515697",
+    "Tags": "brussels sprouts, fall",
+    "PhotoID": 3515697,
+    "Photographer": "Craig Lee, Special to The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Rice Bowl With Roasted Brussels Sprouts, Broccoli, Tomatoes & Egg",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Cook-Your-Week-Rice-Bowl-With-Roasted-Brussels-6574497.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=8785913",
+    "Tags": "brussels sprouts, fall",
+    "PhotoID": 8785913,
+    "Photographer": "Amanda Gold, The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Marlowe's Upside Down Pear Crisp",
+    "Link to Recipe": "http://www.sfchronicle.com/food/chefssecrets/article/Marlowe-s-Upside-Down-Pear-Crisp-worth-its-salt-2388076.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=1915902",
+    "Tags": "pears, fall",
+    "PhotoID": 1915902,
+    "Photographer": "Craig Lee, Special to The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Coles De Brussels",
+    "Link to Recipe": "http://www.sfchronicle.com/food/chefssecrets/article/Brussels-sprouts-at-La-Condesa-in-St-Helena-2298176.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=1803121",
+    "Tags": "brussels sprouts, fall",
+    "PhotoID": 1803121,
+    "Photographer": "Craig Lee, Special to The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Barbacco's Celery & Apple Salad",
+    "Link to Recipe": "http://www.sfchronicle.com/food/chefssecrets/article/Celery-and-apple-salad-made-special-2344772.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=1861321",
+    "Tags": "apples, fall",
+    "PhotoID": 1861321,
+    "Photographer": "Craig Lee, Special to The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Cranberry Sauce Streusel Muffins",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Cranberry-Sauce-Streusel-Muffins-6641167.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=8942097",
+    "Tags": "cranberries, fall",
+    "PhotoID": 8942097,
+    "Photographer": "Liz Hafalia, The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Turkey, Cranberry & Sage Sausage",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/John-Fink-s-surprising-turkey-sausage-3569123.php#photo-2953589",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=2953589",
+    "Tags": "cranberries, fall",
+    "PhotoID": 2953589,
+    "Photographer": "Craig Lee, Special to The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Mixed Wine Autumn Sangria",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Mixed-Wine-Autumn-Sangria-6641170.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=8942164",
+    "Tags": "persimmons, apples, pears, fall",
+    "PhotoID": 8942164,
+    "Photographer": "Liz Hafalia, The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Ginger-Spiced & Caramelized Pear Muffins",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Guide-to-the-autumn-farmers-market-12309681.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=14365193",
+    "Tags": "pears, fall",
+    "PhotoID": 14365193,
+    "Photographer": "Sarah Fritsche, The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Quick-Brined Pork Chop With Tangy Mustard-Spiked Apple Sauce",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Guide-to-the-autumn-farmers-market-12309681.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=14365197",
+    "Tags": "apples, fall",
+    "PhotoID": 14365197,
+    "Photographer": "Sarah Fritsche, The Chronicle",
+    "Season": "Fall"
+  },
+  {
+    "Recipe Name": "Garam Masala-Spiced Pumpkin Soup With Yogurt & Pomegranate Seeds",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Guide-to-the-autumn-farmers-market-12309681.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=14365198",
+    "Tags": "pumpkin, winter squash, pomegranates, fall",
+    "PhotoID": 14365198,
+    "Photographer": "Sarah Fritsche, The Chronicle",
+    "Season": "Fall"
   }
 ]
