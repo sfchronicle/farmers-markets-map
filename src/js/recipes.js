@@ -12,7 +12,8 @@ function activate() {
   var sticker = document.getElementById('stick-me');
   var sticker_ph = document.getElementById('stick-ph');
   var window_top = document.body.scrollTop;
-  var div_top = document.getElementById('stick-here').getBoundingClientRect().top + window_top;
+  var div_top = document.getElementById('stick-here').getBoundingClientRect().top + window_top - 37;
+  var div_bottom = document.getElementById('stop-here').getBoundingClientRect().top + window_top - 37;
   // var long = document.getElementById('long');
 
   if (window_top > div_top) {
@@ -70,12 +71,12 @@ $("#searchbar").bind("input propertychange", function () {
 
 });
 
-function executeButton(f){
+function executeButton(f,scrollFlag){
   document.getElementById('recipe-noresults').classList.add("hide");
 
-  if (screen.width <= 480) {
+  if (screen.width <= 480 && scrollFlag) {
     // animated top scrolling
-    var pos = $("#stick-here").offset().top-40;
+    var pos = $("#stick-here").offset().top-37;
     $('body, html').animate({scrollTop: pos});
   }
 
@@ -140,9 +141,9 @@ function executeButton(f){
 var qsa = s => Array.prototype.slice.call(document.querySelectorAll(s));
 qsa(".filter").forEach(function(f,index) {
   f.addEventListener("click", function(e) {
-    executeButton(f)
+    executeButton(f,1)
   });
 });
 
 var fallbutton = document.getElementById("fall");
-executeButton(fallbutton);
+executeButton(fallbutton,0);
