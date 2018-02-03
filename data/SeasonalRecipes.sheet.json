@@ -1,21 +1,25 @@
 [
   {
-    "Recipe Name": "Amaryll Schwertner's Turkish-Style Caramelized Baby Artichokes",
+    "Recipe Name": "Turkish-Style Caramelized Baby Artichokes",
     "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Caramelized-Baby-Artichokes-Turkish-Style-6148031.php",
     "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=6180089",
     "Tags": "artichokes, spring",
     "PhotoID": 6180089,
     "Photographer": "Paige Hermreck, Special to the Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Side dish",
+    "Diet": "Vegan"
   },
   {
-    "Recipe Name": "April Bloomfield’s Pot-Roasted Artichokes ",
+    "Recipe Name": "Pot-Roasted Artichokes ",
     "Link to Recipe": "http://www.sfchronicle.com/recipes/article/April-Bloomfield-s-Pot-Roasted-Artichokes-With-6281367.php",
     "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=7950143",
     "Tags": "artichokes, spring",
     "PhotoID": 7950143,
     "Photographer": "Russell Yip, The Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Side dish",
+    "Diet": "Vegan"
   },
   {
     "Recipe Name": "Artichokes With Spring Onion Aioli",
@@ -24,7 +28,9 @@
     "Tags": "artichokes, spring",
     "PhotoID": 4352831,
     "Photographer": "Craig Lee, Special to the Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Side dish",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Asparagus & Eggs On Toast",
@@ -33,7 +39,9 @@
     "Tags": "asparagus, spring",
     "PhotoID": 7861719,
     "Photographer": "Russell Yip, The Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Main dish",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Asparagus & Lemon Tempura",
@@ -42,7 +50,9 @@
     "Tags": "asparagus, spring",
     "PhotoID": 7564635,
     "Photographer": "Santiago Mejia, The Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Appetizer",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Asparagus Lemongrass Risotto",
@@ -51,7 +61,9 @@
     "Tags": "asparagus, spring",
     "PhotoID": 7564634,
     "Photographer": "Santiago Mejia, The Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Main dish",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Asparagus With Spicy Aioli",
@@ -60,16 +72,20 @@
     "Tags": "asparagus, spring",
     "PhotoID": 7564638,
     "Photographer": "Santiago Mejia, The Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Side dish",
+    "Diet": "Vegetarian"
   },
   {
-    "Recipe Name": "Brooke Mosley's Strawberry-Rhubarb Sticky Buns",
+    "Recipe Name": "Strawberry-Rhubarb Sticky Buns",
     "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Strawberry-Rhubarb-Sticky-Buns-by-Brooke-7333158.php",
     "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=9747696",
     "Tags": "rhubarb, strawberries, spring",
     "PhotoID": 9747696,
     "Photographer": "Gabrielle Lurie, Special to the Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Bruschetta With Burrata & Fried Artichokes",
@@ -78,7 +94,8 @@
     "Tags": "artichokes, spring",
     "PhotoID": 12709949,
     "Photographer": "Russell Yip, The Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Appetizer"
   },
   {
     "Recipe Name": "Bruschetta With Fava Beans, Ricotta & Mint",
@@ -87,7 +104,9 @@
     "Tags": "favas, spring",
     "PhotoID": 12709783,
     "Photographer": "Michael Noble Jr., The Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Appetizer",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Butter Love Bakeshop's Apricot Cherry Pie",
@@ -96,7 +115,9 @@
     "Tags": "apricots, cherries, spring",
     "PhotoID": 4707939,
     "Photographer": "Craig Lee, Special to the Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Cardamom-Scented Brandied Cherries",
@@ -105,7 +126,9 @@
     "Tags": "cherries, spring",
     "PhotoID": 8043696,
     "Photographer": "Randi Lynn Beach, Special to the Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Dessert",
+    "Diet": "Vegan"
   },
   {
     "Recipe Name": "Cherry Black Pepper Cake",
@@ -113,7 +136,9 @@
     "Tags": "cherries, spring",
     "PhotoID": 10495232,
     "Photographer": "Nik Sharma, The Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Cherry Chile Salad",
@@ -122,7 +147,9 @@
     "Tags": "cherries, spring",
     "PhotoID": 8043697,
     "Photographer": "Randi Lynn Beach, Special to the Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Salad",
+    "Diet": "Vegan"
   },
   {
     "Recipe Name": "Cotogna's Artichoke Sformato",
@@ -131,7 +158,9 @@
     "Tags": "artichokes, spring",
     "PhotoID": 5177602,
     "Photographer": "Craig Lee, Special to the Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Side dish",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Farro & Roasted Apricot Salad\n",
@@ -140,7 +169,9 @@
     "Tags": "apricots, spring",
     "PhotoID": 2045431,
     "Photographer": "Craig Lee, Special to the Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Salad",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Farro Salad With Pickled Carrots & Shaved Artichokes",
@@ -149,7 +180,9 @@
     "Tags": "artichokes, spring",
     "PhotoID": 12709868,
     "Photographer": "Connor Radnovich, The Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Salad",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Fried Asparagus With Meyer Lemon-Mustard Dipping Sauce",
@@ -158,7 +191,9 @@
     "Tags": "asparagus, spring",
     "PhotoID": 12430615,
     "Photographer": "Sarah Fritsche, The Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Appetizer",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Grilled Fava Beans With Mint Yogurt Sauce",
@@ -167,7 +202,9 @@
     "Tags": "favas, spring",
     "PhotoID": 7849072,
     "Photographer": "Santiago Mejia, The Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Side dish",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Grilled New York Steak With Spring Relish \n",
@@ -176,25 +213,29 @@
     "Tags": "asparagus, spring",
     "PhotoID": 7665268,
     "Photographer": "Russell Yip, The Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Main dish"
   },
   {
-    "Recipe Name": "Joyce Goldstein's Braised Artichokes, Favas & Lettuce",
+    "Recipe Name": "Braised Artichokes, Favas & Lettuce",
     "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Braised-Artichokes-Favas-Lettuce-7251040.php",
     "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=9771128",
     "Tags": "artichokes, favas, spring",
     "PhotoID": 9771128,
     "Photographer": "Liz Hafalia, The Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Side dish",
+    "Diet": "Vegan"
   },
   {
-    "Recipe Name": "Joyce Goldstein's Fish With Sephardic Tomato & Rhubarb Sauce",
+    "Recipe Name": "Fish With Sephardic Tomato & Rhubarb Sauce",
     "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Fish-With-Sephardic-Tomato-Rhubarb-Sauce-7251043.php",
     "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=9771096",
     "Tags": "rhubarb, spring",
     "PhotoID": 9771096,
     "Photographer": "Liz Hafalia, The Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Main dish"
   },
   {
     "Recipe Name": "Little Bee Baking’s Rhubarb Upside-Down Cake\n",
@@ -203,16 +244,20 @@
     "Tags": "rhubarb, spring",
     "PhotoID": 7813934,
     "Photographer": "Liz Hafalia, The Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
-    "Recipe Name": "Michael Tusk’s English Pea Risotto",
+    "Recipe Name": "English Pea Risotto",
     "Link to Recipe": "http://www.sfchronicle.com/food/top-100-2015/article/Quince-s-English-Pea-Risotto-6271542.php",
     "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=7949634",
     "Tags": "peas, spring",
     "PhotoID": 7949634,
     "Photographer": "Tina Case, Special to the Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Main dish",
+    "Diet": "vegetarian"
   },
   {
     "Recipe Name": "Nopa’s Custard French Toast",
@@ -221,7 +266,9 @@
     "Tags": "strawberries, spring",
     "PhotoID": 9584038,
     "Photographer": "Liz Hafalia, The Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Dessert",
+    "Diet": "vegetarian"
   },
   {
     "Recipe Name": "Orange Honey Apricot Refresher",
@@ -230,25 +277,31 @@
     "Tags": "apricots, spring",
     "PhotoID": 12709790,
     "Photographer": "John Lee, Special to the Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Drink",
+    "Diet": "vegetarian"
   },
   {
-    "Recipe Name": "Pasta Salad by Tosca Cafe’s Josh Even",
+    "Recipe Name": "Pasta Salad",
     "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Pasta-Salad-by-Tosca-Cafe-s-Josh-Even-8342023.php",
     "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=10145538",
     "Tags": "peas, spring",
     "PhotoID": 10145538,
     "Photographer": "Liz Hafalia, The Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Side dish",
+    "Diet": "vegetarian"
   },
   {
-    "Recipe Name": "Pie Ranch Strawberry Rhubarb Pie",
+    "Recipe Name": "Pie Ranch's Strawberry Rhubarb Pie",
     "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Pie-Ranch-Strawberry-Rhubarb-Pie-7288030.php",
     "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=9841861",
     "Tags": "rhubarb, strawberries, spring",
     "PhotoID": 9841861,
     "Photographer": "James Tensuan, Special to the Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Dessert",
+    "Diet": "vegetarian"
   },
   {
     "Recipe Name": "Pietisserie's Strawberry-Rhubarb Pie In A Chocolate Crust",
@@ -257,7 +310,9 @@
     "Tags": "strawberries, rhubarb, spring",
     "PhotoID": 4711513,
     "Photographer": "Craig Lee, Special to the Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Dessert",
+    "Diet": "vegetarian"
   },
   {
     "Recipe Name": "Pork Chops With Grilled Apricot-Maple Compote",
@@ -266,7 +321,8 @@
     "Tags": "apricots, spring",
     "PhotoID": 8092417,
     "Photographer": "Amanda Gold, The Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Main dish"
   },
   {
     "Recipe Name": "Puffy Cherry Pancake",
@@ -275,7 +331,9 @@
     "Tags": "cherries, spring",
     "PhotoID": 8043700,
     "Photographer": "Randi Lynn Beach, Special to the Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Rich Table's Spaghetti With Goat Cheese, Peas & Mint",
@@ -284,7 +342,9 @@
     "Tags": "peas, spring",
     "PhotoID": 4450467,
     "Photographer": "Craig Lee, Special to the Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Main dish",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Roasted Honey Apricot Vanilla Shortbread Napoleon ",
@@ -293,7 +353,9 @@
     "Tags": "apricots, spring",
     "PhotoID": 4780045,
     "Photographer": "Craig Lee, Special to the Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Roasted Rhubarb, Green Cardamom & Rose Water Kulfi",
@@ -302,7 +364,9 @@
     "Tags": "rhubarb, spring",
     "PhotoID": 12608909,
     "Photographer": "Nik Sharma, The Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Shihan Phool (Spicy Ethiopian Fava Beans)",
@@ -311,7 +375,9 @@
     "Tags": "favas, spring",
     "PhotoID": 10543762,
     "Photographer": "Michael Noble Jr., The Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Side dish",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Shrimp & Orzo Salad With Dill",
@@ -320,7 +386,8 @@
     "Tags": "peas, spring",
     "PhotoID": 9757272,
     "Photographer": "Sarah Fritsche, The Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Salad"
   },
   {
     "Recipe Name": "Sole With Snap Peas & Tarragon Brown Butter",
@@ -329,7 +396,8 @@
     "Tags": "peas, spring",
     "PhotoID": 8092419,
     "Photographer": "Amanda Gold, The Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Main dish"
   },
   {
     "Recipe Name": "Spicy Roasted Fava Beans",
@@ -338,7 +406,9 @@
     "Tags": "favas, spring",
     "PhotoID": 7848857,
     "Photographer": "Santiago Mejia, The Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Side dish",
+    "Diet": "Vegan"
   },
   {
     "Recipe Name": "Steak & Spring Vegetable Sauté",
@@ -347,7 +417,8 @@
     "Tags": "peas, spring",
     "PhotoID": 7861756,
     "Photographer": "Russell Yip, The Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Main dish"
   },
   {
     "Recipe Name": "Strawberry Shiso Shrub",
@@ -356,7 +427,9 @@
     "Tags": "strawberries, spring",
     "PhotoID": 10833732,
     "Photographer": "Nik Sharma, The Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Drink",
+    "Diet": "Vegan"
   },
   {
     "Recipe Name": "Warm Fava Bean “Salad”",
@@ -365,7 +438,9 @@
     "Tags": "favas, spring",
     "PhotoID": 7848863,
     "Photographer": "Santiago Mejia, The Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Salad",
+    "Diet": "Vegan"
   },
   {
     "Recipe Name": "Warm Kale Salad With Apricots, Marinated Feta & Sesame Seeds",
@@ -374,7 +449,9 @@
     "Tags": "apricots, spring",
     "PhotoID": 9930486,
     "Photographer": "Liz Hafalia, The Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Salad",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Whole Strawberry Preserves",
@@ -383,7 +460,9 @@
     "Tags": "strawberries, spring",
     "PhotoID": 8182503,
     "Photographer": "Daniel Acker, Bloomberg",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Dessert",
+    "Diet": "Vegan"
   },
   {
     "Recipe Name": "Lord Stanley's Artichokes with Poached Eggs",
@@ -392,7 +471,9 @@
     "Tags": "artichokes, favas, spring",
     "PhotoID": 12711217,
     "Photographer": "Sarah Fritsche, The Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "side dish",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Easy Pistachio-Olive Oil Cake With Strawberry-Rhubarb Compote",
@@ -401,7 +482,9 @@
     "Tags": "strawberries, rhubarb, spring",
     "PhotoID": 12716895,
     "Photographer": "Russell Yip, The Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Strawberries Topped With Muscat Sabayon Custard",
@@ -410,7 +493,9 @@
     "Tags": "strawberries, spring",
     "PhotoID": 13245751,
     "Photographer": "Craig Lee, Special to the Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Strawberry Meringue Cake",
@@ -419,7 +504,9 @@
     "Tags": "strawberries, spring",
     "PhotoID": 2329292,
     "Photographer": "Craig Lee, Special to the Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Olive Oil Cake With Balsamic Strawberries",
@@ -428,7 +515,9 @@
     "Tags": "strawberries, spring",
     "PhotoID": 2664795,
     "Photographer": "Katy Raddatz, The Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Cornmeal Shortcakes With Roasted Fruit",
@@ -437,7 +526,9 @@
     "Tags": "strawberries, rhubarb, spring",
     "PhotoID": 2325911,
     "Photographer": "Craig Lee, Special to the Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Strawberry-Almond Shortcakes",
@@ -446,16 +537,20 @@
     "Tags": "strawberries, spring",
     "PhotoID": 13245822,
     "Photographer": "Peter DaSilva, Special to The Chronicle",
-    "Season": "Spring"
+    "Season": "Spring",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
-    "Recipe Name": "Melissa Perello's Summer Stone Fruit & Tomato Panzanella",
+    "Recipe Name": "Summer Stone Fruit & Tomato Panzanella",
     "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Melissa-Perello-lets-day-s-harvest-dictate-menu-5677427.php?cmpid=hp-hc-food",
     "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=6687372",
     "Tags": "nectarines, peaches, tomatoes, cucumbers, summer",
     "PhotoID": 6687372,
     "Photographer": "Jason Henry, Special to The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Charred Cucumber Salad With Compressed Nectarine, Tomatoes & Ice Lettuce",
@@ -464,7 +559,9 @@
     "Tags": "nectarines, cucumbers, tomatoes, summer",
     "PhotoID": 10489671,
     "Photographer": "Amanda Gold, The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "Salad",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Creative Plum Mostarda",
@@ -473,7 +570,9 @@
     "Tags": "plums, summer",
     "PhotoID": 8162051,
     "Photographer": "Liz Hafalia, The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "side dish",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Plum & Rosewater Mochi",
@@ -482,7 +581,9 @@
     "Tags": "plums, summer",
     "PhotoID": 10668423,
     "Photographer": "Sarah Fritsche, The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "Dessert",
+    "Diet": "Vegan"
   },
   {
     "Recipe Name": "Plum Crepe",
@@ -491,7 +592,9 @@
     "Tags": "plums, summer",
     "PhotoID": 4989202,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Maple Bourbon Peaches",
@@ -500,7 +603,9 @@
     "Tags": "peaches, summer",
     "PhotoID": 4904733,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "Dessert",
+    "Diet": "vegan"
   },
   {
     "Recipe Name": "Mixed Berries in Vanilla Tarragon Syrup",
@@ -509,7 +614,9 @@
     "Tags": "blueberries, blackberries, summer",
     "PhotoID": 4904725,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "Dessert",
+    "Diet": "vegan"
   },
   {
     "Recipe Name": "Plums in Port Ginger Syrup",
@@ -518,7 +625,9 @@
     "Tags": "plums, summer",
     "PhotoID": 4904711,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "Dessert",
+    "Diet": "vegan"
   },
   {
     "Recipe Name": "Cherry Tomato Tortellini With Pesto",
@@ -527,7 +636,9 @@
     "Tags": "tomatoes, summer",
     "PhotoID": 10730864,
     "Photographer": "Sarah Fritsche, The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "Main dish",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "State Bird's Amatriciana With Yuba, Tomatoes & Chantarelles",
@@ -536,16 +647,19 @@
     "Tags": "tomatoes, summer",
     "PhotoID": 13246397,
     "Photographer": "Renee Frojo, The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "main dish"
   },
   {
-    "Recipe Name": "Nicole Plue's Summer Stone Fruit \"Pudding\" With Plum Wine Cake",
+    "Recipe Name": "Summer Stone Fruit \"Pudding\" With Plum Wine Cake",
     "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Pastry-chef-Nicole-Plue-shares-her-secrets-with-5614277.php",
     "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=13246137",
     "Tags": "plums, summer",
     "PhotoID": 13246137,
     "Photographer": "Michael Macor, The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Simple Summer Cake With Sliced Fruit Topping",
@@ -554,7 +668,9 @@
     "Tags": "plums, nectarines, summer",
     "PhotoID": 2028111,
     "Photographer": "Eric Luse, The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Peach Chicken",
@@ -563,7 +679,8 @@
     "Tags": "peaches, summer",
     "PhotoID": 5104567,
     "Photographer": "Russell Yip, The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "main dish"
   },
   {
     "Recipe Name": "Three Babes Bakeshop Peach Raspberry Almond Streusel Pie",
@@ -572,7 +689,9 @@
     "Tags": "peaches, summer",
     "PhotoID": 8104073,
     "Photographer": "Loren Elliott, The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Dosa's South Indian Summer Corn Salad",
@@ -581,7 +700,9 @@
     "Tags": "corn, summer",
     "PhotoID": 13246148,
     "Photographer": "Russell Yip, The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "side dish",
+    "Diet": "Vegan"
   },
   {
     "Recipe Name": "Summer Farro Salad ",
@@ -590,7 +711,9 @@
     "Tags": "corn, tomatoes, summer",
     "PhotoID": 8409399,
     "Photographer": "Amanda Gold, The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "Salad",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Flatbread With Spinach, Corn & Burrata",
@@ -599,7 +722,9 @@
     "Tags": "corn, summer",
     "PhotoID": 8241617,
     "Photographer": "Amanda Gold, The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "Salad",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Hot Vegetable Summer Salad With Miso Vinaigrette",
@@ -608,7 +733,9 @@
     "Tags": "corn, zucchini, summer squash, summer",
     "PhotoID": 3212259,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "Salad",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Shishito Pepper & Corn Relish",
@@ -617,7 +744,9 @@
     "Tags": "corn, summer",
     "PhotoID": 13246208,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "side dish",
+    "Diet": "Vegan"
   },
   {
     "Recipe Name": "Shaved Summer Squash & Green Beans With Basil-Lemon Vinaigrette",
@@ -626,7 +755,9 @@
     "Tags": "zucchini, summer squash, summer",
     "PhotoID": 3242653,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "side dish",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Romano Beans Smothered In Garlicky Tomatoes",
@@ -635,7 +766,9 @@
     "Tags": "tomatoes, summer",
     "PhotoID": 13246459,
     "Photographer": "Sarah Rice, Special to The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "side dish",
+    "Diet": "Vegan"
   },
   {
     "Recipe Name": "Vegetable & Shell Bean Gratin",
@@ -644,7 +777,9 @@
     "Tags": "tomatoes, summer squash, summer",
     "PhotoID": 8370920,
     "Photographer": "Russell Yip, The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "side dish",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Oven-Dried Tomatoes",
@@ -653,7 +788,9 @@
     "Tags": "tomatoes, summer",
     "PhotoID": 8150885,
     "Photographer": "Liz Hafalia, The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "side dish",
+    "Diet": "Vegan"
   },
   {
     "Recipe Name": "Popped Tomatoes",
@@ -662,7 +799,9 @@
     "Tags": "tomatoes, summer",
     "PhotoID": 8150919,
     "Photographer": "Liz Hafalia, The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "side dish",
+    "Diet": "vegan"
   },
   {
     "Recipe Name": "Spanish Gazpacho",
@@ -671,7 +810,9 @@
     "Tags": "tomatoes, cucumbers, summer",
     "PhotoID": 8150917,
     "Photographer": "Liz Hafalia, The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "appetizer",
+    "Diet": "vegan"
   },
   {
     "Recipe Name": "Grilled Shrimp & Tomato Skewers",
@@ -680,7 +821,8 @@
     "Tags": "tomatoes, summer",
     "PhotoID": 8181290,
     "Photographer": "Amanda Gold, The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "main dish"
   },
   {
     "Recipe Name": "Cherry Tomato Galette",
@@ -689,7 +831,9 @@
     "Tags": "tomatoes, summer",
     "PhotoID": 6698296,
     "Photographer": "Russell Yip, The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "appetizer",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Basil-Zucchini Soup With Cheese Toast",
@@ -698,7 +842,9 @@
     "Tags": "zucchini, summer squash, summer",
     "PhotoID": 8055662,
     "Photographer": "Amanda Gold, The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "appetizer",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Breakfast Bibimbap With Poached Eggs",
@@ -707,7 +853,9 @@
     "Tags": "zucchini, summer squash",
     "PhotoID": 10489649,
     "Photographer": "Amanda Gold, The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "main dish",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Black Bean Pasta With Roasted Summer Vegetables & Goat Cheese",
@@ -716,7 +864,9 @@
     "Tags": "zucchini, summer squash, summer",
     "PhotoID": 8241653,
     "Photographer": "Amanda Gold, The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "main dish",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Grilled Scallop Squash With Za'atar & Haloumi",
@@ -725,7 +875,9 @@
     "Tags": "summer squash, summer",
     "PhotoID": 6821311,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "side dish",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Zucchetti",
@@ -734,16 +886,19 @@
     "Tags": "zucchini, summer squash, summer",
     "PhotoID": 10207180,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "main dish",
+    "Diet": "Vegetarian"
   },
   {
-    "Recipe Name": "Gonzalo Guzman’s Empanadas de Flor de Calabaza",
+    "Recipe Name": "Empanadas de Flor de Calabaza",
     "Link to Recipe": "http://www.sfchronicle.com/food/article/Mexican-chef-s-home-style-blossoms-at-Nopalito-3220773.php",
     "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=2029913",
     "Tags": "zucchini, summer squash, summer",
     "PhotoID": 2029913,
     "Photographer": "Carlos Avila Gonzalez , The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "appetizer"
   },
   {
     "Recipe Name": "Summer Vegetable Trio",
@@ -752,7 +907,8 @@
     "Tags": "summer squash, corn, summer",
     "PhotoID": 5044185,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "side dish"
   },
   {
     "Recipe Name": "Honey Panna Cotta With Blackberry-Lime Sauce",
@@ -761,7 +917,8 @@
     "Tags": "blackberries, summer",
     "PhotoID": 10489650,
     "Photographer": "Amanda Gold, The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "Dessert"
   },
   {
     "Recipe Name": "Spoon-Biscuit Fruit Cobbler",
@@ -770,7 +927,9 @@
     "Tags": "blackberries, summer",
     "PhotoID": 13246488,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Blackberry Crunch Cake",
@@ -779,7 +938,9 @@
     "Tags": "blackberries, summer",
     "PhotoID": 1889750,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Blackberry Yogurt Loaf",
@@ -788,7 +949,9 @@
     "Tags": "blackberries, summer",
     "PhotoID": 1815970,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Brioche Doughnuts With Blueberry-Bourbon-Basil Glaze",
@@ -797,7 +960,9 @@
     "Tags": "blueberries, summer",
     "PhotoID": 12963818,
     "Photographer": "Sarah Fritsche, The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Key Lime Blueberry Cheesecake",
@@ -806,7 +971,9 @@
     "Tags": "blueberries, summer",
     "PhotoID": 3008752,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Hazelnut Torte With Blueberries & Coffee Cream",
@@ -815,7 +982,9 @@
     "Tags": "blueberries, summer",
     "PhotoID": 4869529,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "SusieCakes Blueberry Pie",
@@ -824,7 +993,10 @@
     "Tags": "blueberries, summer",
     "PhotoID": 4707927,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "Dessert",
+    "Diet": "Vegetarian",
+    "Featured": "featured"
   },
   {
     "Recipe Name": "Blueberry-Honey Yogurt Parfaits with Pepita Crunch\n",
@@ -833,7 +1005,9 @@
     "Tags": "blueberries, summer",
     "PhotoID": 1880010,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Fig Blueberry Pastry Slab",
@@ -842,7 +1016,9 @@
     "Tags": "blueberries, summer",
     "PhotoID": 2311170,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Lamb Meatball Salad",
@@ -851,7 +1027,8 @@
     "Tags": "cucumbers, summer",
     "PhotoID": 12823100,
     "Photographer": "Russell Yip, The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "Salad"
   },
   {
     "Recipe Name": "Vegan California Bowl",
@@ -860,7 +1037,9 @@
     "Tags": "cucumbers, summer",
     "PhotoID": 12823324,
     "Photographer": "Sarah Fritsche, The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "main dish",
+    "Diet": "Vegan"
   },
   {
     "Recipe Name": "Swedish Meatballs With Cream Gravy & Pickled Cucumbers",
@@ -869,7 +1048,8 @@
     "Tags": "cucumbers, summer",
     "PhotoID": 8855789,
     "Photographer": "Russell Yip, The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "main dish"
   },
   {
     "Recipe Name": "Spiced lamb kebabs and cucumber raita",
@@ -878,7 +1058,8 @@
     "Tags": "cucumbers, summer",
     "PhotoID": 10555041,
     "Photographer": "Nik Sharma",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "main dish"
   },
   {
     "Recipe Name": "Avocado & Cucumber Salad",
@@ -887,7 +1068,9 @@
     "Tags": "cucumbers, summer",
     "PhotoID": 9645564,
     "Photographer": "Amanda Gold, The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "Salad",
+    "Diet": "Vegan"
   },
   {
     "Recipe Name": "Chicken & Eggplant Kofte",
@@ -896,7 +1079,8 @@
     "Tags": "eggplant, summer",
     "PhotoID": 8241657,
     "Photographer": "Amanda Gold, The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "main dish"
   },
   {
     "Recipe Name": "Grilled Eggplant Sandwiches With Aioli",
@@ -905,7 +1089,9 @@
     "Tags": "eggplant, summer",
     "PhotoID": 13246248,
     "Photographer": "Russell Yip, The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "main dish",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Roasted Eggplants With Agrodolce Sauce & Toasted Hazelnuts",
@@ -914,7 +1100,9 @@
     "Tags": "eggplant, summer",
     "PhotoID": 10899021,
     "Photographer": "Sarah Fritsche, The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "side dish",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Lentil, Roasted Eggplant & Walnut Salad",
@@ -923,7 +1111,9 @@
     "Tags": "eggplant, summer",
     "PhotoID": 8371310,
     "Photographer": "Amanda Gold, The Chronicle",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Course": "salad",
+    "Diet": "Vegan"
   },
   {
     "Recipe Name": "Brown Butter Pear Tart",
@@ -932,7 +1122,9 @@
     "Tags": "pears, fall",
     "PhotoID": 2080334,
     "Photographer": "Craig Lee, The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Cinnamon-Poached Pear Upside Down Cake",
@@ -941,7 +1133,9 @@
     "Tags": "pears, fall",
     "PhotoID": 2428903,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Apple & Fig-Stuffed Butternut Squash",
@@ -950,7 +1144,10 @@
     "Tags": "apples, winter squash, fall",
     "PhotoID": 1803042,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "side dish",
+    "Diet": "Vegetarian",
+    "Featured": "featured"
   },
   {
     "Recipe Name": "Apple Clafouti With Cinnamon-Nutmeg Cream",
@@ -959,7 +1156,9 @@
     "Tags": "apples, fall",
     "PhotoID": 2035847,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Upside-Down Pumpkin Tart",
@@ -968,7 +1167,9 @@
     "Tags": "pumpkin, winter squash, fall",
     "PhotoID": 2448538,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Brown Butter Caramel Apple Cake",
@@ -977,7 +1178,9 @@
     "Tags": "apples, fall",
     "PhotoID": 2066244,
     "Photographer": "Thor Swift, The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Spicy Apple Bread",
@@ -986,7 +1189,10 @@
     "Tags": "apples, fall",
     "PhotoID": 2397501,
     "Photographer": "Jana Asenbrennerova, Special To The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "Dessert",
+    "Diet": "Vegetarian",
+    "Featured": "featured"
   },
   {
     "Recipe Name": "Apple-Cardamom Pound Cake",
@@ -995,7 +1201,9 @@
     "Tags": "apples, fall",
     "PhotoID": 3711726,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "White Wine-Poached Pears With Baked Vanilla Custard",
@@ -1004,7 +1212,9 @@
     "Tags": "pears, fall",
     "PhotoID": 4322494,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Maple Pear Brown Betty",
@@ -1013,7 +1223,9 @@
     "Tags": "pears, fall",
     "PhotoID": 2192307,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Butternut Squash & Leek Cobbler",
@@ -1022,7 +1234,8 @@
     "Tags": "winter squash, fall",
     "PhotoID": 2192308,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "side dish"
   },
   {
     "Recipe Name": "Vanilla Bean Apple Crumble",
@@ -1031,7 +1244,9 @@
     "Tags": "apples, fall",
     "PhotoID": 2192309,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Ginger-Asian Pear Grunt",
@@ -1040,7 +1255,9 @@
     "Tags": "pears, fall",
     "PhotoID": 2192307,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Meyer Lemon-Cranberry Buckle",
@@ -1049,7 +1266,9 @@
     "Tags": "cranberries, fall",
     "PhotoID": 2192311,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Caramel Apples",
@@ -1058,7 +1277,9 @@
     "Tags": "apples, fall",
     "PhotoID": 11448800,
     "Photographer": "Sarah Fritsche, The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Dandelion & Coriander Koftas With Spiced Apple Chutney",
@@ -1067,7 +1288,8 @@
     "Tags": "apples, fall",
     "PhotoID": 12498525,
     "Photographer": "Nik Sharma, The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "main dish"
   },
   {
     "Recipe Name": "Grilled Apple Salad With Balsamic Fig Vinaigrette",
@@ -1076,7 +1298,9 @@
     "Tags": "apples, fall",
     "PhotoID": 11208029,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "salad",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Pomegranate Sorbet With Honey Brittle",
@@ -1085,25 +1309,30 @@
     "Tags": "pomegranates, fall",
     "PhotoID": 1817003,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
-    "Recipe Name": "Cap'n Mike's Honey-Smoked Salmon Sandwiches With Asian Pear Relish",
+    "Recipe Name": "Honey-Smoked Salmon Sandwiches With Asian Pear Relish",
     "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Cap-n-Mike-s-Honey-Smoked-Salmon-10921088.php",
     "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=12325558",
     "Tags": "pears, fall",
     "PhotoID": 12325558,
     "Photographer": "Sarah Fritsche, The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "main dish"
   },
   {
-    "Recipe Name": "Aaron Toensing's Green Chile Apple Pie",
+    "Recipe Name": "Green Chile Apple Pie",
     "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Aaron-Toensing-s-Green-Chile-Apple-Pie-6627500.php",
     "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=8937232",
     "Tags": "apples, fall",
     "PhotoID": 8937232,
     "Photographer": "Liz Hafalia, The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Petrale Sole With Pear Salsa",
@@ -1112,7 +1341,8 @@
     "Tags": "pears, fall",
     "PhotoID": 3385085,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "main dish"
   },
   {
     "Recipe Name": "Petite Pear Pies",
@@ -1121,7 +1351,9 @@
     "Tags": "pears, fall",
     "PhotoID": 2302274,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Beer-Braised Brats With Pear & Mustard Compote",
@@ -1130,16 +1362,18 @@
     "Tags": "pears, fall",
     "PhotoID": 3644069,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "main dish"
   },
   {
-    "Recipe Name": "Drew Hash's Glazed Pork Belly With Asian Pear Slaw",
+    "Recipe Name": "Glazed Pork Belly With Asian Pear Slaw",
     "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Glazed-Pork-Belly-With-Asian-Pear-Slaw-10786678.php",
     "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=11739083",
     "Tags": "pears, fall",
     "PhotoID": 11739083,
     "Photographer": "James Tensuan, Special to The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "main dish"
   },
   {
     "Recipe Name": "Autumn Persimmon & Pomegranate Salad",
@@ -1148,7 +1382,9 @@
     "Tags": "pomegranates, persimmon, fall",
     "PhotoID": 11786757,
     "Photographer": "Russell Yip, The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "salad",
+    "Diet": "Vegan"
   },
   {
     "Recipe Name": "Whole Grilled Trout With Charred Napa Cabbage, Pomegranate & Smoked Cashews",
@@ -1157,7 +1393,8 @@
     "Tags": "pomegranates, fall",
     "PhotoID": 5363444,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "main dish"
   },
   {
     "Recipe Name": "Asheh Anar (Pomegranate Soup With Meatballs)",
@@ -1166,7 +1403,8 @@
     "Tags": "pomegranates, fall",
     "PhotoID": 12555622,
     "Photographer": "Sarah Fritsche, The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "appetizer"
   },
   {
     "Recipe Name": "Pomegranate Thumbprint Cookies",
@@ -1175,7 +1413,9 @@
     "Tags": "pomegranates, fall",
     "PhotoID": 12008796,
     "Photographer": "Sarah Fritsche, The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Spiced Persimmon & Pomegranate Salad ",
@@ -1184,7 +1424,9 @@
     "Tags": "pomegranates, persimmon, fall",
     "PhotoID": 1798910,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "salad",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Spiced Pomegranate Shrimp",
@@ -1193,7 +1435,8 @@
     "Tags": "pomegranates, fall",
     "PhotoID": 1798909,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "main dish"
   },
   {
     "Recipe Name": "Gingerbread Pecan-Cranberry Tart",
@@ -1202,25 +1445,30 @@
     "Tags": "cranberries, fall",
     "PhotoID": 11786728,
     "Photographer": "Russell Yip, The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
-    "Recipe Name": "Alex Ong's Cranberry-Sambal Chutney",
+    "Recipe Name": "Cranberry-Sambal Chutney",
     "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Alex-Ong-s-Cranberry-Sambal-Chutney-5894120.php",
     "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=7126327",
     "Tags": "cranberries, fall",
     "PhotoID": 7126327,
     "Photographer": "Aubrie Pick, Special to The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "side dish"
   },
   {
-    "Recipe Name": "Daniel Patterson's Gingered Cranberry & Pear Relish",
+    "Recipe Name": "Gingered Cranberry & Pear Relish",
     "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Daniel-Patterson-s-Gingered-Cranberry-10623251.php",
     "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=3707656",
     "Tags": "cranberries, pears, fall",
     "PhotoID": 3707656,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "side dish",
+    "Diet": "Vegan"
   },
   {
     "Recipe Name": "Traci Des Jardin's Fuyu Persimmon Relish",
@@ -1229,7 +1477,9 @@
     "Tags": "persimmons, fall",
     "PhotoID": 11827414,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "side dish",
+    "Diet": "Vegan"
   },
   {
     "Recipe Name": "Roasted Brussels Sprouts, Trumpet Mushroom & Persimmon Stuffing",
@@ -1238,7 +1488,9 @@
     "Tags": "persimmons, brussels sprouts, fall",
     "PhotoID": 11786760,
     "Photographer": "Russell Yip, The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "side dish",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Butternut Squash Crostini With Goat Cheese & Fried Sage",
@@ -1247,7 +1499,9 @@
     "Tags": "winter squash, fall",
     "PhotoID": 11818858,
     "Photographer": "Sarah Fritsche, The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "appetizer",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Brussels Sprouts Salad With Dill & Almonds",
@@ -1256,7 +1510,9 @@
     "Tags": "brussels sprouts, fall",
     "PhotoID": 11817701,
     "Photographer": "Liz Hafalia, The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "side dish",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Pomegranate-Roasted Duck Breast",
@@ -1265,7 +1521,8 @@
     "Tags": "pomegranates, fall",
     "PhotoID": 2025859,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "main dish"
   },
   {
     "Recipe Name": "Pomegranate Jelly",
@@ -1274,7 +1531,9 @@
     "Tags": "pomegranates, fall",
     "PhotoID": 3483635,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "Dessert",
+    "Diet": "Vegan"
   },
   {
     "Recipe Name": "Pomegranate Ruz Sandwich",
@@ -1283,7 +1542,8 @@
     "Tags": "pomegranates, fall",
     "PhotoID": 3483636,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "main dish"
   },
   {
     "Recipe Name": "Kale & Brussels Sprouts Salad With Toasted Almonds, Apples & Lemon-Tahini Vinaigrette",
@@ -1292,7 +1552,9 @@
     "Tags": "brussels sprouts, apples, fall",
     "PhotoID": 4196069,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "salad",
+    "Diet": "Vegan"
   },
   {
     "Recipe Name": "Winter Squash & Chickpea Soup",
@@ -1301,7 +1563,9 @@
     "Tags": "winter squash, fall",
     "PhotoID": 8893364,
     "Photographer": "Connor Radnovich, The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "appetizer",
+    "Diet": "Vegan"
   },
   {
     "Recipe Name": "Beef & Butternut Squash Stew With Rosemary",
@@ -1310,7 +1574,8 @@
     "Tags": "winter squash, fall",
     "PhotoID": 9234064,
     "Photographer": "Amanda Gold, The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "main dish"
   },
   {
     "Recipe Name": "Delicata Squash & Red Lentil Stew",
@@ -1319,7 +1584,9 @@
     "Tags": "winter squash, fall",
     "PhotoID": 11683340,
     "Photographer": "Nik Sharma, The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "main dish",
+    "Diet": "Vegan"
   },
   {
     "Recipe Name": "Dosa's Pumpkin Chutney",
@@ -1328,7 +1595,9 @@
     "Tags": "pumpkin, winter squash, fall",
     "PhotoID": 8749314,
     "Photographer": "Russell Yip, The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "side dish",
+    "Diet": "Vegan"
   },
   {
     "Recipe Name": "Aziza's Pumpkin Spice Mousse With Chicory Cream",
@@ -1337,7 +1606,9 @@
     "Tags": "pumpkin, winter squash, fall",
     "PhotoID": 8789654,
     "Photographer": "Russell Yip, The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Garam Masala Pumpkin Butter ",
@@ -1346,7 +1617,9 @@
     "Tags": "pumpkin, winter squash, fall",
     "PhotoID": 6967207,
     "Photographer": "Russell Yip, The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "Dessert",
+    "Diet": "vegan"
   },
   {
     "Recipe Name": "Sambal Roasted Pumpkin",
@@ -1355,7 +1628,9 @@
     "Tags": "pumpkin, winter squash, fall",
     "PhotoID": 6967204,
     "Photographer": "Russell Yip, The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "side dish",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Pumpkin Blue Cheese Strata",
@@ -1364,7 +1639,9 @@
     "Tags": "pumpkin, winter squash, fall",
     "PhotoID": 6967206,
     "Photographer": "Russell Yip, The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "side dish",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Pumpkin Flan",
@@ -1373,7 +1650,9 @@
     "Tags": "pumpkin, winter squash, fall",
     "PhotoID": 11360714,
     "Photographer": "Nik Sharma, The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "side dish",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Pumpkin Caramel Whoopie Pies",
@@ -1382,7 +1661,9 @@
     "Tags": "pumpkin, winter squash, fall",
     "PhotoID": 3610923,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "side dish",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Kabocha, Kale & Mushroom \"Stoup\"",
@@ -1391,7 +1672,9 @@
     "Tags": "winter squash, fall",
     "PhotoID": 12008814,
     "Photographer": "Sarah Fritsche, The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "main dish",
+    "Diet": "vegan"
   },
   {
     "Recipe Name": "Easy Chicken Pho With Spaghetti Squash \"Noodles\" ",
@@ -1400,25 +1683,29 @@
     "Tags": "winter squash, fall",
     "PhotoID": 9234063,
     "Photographer": "Amanda Gold, The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "main dish"
   },
   {
-    "Recipe Name": "Anthony Strong's Squash Gnocchi With Amaretti Crumbs",
+    "Recipe Name": "Squash Gnocchi With Amaretti Crumbs",
     "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Squash-Gnocchi-With-Chestnuts-Amaretti-Poppy-5979955.php",
     "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=7303390",
     "Tags": "winter squash, fall",
     "PhotoID": 7303390,
     "Photographer": "Russell Yip, The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "main dish",
+    "Diet": "Vegetarian"
   },
   {
-    "Recipe Name": "Sharon Ardiana's Farrotto With Roasted Butternut Squash & Shallots",
+    "Recipe Name": "Farrotto With Roasted Butternut Squash & Shallots",
     "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Sharon-Ardiana-s-Farrotto-With-Roasted-6577722.php",
     "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=8746041",
     "Tags": "winter squash, fall",
     "PhotoID": 8746041,
     "Photographer": "Liz Hafalia, The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "side dish"
   },
   {
     "Recipe Name": "Roasted Butternut Squash With Salsa Cascabel & Queso Fresco",
@@ -1427,7 +1714,9 @@
     "Tags": "butternut squash, fall",
     "PhotoID": 5448161,
     "Photographer": "Liz Hafalia, The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "side dish",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Hoshigaki (Japanese Dried Persimmons)",
@@ -1436,7 +1725,9 @@
     "Tags": "persimmons, fall",
     "PhotoID": 8973960,
     "Photographer": "Russell Yip, The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Persimmon Pudding",
@@ -1445,7 +1736,9 @@
     "Tags": "persimmons, fall",
     "PhotoID": 5431622,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Persimmons Grand Marnier",
@@ -1454,7 +1747,9 @@
     "Tags": "persimmons, fall",
     "PhotoID": 2397332,
     "Photographer": "Thor Swift, The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Shaved Brussels Sprouts Salad With Roasted Mushrooms & Wheat Berries",
@@ -1463,7 +1758,9 @@
     "Tags": "brussels sprouts, fall",
     "PhotoID": 12166455,
     "Photographer": "Sarah Fritsche, The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "salad",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Brussels Sprouts Kimchi",
@@ -1472,7 +1769,8 @@
     "Tags": "brussels sprouts, fall",
     "PhotoID": 3515697,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "side dish"
   },
   {
     "Recipe Name": "Rice Bowl With Roasted Brussels Sprouts, Broccoli, Tomatoes & Egg",
@@ -1481,7 +1779,9 @@
     "Tags": "brussels sprouts, fall",
     "PhotoID": 8785913,
     "Photographer": "Amanda Gold, The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "main dish",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Marlowe's Upside Down Pear Crisp",
@@ -1490,7 +1790,9 @@
     "Tags": "pears, fall",
     "PhotoID": 1915902,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Coles De Brussels",
@@ -1499,7 +1801,8 @@
     "Tags": "brussels sprouts, fall",
     "PhotoID": 1803121,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "side dish"
   },
   {
     "Recipe Name": "Barbacco's Celery & Apple Salad",
@@ -1508,7 +1811,9 @@
     "Tags": "apples, fall",
     "PhotoID": 1861321,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "salad",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Cranberry Sauce Streusel Muffins",
@@ -1517,7 +1822,9 @@
     "Tags": "cranberries, fall",
     "PhotoID": 8942097,
     "Photographer": "Liz Hafalia, The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Turkey, Cranberry & Sage Sausage",
@@ -1526,7 +1833,8 @@
     "Tags": "cranberries, fall",
     "PhotoID": 2953589,
     "Photographer": "Craig Lee, Special to The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "side dish"
   },
   {
     "Recipe Name": "Mixed Wine Autumn Sangria",
@@ -1535,7 +1843,9 @@
     "Tags": "persimmons, apples, pears, fall",
     "PhotoID": 8942164,
     "Photographer": "Liz Hafalia, The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "drink",
+    "Diet": "Vegan"
   },
   {
     "Recipe Name": "Ginger-Spiced & Caramelized Pear Muffins",
@@ -1544,7 +1854,9 @@
     "Tags": "pears, fall",
     "PhotoID": 14365193,
     "Photographer": "Sarah Fritsche, The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
   },
   {
     "Recipe Name": "Quick-Brined Pork Chop With Tangy Mustard-Spiked Apple Sauce",
@@ -1553,7 +1865,8 @@
     "Tags": "apples, fall",
     "PhotoID": 14365197,
     "Photographer": "Sarah Fritsche, The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "main dish"
   },
   {
     "Recipe Name": "Garam Masala-Spiced Pumpkin Soup With Yogurt & Pomegranate Seeds",
@@ -1562,6 +1875,1495 @@
     "Tags": "pumpkin, winter squash, pomegranates, fall",
     "PhotoID": 14365198,
     "Photographer": "Sarah Fritsche, The Chronicle",
-    "Season": "Fall"
+    "Season": "Fall",
+    "Course": "appetizer",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Guinea Hen With Cabbage & Wild Mushrooms",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Dutch-ovens-portable-cookers-versatile-as-ever-3413706.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=2633008",
+    "Tags": "mushrooms, winter",
+    "PhotoID": 2633008,
+    "Photographer": "\nCraig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish"
+  },
+  {
+    "Recipe Name": "Mushroom Crostini",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Ethiopia-on-culinary-map-in-Bay-Area-3464998.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=2788038",
+    "Tags": "mushrooms, winter",
+    "PhotoID": 2788038,
+    "Photographer": "Erik Verduzco, The Chronicle\n",
+    "Season": "Winter",
+    "Course": "appetizer",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Crepes Stuffed With Mushrooms, Leeks & Walnuts",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Put-a-fresh-twist-on-French-classics-3944056.php#photo-3578397",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=3578396",
+    "Tags": "mushrooms, winter",
+    "PhotoID": 3578396,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Maybeck's Beef Wellington",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Maybeck-s-Beef-Wellington-12433774.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=14686372",
+    "Tags": "mushrooms, winter",
+    "PhotoID": 14686372,
+    "Photographer": "Liz Hafalia, The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish"
+  },
+  {
+    "Recipe Name": "Souley Vegan's No-Beef Wellington",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Recipe-Souley-Vegan-s-No-Beef-Wellington-12433827.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=14707569",
+    "Tags": "mushrooms, winter",
+    "PhotoID": 14707569,
+    "Photographer": "Lea Suzuki, The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish",
+    "Diet": "Vegan"
+  },
+  {
+    "Recipe Name": "Wild Mushroom Risotto",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Terje-Terje-on-Italian-culture-cuisine-4004578.php",
+    "Photo": "NOT IN WCM, BUT PHOTO IN MERLIN",
+    "Tags": "mushrooms, winter",
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Yellowfoot Chanterelle Soup",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Terje-Terje-on-Italian-culture-cuisine-4004578.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=3677423",
+    "Tags": "mushrooms, winter",
+    "PhotoID": 3677423,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "appetizer",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Umbrian Lentil Salad With Roasted Mushrooms & Beets",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Lauren-Kiino-likes-to-talk-about-produce-4082048.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=3812808",
+    "Tags": "mushrooms, beets, winter",
+    "PhotoID": 3812808,
+    "Photographer": "Craig Lee, Special To The Chronicle\n",
+    "Season": "Winter",
+    "Course": "salad"
+  },
+  {
+    "Recipe Name": "Table's Savory Steel-Cut Oats With Mushrooms, Snap Peas, Fried Egg & Spring Onions",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Savor-or-sweet-breakfast-bowls-satisfy-4358594.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=4326043",
+    "Tags": "mushrooms, winter",
+    "PhotoID": 4326043,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Tofu With Mushrooms & Snap Peas",
+    "Link to Recipe": "http://www.sfchronicle.com/wine/pairings/article/Meatless-Monday-idea-makes-some-sense-4413574.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=4419293",
+    "Tags": "mushrooms, winter",
+    "PhotoID": 4419293,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Risotto-Style Bacon & Mushroom Pasta\n",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/weeknightdish/article/Two-quick-dinners-fall-pasta-main-course-salad-4947663.php",
+    "Photo": "NOT IN WCM, BUT PHOTO IN MERLIN",
+    "Tags": "mushrooms, winter",
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish"
+  },
+  {
+    "Recipe Name": "Mushrooms in Red Wine Sauce",
+    "Link to Recipe": "http://www.sfchronicle.com/wine/pairings/article/Holiday-recipes-to-highlight-wine-5023414.php#photo-5479602",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=5479602",
+    "Tags": "mushrooms, winter",
+    "PhotoID": 5479602,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "side dish"
+  },
+  {
+    "Recipe Name": "Mushroom Escabeche",
+    "Link to Recipe": "http://www.sfchronicle.com/restaurants/article/S-F-Chronicle-Rising-Star-Chef-2014-James-5339931.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=6047636",
+    "Tags": "mushrooms, winter",
+    "PhotoID": 6047636,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "side dish",
+    "Diet": "Vegan"
+  },
+  {
+    "Recipe Name": "Lotus Leaf-Wrapped Sticky Rice",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Brandon-Jew-s-Lotus-Leaf-Wrapped-Sticky-6079810.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=7501923",
+    "Tags": "mushrooms, winter",
+    "PhotoID": 7501923,
+    "Photographer": "Russell Yip / The Chronicle",
+    "Season": "Winter",
+    "Course": "side dish"
+  },
+  {
+    "Recipe Name": "Shaved Brussels Sprouts Salad With Roasted Mushrooms & Wheat Berries",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Shaved-winter-salad-brings-Brussels-sprouts-into-10856403.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=12166455",
+    "Tags": "mushrooms, winter",
+    "PhotoID": 12166455,
+    "Photographer": "Sarah Fritsche, The Chronicle",
+    "Season": "Winter",
+    "Course": "salad",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Gold & Red Beet \"Carpaccio\" With Macerated Shallots & Ricotta Salata\n",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Chefs-make-their-own-vinegar-from-leftover-wine-3359873.php#photo-2545662",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=2545662",
+    "Tags": "beets, winter",
+    "PhotoID": 2545662,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "salad",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Lentil Stew With Roasted Beets & Yogurt",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Start-off-new-year-with-lucky-legumes-4139495.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=3923441",
+    "Tags": "beets, winter",
+    "PhotoID": 3923441,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Farfalle With Manila Clams, Porcini & Stridoli",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Four-star-chef-Michael-Tusk-Italy-from-two-5568479.php#photo-6472396",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=6472397",
+    "Tags": "mushrooms, winter",
+    "PhotoID": 6472397,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish"
+  },
+  {
+    "Recipe Name": "Beet Cured Ocean Trout With Yuzu Aioli",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Beet-Cured-Ocean-Trout-With-Yuzu-Aioli-5647654.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=6639805",
+    "Tags": "beets, winter",
+    "PhotoID": 6639805,
+    "Photographer": "Russell Yip, The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish"
+  },
+  {
+    "Recipe Name": "Babu Ji's Yogurt Kebabs With Beet Sauce",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Babu-Ji-s-Yogurt-Kebabs-With-Beet-Sauce-10621693.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=11821348",
+    "Tags": "beets, winter",
+    "PhotoID": 11821348,
+    "Photographer": "Liz Hafalia, The Chronicle",
+    "Season": "Winter",
+    "Course": "appetizer",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Chickpea Burgers With Beet-Yogurt Sauce",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/A-Brown-Kitchen-Chickpea-Burgers-With-11721360.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=13278314",
+    "Tags": "beets, winter",
+    "PhotoID": 13278314,
+    "Photographer": "Nik Sharma, The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Marinated Beets With Winter Citrus, Fried Onion Mousse & Crispy Wild Rice",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Recipe-Marinated-Beets-With-Winter-Citrus-Fried-10934736.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=12367043",
+    "Tags": "beets, citrus, winter",
+    "PhotoID": 12367043,
+    "Photographer": "Gabrielle Lurie, The Chronicle",
+    "Season": "Winter",
+    "Course": "salad",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Roasted Beet and Carrot Salad With Cauliflower Dashi Puree\n\n\n",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Geoffrey-Lee-s-Roasted-Beet-and-Carrot-7220493.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=9715819",
+    "Tags": "beets, cauliflower, winter",
+    "PhotoID": 9715819,
+    "Photographer": "Amanda Gold, The Chronicle",
+    "Season": "Winter",
+    "Course": "salad"
+  },
+  {
+    "Recipe Name": "Kabocha, Mushroom & Kale “Stoup”\n\n",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Recipe-Kabocha-Mushroom-Kale-Stoup-10786983.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=12008814",
+    "Tags": "mushrooms, kale, winter",
+    "PhotoID": 12008814,
+    "Photographer": "Sarah Fritsche, The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish",
+    "Diet": "Vegan"
+  },
+  {
+    "Recipe Name": "Miso Soup With Fennel & Chard",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/breakawaycook/article/Miso-adds-savory-kick-to-everything-3848783.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=3417123",
+    "Tags": "fennel, chard, winter",
+    "PhotoID": 3417123,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "appetizer"
+  },
+  {
+    "Recipe Name": "Swiss Chard & Leek Cannelloni",
+    "Link to Recipe": "https://www.sfchronicle.com/food/article/Parsnips-blue-cheese-make-for-velvety-cannelloni-3465000.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=2788043",
+    "Tags": "chard, winter",
+    "PhotoID": 2788043,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Braised Lamb With Pasta",
+    "Link to Recipe": "http://www.sfchronicle.com/wine/pairings/article/Wine-pairings-with-main-courses-starters-4081087.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=3763794",
+    "Tags": "chard, winter",
+    "PhotoID": 3763794,
+    "Photographer": "Craig Lee, Special to The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish"
+  },
+  {
+    "Recipe Name": "Roasted Butternut Squash Salad With Lime Curry Leaf Dressing",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/A-Brown-Kitchen-Roasted-Butternut-Squash-Salad-12353835.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=14485590",
+    "Tags": "kale, winter",
+    "PhotoID": 14485590,
+    "Photographer": "Nik Sharma, The Chronicle",
+    "Season": "Winter",
+    "Course": "salad",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Creamed Swiss Chard",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Creamed-Swiss-Chard-5969003.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=7275460",
+    "Tags": "chard, winter",
+    "PhotoID": 7275460,
+    "Photographer": "Russell Yip / The Chronicle",
+    "Season": "Winter",
+    "Course": "side dish",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Chard-Stuffed Flat Bread",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Chard-Stuffed-Flat-Bread-5969018.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=7275458",
+    "Tags": "chard, winter",
+    "PhotoID": 7275458,
+    "Photographer": "Russell Yip / The Chronicle",
+    "Season": "Winter",
+    "Course": "side dish"
+  },
+  {
+    "Recipe Name": "Chard Soup",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Chard-Soup-5969030.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=7275455",
+    "Tags": "chard, winter",
+    "PhotoID": 7275455,
+    "Photographer": "Russell Yip / The Chronicle",
+    "Season": "Winter",
+    "Course": "appetizer",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Beans & Greens",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Chard-Soup-5969030.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=7597515",
+    "Tags": "chard, kale, winter",
+    "PhotoID": 7597515,
+    "Photographer": "Terray Sylvester / The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Shrimp & Funche",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/From-Puerto-Rico-Comfort-in-a-bowl-of-corn-12181569.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=14052535",
+    "Tags": "chard, winter",
+    "PhotoID": 14052535,
+    "Photographer": "Illyanna Maisonet, The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish"
+  },
+  {
+    "Recipe Name": "Grilled Squid With Cherry Tomato Salad & Aioli\n\n",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Grilled-Squid-With-Cherry-Tomato-Salad-11739763.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=13617955",
+    "Tags": "chard, winter",
+    "PhotoID": 13617955,
+    "Photographer": "Craig Lee, The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish"
+  },
+  {
+    "Recipe Name": "Savory Greens Pie",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Savory-Greens-Pie-for-a-delicious-spring-fling-11022950.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=12582728",
+    "Tags": "chard, winter",
+    "PhotoID": 12582728,
+    "Photographer": "Russell Yip, The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Millet Porridge With Tamari Chicken",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Kristen-Rasmussen-s-Millet-Porridge-11273928.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=13030213",
+    "Tags": "chard, kale, winter",
+    "PhotoID": 13030213,
+    "Photographer": "Jen Fedrizzi, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish"
+  },
+  {
+    "Recipe Name": "Turnips & Greens Gratin",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Winter-vegetable-gratins-perfect-for-a-rainy-day-10840537.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=12138920",
+    "Tags": "chard, kale, winter",
+    "PhotoID": 12138920,
+    "Photographer": "Sarah Fritsche, The Chronicle",
+    "Season": "Winter",
+    "Course": "side dish",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Carrot, Potato & Fennel Gratin\n\n",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Winter-vegetable-gratins-perfect-for-a-rainy-day-10840537.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=12138917",
+    "Tags": "fennel, winter",
+    "PhotoID": 12138917,
+    "Photographer": "Sarah Fritsche, The Chronicle",
+    "Season": "Winter",
+    "Course": "side dish",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Mixed Grains Risotto With Greens",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Mixed-Grain-Risotto-With-Greens-6281280.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=8005866",
+    "Tags": "chard, winter",
+    "PhotoID": 8005866,
+    "Photographer": "Russell Yip, The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Long-Braised Fall & Winter Greens With North African Seasoning\n",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Boulettes-Amaryll-Schwertner-eggs-on-brunch-2344769.php#photo-1861314",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=1861314",
+    "Tags": "chard, kale, broccoli, winter",
+    "PhotoID": 1861314,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Fish With Nettle & Sunflower Seed Sauce",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Fish-With-Nettle-Sunflower-Seed-Sauce-6222174.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=7787696",
+    "Tags": "chard, kale, winter",
+    "PhotoID": 7787696,
+    "Photographer": "Russell Yip, The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish"
+  },
+  {
+    "Recipe Name": "Crispy Salmon with Thyme Butter & Roasted Fennel Salad",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Crispy-Salmon-with-Thyme-Butter-Roasted-6403750.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=8245883",
+    "Tags": "fennel, winter",
+    "PhotoID": 8245883,
+    "Photographer": "Liz Hafalia, The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish"
+  },
+  {
+    "Recipe Name": "Twice-Baked Mashed Potatoes With Fennel Butter",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Hosts-can-be-thankful-to-share-dinner-preparations-4985783.php#photo-5465630",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=5465630",
+    "Tags": "fennel, winter",
+    "PhotoID": 5465630,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "side dish",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Aster’s Whole Roasted Graffiti Cauliflower",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Aster-s-Whole-Roasted-Graffiti-6627507.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=8913168",
+    "Tags": "cauliflower, winter",
+    "PhotoID": 8913168,
+    "Photographer": "Russell Yip, The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Tarbais Bean & Escarole Soup With Fennel Seed\n",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Licorice-enlivens-dishes-the-world-over-4467553.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=4530114",
+    "Tags": "chicories, winter",
+    "PhotoID": 4530114,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "appetizer"
+  },
+  {
+    "Recipe Name": "Roasted Prosciutto-Wrapped Fennel",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Licorice-enlivens-dishes-the-world-over-4467553.php#photo-4530114",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=4530111",
+    "Tags": "fennel, winter",
+    "PhotoID": 4530111,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "side dish"
+  },
+  {
+    "Recipe Name": "Cast-iron Chicken Thighs With Meyer Lemon-Mint Salmoriglio\n\n",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Cast-iron-Chicken-Thighs-With-Meyer-7423578.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=9930442",
+    "Tags": "citrus, winter",
+    "PhotoID": 9930442,
+    "Photographer": "Liz Hafalia, The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish"
+  },
+  {
+    "Recipe Name": "Warm Kale Salad With Apricots, Marinated Feta & Sesame Seeds",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Warm-Kale-Salad-With-Apricots-Marinated-7423579.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=9930480",
+    "Tags": "kale, winter",
+    "PhotoID": 9930480,
+    "Photographer": "Liz Hafalia, The Chronicle",
+    "Season": "Winter",
+    "Course": "salad"
+  },
+  {
+    "Recipe Name": "Kale & Goat Cheese Galette",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Nontraditional-traditional-Thanksgiving-4024841.php#photo-3699320",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=3699320",
+    "Tags": "kale, winter",
+    "PhotoID": 3699320,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "side dish",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Escarole Salad with Pomegranates ",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Nontraditional-traditional-Thanksgiving-4024841.php#photo-3699320",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=3699327",
+    "Tags": "chicories, winter",
+    "PhotoID": 3699327,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "salad",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Kale & Brussels Sprout Salad With Toasted Almonds, Apples & Lemon-Tahini Vinaigrette\n",
+    "Link to Recipe": "http://www.sfchronicle.com/food/seasonalcook/article/Bright-and-bold-winter-salads-4283158.php#photo-4196069",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=4196069",
+    "Tags": "kale, winter",
+    "PhotoID": 4196069,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "salad",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "\"Green Juice\" Salad",
+    "Link to Recipe": "http://www.sfchronicle.com/food/seasonalcook/article/Bright-and-bold-winter-salads-4283158.php#photo-4196069",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=4196215",
+    "Tags": "kale, broccoli, winter",
+    "PhotoID": 4196215,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "salad",
+    "Diet": "Vegan"
+  },
+  {
+    "Recipe Name": "Mixed Citrus Salad With Endive & Creamy Meyer Lemon Dressing\n",
+    "Link to Recipe": "http://www.sfchronicle.com/food/seasonalcook/article/Bright-and-bold-winter-salads-4283158.php#photo-4196069",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=4196051",
+    "Tags": "kale, citrus, chicories, winter",
+    "PhotoID": 4196051,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "salad",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Chicory Chopped Salad With Roasted Beets & Walnut Vinaigrette",
+    "Link to Recipe": "http://www.sfchronicle.com/food/seasonalcook/article/Bright-and-bold-winter-salads-4283158.php#photo-4196069",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=4196064",
+    "Tags": "beets. chicories, winter",
+    "PhotoID": 4196064,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "salad",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Heirloom Bean & Kale Salad",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Heirloom-Bean-and-Kale-Salad-6730226.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=9159542",
+    "Tags": "kale, winter",
+    "PhotoID": 9159542,
+    "Photographer": "Santiago Mejia, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "salad",
+    "Diet": "Vegan"
+  },
+  {
+    "Recipe Name": "Strong Arm Farm Nori-Kale Chips\n\n",
+    "Link to Recipe": "https://www.sfchronicle.com/recipes/articleComments/Strong-Arm-Farm-Nori-Kale-Chips-8203558.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=10366395",
+    "Tags": "kale, winter",
+    "PhotoID": 10366395,
+    "Photographer": "Tara Duggan, The Chronicle",
+    "Season": "Winter",
+    "Course": "appetizer",
+    "Diet": "Vegan"
+  },
+  {
+    "Recipe Name": "Baked Gnocchi With Squash & Kale",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/weeknightdish/article/Cara-Cara-oranges-give-pork-loin-character-5172890.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=5765700",
+    "Tags": "kale, winter",
+    "PhotoID": 5765700,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Roast Pork With Honeyed Oranges & Pistachios",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/weeknightdish/article/Cara-Cara-oranges-give-pork-loin-character-5172890.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=5765699",
+    "Tags": "citrus, winter",
+    "PhotoID": 5765699,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish"
+  },
+  {
+    "Recipe Name": "Barley With Green Garlic-Kale Pesto\n",
+    "Link to Recipe": "https://www.sfchronicle.com/food/seasonalcook/articleComments/Some-vegetables-can-t-wait-for-arrival-of-spring-5256754.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=5911154",
+    "Tags": "kale, winter",
+    "PhotoID": 5911154,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Sweet Potato & Kale Gratin\n\n\n",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Lauren-Kiino-s-sweet-potato-and-kale-gratin-5894117.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=7126329",
+    "Tags": "kale, winter",
+    "PhotoID": 7126329,
+    "Photographer": "Aubrie Pick / Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "side dish",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Muhammara Dip in Belgian Endive Spears",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Appetizers-a-taste-of-what-s-to-come-4100654.php#photo-3855671",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=3855671",
+    "Tags": "chicories, winter",
+    "PhotoID": 3855671,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "appetizer",
+    "Diet": "Vegan"
+  },
+  {
+    "Recipe Name": "Roasted Cauliflower With Turmeric & Cumin",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Appetizers-a-taste-of-what-s-to-come-4100654.php#photo-3855671",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=3855669",
+    "Tags": "cauliflower, winter",
+    "PhotoID": 3855669,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "side dish",
+    "Diet": "Vegan"
+  },
+  {
+    "Recipe Name": "Kale Chips With Peanut Sauce",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Appetizers-a-taste-of-what-s-to-come-4100654.php#photo-3855671",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=3855668",
+    "Tags": "kale, winter",
+    "PhotoID": 3855668,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "appetizer",
+    "Diet": "Vegan"
+  },
+  {
+    "Recipe Name": "Cauliflower in Puff Pastry\n",
+    "Link to Recipe": "http://www.sfchronicle.com/wine/pairings/article/Puff-pastry-adds-buttery-richness-4206380.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=4046232",
+    "Tags": "cauliflower, winter",
+    "PhotoID": 4046232,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "side dish",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Dungeness Crab With Avocado, Aleppo Pepper, Meyer Lemon & Mandarins\n",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/A-world-of-ways-to-spice-up-a-meal-5084074.php#photo-5623191",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=5623190",
+    "Tags": "citrus, winter",
+    "PhotoID": 5623190,
+    "Photographer": "Leah Millis, The Chronicle",
+    "Season": "Winter",
+    "Course": "salad"
+  },
+  {
+    "Recipe Name": "Roasted Cauliflower With Urfa Chile\n",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/A-world-of-ways-to-spice-up-a-meal-5084074.php#photo-5623191",
+    "Photo": "NOT IN WCM, BUT PHOTO IN MERLIN",
+    "Tags": "cauliflower, winter",
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "side dish",
+    "Diet": "Vegan"
+  },
+  {
+    "Recipe Name": "Cauliflower Sformatino With Shaved Vegetable Salad",
+    "Link to Recipe": "http://www.sfchronicle.com/food/chefssecrets/article/Creamy-cauliflower-custard-at-Poggio-2376283.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=1905842",
+    "Tags": "cauliflower, winter",
+    "PhotoID": 1905842,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "side dish",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Cauliflower Fried ‘Rice’ With Chicken\n\n",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Cook-Your-Week-Cauliflower-Fried-Rice-with-6600823.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=8861473",
+    "Tags": "cauliflower, winter",
+    "PhotoID": 8861473,
+    "Photographer": "Amanda Gold, The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish"
+  },
+  {
+    "Recipe Name": "Spicy Italian Chard and Sausage Frittata\n\n",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Cook-Your-Week-Spicy-Italian-Sausage-and-Chard-6587003.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=8823135",
+    "Tags": "chard, winter",
+    "PhotoID": 8823135,
+    "Photographer": "Amanda Gold, The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish"
+  },
+  {
+    "Recipe Name": "Mushroom Strata\n",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Custardy-strata-takes-center-stage-3183244.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=4295996",
+    "Tags": "mushrooms, winter",
+    "PhotoID": 2063053,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Broccoli Salad with Golden Raisins and Toasted Pecans",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Bay-Area-s-barbecue-boom-3588771.php#photo-2990210",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=2990210",
+    "Tags": "broccoli, winter",
+    "PhotoID": 2990210,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "salad",
+    "Diet": "Vegan"
+  },
+  {
+    "Recipe Name": "Warm Quinoa Salad With Broccoli, Apples & Arugula\n",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/weeknightdish/article/Good-time-to-fall-into-some-apple-dishes-3923435.php",
+    "Photo": "NOT IN WCM, BUT PHOTO IN MERLIN",
+    "Tags": "broccoli, winter",
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "salad",
+    "Diet": "Vegan"
+  },
+  {
+    "Recipe Name": "Family Pizza Night",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Family-Pizza-Night-6092140.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=7523737",
+    "Tags": "chicories, kale, broccoli, winter",
+    "PhotoID": 7523737,
+    "Photographer": "Carlos Avila Gonzalez / The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish"
+  },
+  {
+    "Recipe Name": "Rice Bowl With Roasted Brussels Sprouts, Broccoli, Tomatoes & Egg",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Cook-Your-Week-Rice-Bowl-With-Roasted-Brussels-6574497.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=8785913",
+    "Tags": "broccoli, winter",
+    "PhotoID": 8785913,
+    "Photographer": "Amanda Gold, The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Five-Spice Duck Breast Salad",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Foreign-Cinema-chefs-finally-realize-dream-6092896.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=7537764",
+    "Tags": "chicories, citrus, winter",
+    "PhotoID": 7537764,
+    "Photographer": "Russell Yip / The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish"
+  },
+  {
+    "Recipe Name": "Roasted Lamb, Chermoula, Chicory & Sunflower Seed Milk",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Grill-tips-from-Bay-Area-chefs-5501695.php#photo-5702230",
+    "Photo": "NOT IN WCM, BUT PHOTO IN MERLIN",
+    "Tags": "chicories, winter",
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish"
+  },
+  {
+    "Recipe Name": "Puntarelle With Bagna Cauda Vinaigrette",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/A-guide-to-winter-in-Bay-Area-farmers-markets-10825694.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=12081851",
+    "Tags": "chicories, winter",
+    "PhotoID": 12081851,
+    "Photographer": "Sarah Fritsche, The Chronicle",
+    "Season": "Winter",
+    "Course": "side dish"
+  },
+  {
+    "Recipe Name": "Smoky Maple Pork Chops With Creamed Endive\n",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Beat-winter-blues-with-Meyer-lemon-in-a-squeeze-2516625.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=2058496",
+    "Tags": "chicories, winter",
+    "PhotoID": 2058496,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish"
+  },
+  {
+    "Recipe Name": "Seared Scallops With Quick Meyer Lemon-Chive Marmalade\n",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Beat-winter-blues-with-Meyer-lemon-in-a-squeeze-2516625.php#photo-2058497",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=2058497",
+    "Tags": "citrus, winter",
+    "PhotoID": 2058497,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish"
+  },
+  {
+    "Recipe Name": "Carrot & Endive With Carrot Puree\n",
+    "Link to Recipe": "http://www.sfchronicle.com/restaurants/article/Matt-McNamara-Teague-Moriarty-Sons-Daughters-3407138.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=2621804",
+    "Tags": "chicories, citrus, winter",
+    "PhotoID": 2621804,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "side dish",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Belgian Endive Salad With Tangelos & Avocado\n",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Belgian-endive-can-be-cooked-or-eaten-raw-3498788.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=2842414",
+    "Tags": "chicories, citrus, winter",
+    "PhotoID": 2842414,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "salad",
+    "Diet": "Vegan"
+  },
+  {
+    "Recipe Name": "Oakleaf Lettuce With Endive, Crispy Broccoli & Lemon\n",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Fresh-vegetables-add-crunch-to-Thanksgiving-meal-4985788.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=5460148",
+    "Tags": "chicories, broccoli, citrus, winter",
+    "PhotoID": 5460148,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "salad",
+    "Diet": "Vegan"
+  },
+  {
+    "Recipe Name": "Belgian Endive Salad With Radishes & Kumquats\n",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Farmers-chefs-feed-each-other-ideas-5414003.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=6180082",
+    "Tags": "chicories, citrus, winter",
+    "PhotoID": 6180082,
+    "Photographer": "Paige Hermreck, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "salad",
+    "Diet": "vegan"
+  },
+  {
+    "Recipe Name": "Grilled Broccoli di Ciccio\n",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Farmers-chefs-feed-each-other-ideas-5414003.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=6180134",
+    "Tags": "broccoli, winter",
+    "PhotoID": 6180134,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "side dish"
+  },
+  {
+    "Recipe Name": "Warm Wheatberry, Cauliflower & Escarole Salad\n",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Lauren-Kiino-likes-to-talk-about-produce-4082048.php#photo-3814985",
+    "Photo": "NOT IN WCM, BUT PHOTO IN MERLIN",
+    "Tags": "chicories, cauliflower, winter",
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "salad"
+  },
+  {
+    "Recipe Name": "Radicchio Salad With Parmesan-Balsamico Vinaigrette\n",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Spotlight-on-radicchio-salad-at-Bar-Terra-2352816.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=1872362",
+    "Tags": "chicories, winter",
+    "PhotoID": 1872362,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "salad",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Tofu, Blood Orange & Avocado Salad\n",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Tofu-a-versatile-canvas-for-creative-cooks-5278565.php#photo-5948199",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=5948199",
+    "Tags": "citrus, winter",
+    "PhotoID": 5948199,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "salad",
+    "Diet": "Vegan"
+  },
+  {
+    "Recipe Name": "Citrus Bitters",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/DIY-Bitters-Party-6687136.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=9056971",
+    "Tags": "citrus, winter",
+    "PhotoID": 9056971,
+    "Photographer": "Russell Yip, The Chronicle",
+    "Season": "Winter",
+    "Course": "drink",
+    "Diet": "vegan"
+  },
+  {
+    "Recipe Name": "Grapefruit & Jicama Salad\n",
+    "Link to Recipe": "http://www.sfchronicle.com/wine/pairings/article/Grapefruit-Jicama-Salad-has-the-kick-a-Riesling-2688973.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=2161138",
+    "Tags": "citrus, winter",
+    "PhotoID": 2161138,
+    "Photographer": "Chris Hardy, Special to The Chronicle",
+    "Season": "Winter",
+    "Course": "salad",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Winter Citrus Salad with Orange Blossom Water, Olives & Honey\n",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/A-Moroccan-twist-to-New-Year-s-3256917.php#photo-2406177",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=2406177",
+    "Tags": "citrus, winter",
+    "PhotoID": 2406177,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "salad",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Pistachio-Crusted Petrale Sole with Grapefruit-Avocado Salad\n",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Leafy-interludes-for-winter-3253911.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=2068464",
+    "Tags": "citrus, winter",
+    "PhotoID": 2068464,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish"
+  },
+  {
+    "Recipe Name": "Citrus Verrines",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/thebaker/article/Verrines-visually-appealing-layers-4187488.php?sfgaterecipesection=",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=4011885",
+    "Tags": "citrus, winter",
+    "PhotoID": 4011885,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "Dessert"
+  },
+  {
+    "Recipe Name": "Braised Pork Shoulder with Umbrian Farro, Spinach, Toasted Hazelnuts & Amarena Cherries",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/RISING-STAR-CHEFS-2007-Chris-Kronner-2612427.php#photo-2098640",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=2098641",
+    "Tags": "fennel, winter",
+    "PhotoID": 2098641,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish"
+  },
+  {
+    "Recipe Name": "Crab, Avocado & Blood Orange Salad",
+    "Link to Recipe": "http://www.sfchronicle.com/wine/pairings/article/A-crab-salad-tower-takes-Champagne-to-new-heights-2628391.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=2112161",
+    "Tags": "citrus, winter",
+    "PhotoID": 2112161,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "salad"
+  },
+  {
+    "Recipe Name": "Aunt Ginny's Forgotten Dessert\n",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/thebaker/article/Forgotten-Dessert-a-crisp-effortless-meringue-3194945.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=1886877",
+    "Tags": "citrus, winter",
+    "PhotoID": 1886877,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Roasted Beets With Smoked Blue Cheese & Avocado\n",
+    "Link to Recipe": "http://www.sfchronicle.com/restaurants/article/2011-Rising-Star-Chef-Aaron-London-2455612.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=2017591",
+    "Tags": "beets, kale, citrus, winter",
+    "PhotoID": 2017591,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "salad",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Grapefruit, Escarole & Radicchio Salad\n",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Seasonal-Cook-Savory-ways-with-sweet-grapefruit-3231147.php#photo-2373862",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=2373862",
+    "Tags": "chicories, citrus, winter",
+    "PhotoID": 2373862,
+    "Photographer": "Thor Swift, The Chronicle",
+    "Season": "Winter",
+    "Course": "salad",
+    "Diet": "Vegan"
+  },
+  {
+    "Recipe Name": "Meyer Lemon Panna Cotta",
+    "Link to Recipe": "http://www.sfchronicle.com/food/rovingfeast/article/Former-thief-s-new-squeeze-Meyer-Lemon-Ladies-3195847.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=2334704",
+    "Tags": "citrus, winter",
+    "PhotoID": 2334704,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "Dessert"
+  },
+  {
+    "Recipe Name": "Pasta With Kale & Lemon Confit\n\n",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Pasta-With-Kale-Lemon-Confit-6036450.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=7430062",
+    "Tags": "kale, citrus, winter",
+    "PhotoID": 7430062,
+    "Photographer": "Russell Yip / The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Whole-Fruit Meyer Lemon Marmalade",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Seasonal-Cook-Keeping-up-with-the-Meyers-3223695.php#item-85307-tbla-3",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=2366298",
+    "Tags": "citrus, winter",
+    "PhotoID": 2366298,
+    "Photographer": "Thor Swift, The Chronicle",
+    "Season": "Winter",
+    "Course": "Dessert",
+    "Diet": "Vegan"
+  },
+  {
+    "Recipe Name": "Bitter Greens, Fennel & Onion with Lemon\n",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/A-Zest-for-Lemons-3255228.php#photo-1884059",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=1884060",
+    "Tags": "chicories, citrus, fennel, winter",
+    "PhotoID": 1884060,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "side dish",
+    "Diet": "vegan"
+  },
+  {
+    "Recipe Name": "Chicken Saltimbocca with Lemon Pan Jus\n",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/A-Zest-for-Lemons-3255228.php#photo-1884059",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=1884059",
+    "Tags": "citrus, winter",
+    "PhotoID": 1884059,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish"
+  },
+  {
+    "Recipe Name": "Tuna Salad with Preserved Lemon",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/A-Zest-for-Lemons-3255228.php#photo-1884059",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=2404401",
+    "Tags": "citrus, winter",
+    "PhotoID": 2404401,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish"
+  },
+  {
+    "Recipe Name": "Conchiglie con Olio e Limone\n",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/A-Zest-for-Lemons-3255228.php#photo-1884059",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=1884058",
+    "Tags": "citrus, winter",
+    "PhotoID": 1884058,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish",
+    "Diet": "Vegan"
+  },
+  {
+    "Recipe Name": "Roast Fish with Cauliflower, Olives & Piquillo Peppers\n",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Simple-Sunday-supper-does-double-duty-3173681.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=2309133",
+    "Tags": "cauliflower, citrus, winter",
+    "PhotoID": 2309133,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish"
+  },
+  {
+    "Recipe Name": "Beet Salad with Ginger, Pecans & Orange Zest\n",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Finally-beets-that-entice-3287846.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=2436328",
+    "Tags": "beets, citrus, winter",
+    "PhotoID": 2436328,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "salad",
+    "Diet": "Vegan"
+  },
+  {
+    "Recipe Name": "Blood Orange Compote With Star Anise",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Citrus-fruit-adds-zest-to-winter-3201810.php#photo-2342444",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=2342444",
+    "Tags": "citrus, winter",
+    "PhotoID": 2342444,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "side dish",
+    "Diet": "Vegan"
+  },
+  {
+    "Recipe Name": "Rosemary & Orange Sorbet",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Citrus-fruit-adds-zest-to-winter-3201810.php#photo-2342444",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=2342446",
+    "Tags": "citrus, winter",
+    "PhotoID": 2342446,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "Dessert",
+    "Diet": "Vegan"
+  },
+  {
+    "Recipe Name": "Orange & Olive Salad",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Citrus-fruit-adds-zest-to-winter-3201810.php#photo-2342444",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=2342442",
+    "Tags": "citrus, winter",
+    "PhotoID": 2342442,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "salad",
+    "Diet": "vegan"
+  },
+  {
+    "Recipe Name": "Petrale Sole With Meyer Lemon Beurre Blanc",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Citrus-fruit-adds-zest-to-winter-3201810.php#photo-2342444",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=2342447",
+    "Tags": "citrus, winter",
+    "PhotoID": 2342447,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish"
+  },
+  {
+    "Recipe Name": "Escarole, Grapefruit & Red Onion Salad With Candied Walnuts\n",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Citrus-fruit-adds-zest-to-winter-3201810.php#photo-2342444",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=2342448",
+    "Tags": "chicories, citrus, winter",
+    "PhotoID": 2342448,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "salad",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Grilled Toasts With Garlic, Oranges & Serrano Ham\n",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Citrus-fruit-adds-zest-to-winter-3201810.php#photo-2342444",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=2342450",
+    "Tags": "citrus, winter",
+    "PhotoID": 2342450,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "appetizer"
+  },
+  {
+    "Recipe Name": "Lemon Mousse",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Lemon-mousse-brightens-the-day-3170229.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=1911173",
+    "Tags": "citrus, winter",
+    "PhotoID": 1911173,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Tea-Smoked Duck Salad With Bulgur & Stewed Kumquats\n",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Etoile-s-Perry-Hoffman-started-at-age-4-3196742.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=2335746",
+    "Tags": "citrus, fennel, winter",
+    "PhotoID": 2335746,
+    "Photographer": "Jana Asenbrennerova, The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish"
+  },
+  {
+    "Recipe Name": "Candied Kumquat Almond Cake\n",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/thebaker/article/Bake-candied-kumquats-into-a-cake-4301365.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=4227059",
+    "Tags": "citrus, winter",
+    "PhotoID": 4227059,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Buttermilk Pound Cake With Rhubarb-Kumquat Compote & Buttermilk Ice Cream\n",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Spring-fling-Bay-Area-pastry-chefs-flirt-with-3192840.php#photo-1885005",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=1885005",
+    "Tags": "citrus, winter",
+    "PhotoID": 1885005,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Pan-Seared Tofu & Kale Salad With Lemon-Soy Vinaigrette",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Cook-Your-Week-Pan-Seared-Tofu-Kale-Salad-With-6326143.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=8131359",
+    "Tags": "kale, winter",
+    "PhotoID": 8131359,
+    "Photographer": "Amanda Gold, The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish",
+    "Diet": "Vegan"
+  },
+  {
+    "Recipe Name": "Baked Risotto with Meyer Lemon, Chicken & Arugula\n",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/weeknightdish/article/Shrimp-citrus-brighten-up-seasonal-fare-limbo-2472956.php#photo-1810705",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=1810705",
+    "Tags": "citrus, winter",
+    "PhotoID": 1810705,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish"
+  },
+  {
+    "Recipe Name": "Sole With Avocado, Cara Cara Orange & Red Onion Salsa\n\n\n",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Sole-With-Avocado-Cara-Cara-Orange-Red-6782447.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=9286405",
+    "Tags": "citrus, winter",
+    "PhotoID": 9286405,
+    "Photographer": "Russell Yip, The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish"
+  },
+  {
+    "Recipe Name": "Sephardic Orange & Almond Cake",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Sephardic-Orange-Almond-Cake-for-7251046.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=9771130",
+    "Tags": "citrus, winter",
+    "PhotoID": 9771130,
+    "Photographer": "liz Hafalia, The Chronicle",
+    "Season": "Winter",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Dungeness Crab Salad With Asparagus, Citrus & Green Goddess Dressing",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Dungeness-Crab-Salad-With-Asparagus-7260060.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=9824730",
+    "Tags": "citrus, winter",
+    "PhotoID": 9824730,
+    "Photographer": "Tara Duggan, The Chronicle",
+    "Season": "Winter",
+    "Course": "salad"
+  },
+  {
+    "Recipe Name": "Winter Rice Chicken Salad",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/A-Brown-Kitchen-Winter-Rice-Chicken-Salad-10841004.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=12150882",
+    "Tags": "citrus, winter",
+    "PhotoID": 12150882,
+    "Photographer": "Nik Sharma, The Chronicle",
+    "Season": "Winter",
+    "Course": "salad"
+  },
+  {
+    "Recipe Name": "Honey-Smoked Salmon Sandwiches With Asian Pear Relish\n\n",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Cap-n-Mike-s-Honey-Smoked-Salmon-10921088.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=12325554",
+    "Tags": "citrus, winter",
+    "PhotoID": 12325554,
+    "Photographer": "Sarah Fritsche, The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish"
+  },
+  {
+    "Recipe Name": "Pavlova With Lemon Curd & Citrus Salad\n\n",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Pavlova-With-Lemon-Curd-Citrus-Salad-10915220.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=12322151",
+    "Tags": "citrus, winter",
+    "PhotoID": 12322151,
+    "Photographer": "Liz Hafalia, The Chronicle",
+    "Season": "Winter",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Citrus Curd",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Market-Watch-Got-citrus-Make-curd-10798853.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=12042904",
+    "Tags": "citrus, winter",
+    "PhotoID": 12042904,
+    "Photographer": "Sarah Fritsche, The Chronicle",
+    "Season": "Winter",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Fideos With Duck, Chestnuts & Olives\n",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Paul-Canales-Spanish-fideos-5298578.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=5980453",
+    "Tags": "chicories, winter",
+    "PhotoID": 5980453,
+    "Photographer": "Craig Lee, Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish"
+  },
+  {
+    "Recipe Name": "Winter Chicory Salad with Shaved Beets, Asian Pears and Walnut Tamari Vinaigrette",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Curl-up-with-winter-s-greens-chicory-6021345.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=7398064",
+    "Tags": "chicories, beets, winter",
+    "PhotoID": 7398064,
+    "Photographer": "Russell Yip / The Chronicle",
+    "Season": "Winter",
+    "Course": "salad",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Winter Farmers’ Market Pasta",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/SF-farmers-market-run-with-Greens-chef-for-10901248.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=12269041",
+    "Tags": "broccoli, winter",
+    "PhotoID": 12269041,
+    "Photographer": "Sarah Fritsche, The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Orecchiette with Broccoli Rabe & Spicy Sausage",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Top-Recipe-2004-Orecchiette-with-Broccoli-Rabe-2487255.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=2648207",
+    "Tags": "broccoli, winter",
+    "PhotoID": 2648207,
+    "Photographer": "Peter DaSilva, The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish"
+  },
+  {
+    "Recipe Name": "Bar Tartine’s Wedge Salad With Buttermilk, Barley & Sprouts",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Bar-Tartine-s-Wedge-Salad-With-6321940.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=8114856",
+    "Tags": "fennel, citrus, winter",
+    "PhotoID": 8114856,
+    "Photographer": "Liz Hafalia, The Chronicle",
+    "Season": "Winter",
+    "Course": "salad",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Cioppino, Your Way",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Cioppino-Your-Way-5968930.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=7275409",
+    "Tags": "fennel, winter",
+    "PhotoID": 7275409,
+    "Photographer": "Russell Yip / The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish"
+  },
+  {
+    "Recipe Name": "Halibut Crudo",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Halibut-Crudo-by-Rintaro-s-Sylvan-7973491.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=10173854",
+    "Tags": "fennel, winter",
+    "PhotoID": 10173854,
+    "Photographer": "Liz Hafalia, The Chronicle",
+    "Season": "Winter",
+    "Course": "appetizer"
+  },
+  {
+    "Recipe Name": "Citrus-Roasted Turkey With Cognac Jus\n\n",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Citrus-Roasted-Turkey-With-Cognac-Jus-12345194.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=14505202",
+    "Tags": "citrus, fennel, winter",
+    "PhotoID": 14505202,
+    "Photographer": "John Lee / Special To The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish"
+  },
+  {
+    "Recipe Name": "Kale & Quinoa Salad With Apples & Tuna\n",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Healthy-eating-habits-often-start-at-your-desk-at-5112094.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=5672677",
+    "Tags": "kale, citrus, winter",
+    "PhotoID": 5672677,
+    "Photographer": "Liz Hafalia, The Chronicle",
+    "Season": "Winter",
+    "Course": "salad"
+  },
+  {
+    "Recipe Name": "Broiled Clementine & Mizuna Salad",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Broiled-Clementine-Mizuna-Salad-5991028.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=7331973",
+    "Tags": "citrus, winter",
+    "PhotoID": 7331973,
+    "Photographer": "Liz Hafalia, The Chronicle",
+    "Season": "Winter",
+    "Course": "salad",
+    "Diet": "Vegan"
+  },
+  {
+    "Recipe Name": "Clementine Salsa",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Clementine-Salsa-5991027.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=7331975",
+    "Tags": "citrus, winter",
+    "PhotoID": 7331975,
+    "Photographer": "Liz Hafalia, The Chronicle",
+    "Season": "Winter",
+    "Course": "side dish",
+    "Diet": "Vegan"
+  },
+  {
+    "Recipe Name": "Clementine Cake\n",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Clementine-Cake-5991030.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=7331976",
+    "Tags": "citrus, winter",
+    "PhotoID": 7331976,
+    "Photographer": "Liz Hafalia, The Chronicle",
+    "Season": "Winter",
+    "Course": "Dessert",
+    "Diet": "Vegetarian"
+  },
+  {
+    "Recipe Name": "Cast-iron Chicken Thighs With Meyer Lemon-Mint Salmoriglio",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Cast-iron-Chicken-Thighs-With-Meyer-7423578.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=9930442",
+    "Tags": "citrus, winter",
+    "PhotoID": 9930442,
+    "Photographer": "Liz Hafalia, The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish"
+  },
+  {
+    "Recipe Name": "Warm Kale Salad With Apricots, Marinated Feta & Sesame Seeds\n",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Recipe-Warm-Kale-Salad-With-Apricots-Marinated-7423579.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=9930480",
+    "Tags": "citrus, kale, winter",
+    "PhotoID": 9930480,
+    "Photographer": "Liz Hafalia, The Chronicle",
+    "Season": "Winter",
+    "Course": "salad"
+  },
+  {
+    "Recipe Name": "Italian Stuffed Peppers",
+    "Link to Recipe": "http://www.sfchronicle.com/food/article/Recipe-Italian-Stuffed-Peppers-12181146.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=14053694",
+    "Tags": "kale, winter",
+    "PhotoID": 14053694,
+    "Photographer": "Jessica Battilana, The Chronicle",
+    "Season": "Winter",
+    "Course": "main dish"
+  },
+  {
+    "Recipe Name": "Kale, Carrot & Onion Pakoras",
+    "Link to Recipe": "http://www.sfchronicle.com/recipes/article/A-Brown-Kitchen-The-glory-of-golden-pakoras-12246504.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=14219301",
+    "Tags": "kale, winter",
+    "PhotoID": 14219301,
+    "Photographer": "Nik Sharma, The Chronicle",
+    "Season": "Winter",
+    "Course": "appetizer",
+    "Diet": "Vegan"
   }
 ]

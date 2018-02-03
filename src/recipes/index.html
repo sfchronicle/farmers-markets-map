@@ -21,45 +21,77 @@
 
     <div class="hed-wrapper">
 
-      <div class="banner-img desktop"><img src="../assets/graphics/fall_banner.gif"></img></div>
-      <div class="banner-img mobile"><img src="../assets/graphics/fall_banner_mobile.gif"></img></div>
       <div class="hed">Seasonal recipes, fresh from the market</div>
-      <div class="chatter">These recipes showcase the best of Bay Area seasonal produce. Many come from our region's top chefs, and all have been tested in the Chronicle Test Kitchen. Go to your local market and get cooking.</div>
       <div class="byline">By <a href="mailto:sfritsche@sfchronicle.com">Sarah Fritsche</a> <a href = "https://twitter.com/foodcentric" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></div>
-
-      <div class="link-markets"><a class="link-button" href="../map/" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i>Map: S.F. Farmers’ Market Guide</a></div>
+      <div class="chatter">These recipes showcase the best of Bay Area seasonal produce. Many come from our region's top chefs, and all have been tested in the Chronicle Test Kitchen. Go to your local market and get cooking.</div>
 
     </div>
 
-    <div class="filter-instructions">Click on the buttons or use the search box below to find recipes:</div>
-    <div id="stick-here"></div>
-    <div id="stick-me">
-      <div class="filter-container">
-        <% json.IngredientTags.forEach(function(tt){ %>
-          <div class="filter topic <%=tt.Tags.toString().toLowerCase().replace(',','').replace(/\s/g,'')%>" id="<%=tt.Tags.toString().toLowerCase().replace(',','').replace(/\s/g,'')%>"><%=tt.Tags%></div>
-        <% }); %>
-        <div class="filter topic showall active" id="showall">View All</div>
-      </div>
-
-      <% json.IngredientTags.forEach(function(ss){ %>
-        <% var array = [ss.Subtags].toString().split(','); %>
-        <% if (array != "") { %>
-          <div class="sub-filter-container" id="subfilter<%=ss.Tags.toString().toLowerCase().replace(/ /g,'')%>">
-            <div class="sub-filter-instructions">Related topics:</div>
-              <div class="filter-container">
-                <% array.forEach(function(t){ %>
-                  <div class="filter subfilter <%=t.toString().toLowerCase().replace(/ /g,'')%>" id="<%=t.toString().toLowerCase().replace(/\s/g,'')%>"><%=t%></div>
-                  <% }); %>
-              </div>
-            </div>
-          <% } %>
+    <div class="featured-text">Sarah's featured recipes of the season:</div>
+    <div class="recipe-wrapper featured">
+      <% json.SeasonalRecipes.forEach(function(d){ %>
+        <% console.log("here"); %>
+        <% if (d.Featured == "featured") { %>
+          <div class="recipe-item featured active">
+            <a class="link-image" href="<%=d['Link to Recipe']%>" target="_blank">
+            <img src="http://ww2.hdnux.com/photos/54/11/64/<%=d.PhotoID%>/5/premium_landscape.jpg"></img>
+            <div class="event"><%=d["Recipe Name"]%></div>
+            </a>
+          </div>
+        <% } %>
       <% }); %>
     </div>
-    <div id="stick-ph"></div>
 
+    <div class="sort-tools">
     <div class="search-container recipes">
-      <span class="search">Search by keywords  </span>
-      <i class="fa fa-search" aria-hidden="true"></i><input class="input" id="searchbar" type="text" placeholder='Try "pie," "salad" or "berry" ...'>
+      <span class="search"><i class="fa fa-search" aria-hidden="true"></i></span>
+      <input class="input" id="searchbar" type="text" placeholder='What would you like to cook? Search our database here.'>
+    </div>
+
+    <div id="stick-here"></div>
+    <div id="stick-me">
+
+      <div class="drop-down-wrapper">
+
+        <div class="dropdown-container">
+          <select id="select-season">
+            <option value='spring' class="option" selected="selected">All seasons</option>
+            <option value='spring' class="option">Spring</option>
+            <option value='summer' class="option">Summer</option>
+            <option value='fall' class="option">Fall</option>
+            <option value='winter' class="option">Winter</option>
+          </select>
+        </div>
+
+        <div class="dropdown-container">
+          <select id="select-ingredients">
+            <option value='spring' class="option" selected="selected">All ingredients</option>
+            <option value='spring' class="option">Vegan</option>
+            <option value='summer' class="option">Vegetarian</option>
+          </select>
+        </div>
+
+        <div class="dropdown-container">
+          <select id="select-diet">
+            <option value='spring' class="option" selected="selected">All courses</option>
+            <option value='spring' class="option">Vegan</option>
+            <option value='summer' class="option">Vegetarian</option>
+          </select>
+        </div>
+
+        <div class="dropdown-container">
+          <select id="select-diet">
+            <option value='spring' class="option" selected="selected">All diets</option>
+            <option value='spring' class="option">Vegan</option>
+            <option value='summer' class="option">Vegetarian</option>
+          </select>
+        </div>
+
+
+      </div>
+
+    </div>
+    <div id="stick-ph"></div>
     </div>
 
 
@@ -67,12 +99,11 @@
 
     <div class="recipe-wrapper">
       <% json.SeasonalRecipes.forEach(function(d){ %>
-        <% if (d.PhotoID) { %>
+        <% if (d.PhotoID && d.Featured != "featured") { %>
           <div class="recipe-item active <%=[d.Tags].toString().toLowerCase().replace(/ /g,'').replace(',',' ')%> <%=[d['Recipe Name']]%>">
             <a class="link-image" href="<%=d['Link to Recipe']%>" target="_blank">
-            <img src="http://ww2.hdnux.com/photos/54/11/64/<%=d.PhotoID%>/5/premium_landscape.jpg"></img>
-            <div class="caption"><%=d["Photographer"]%></div>
-            <div class="event"><i class="fa fa-external-link" aria-hidden="true"></i><%=d["Recipe Name"]%></div>
+            <img src="http://ww2.hdnux.com/photos/54/11/64/<%=d.PhotoID%>/5/premium_landscape.jpg?2"></img>
+            <div class="event"><%=d["Recipe Name"]%></div>
             </a>
           </div>
         <% } %>

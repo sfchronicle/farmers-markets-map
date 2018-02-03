@@ -1,18 +1,40 @@
-@sea-blue: #879BBC;
-@brown: lighten(#9E7558,10%);
+// @sea-blue: #879BBC;
+// @brown: lighten(#9E7558,10%);
 // @dark-green: "#178250";//#319C6A;// #377357;// #1E5A3E;//#005E21;
+
+@dark-green: #499F68;//#006494;
 
 body {
   font-family: @block-graphics;
   font-size: 16px;
 }
 
-.fa-search {
-  display: none;
-  @media @mobile {
-    display: inline-block;
-    padding-right: 10px;
+// .fa-search {
+//   display: none;
+//   @media @mobile {
+//     display: inline-block;
+//     padding-right: 10px;
+//   }
+// }
+
+.featured-text {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.drop-down-wrapper {
+  max-width: 800px;
+  margin: auto;
+  margin-bottom: 30px;
+  .dropdown-container {
+    display:  inline-block;
+    width: 24%;
+    select {
+      padding: 10px;
+      width: 100%;
+    }
   }
+
 }
 
 #stick-ph {
@@ -34,7 +56,7 @@ body {
     -moz-box-shadow: 0 0 6px 0 @dark-gray;
     box-shadow: 0 0 6px 0 @dark-gray;
     .search-container {
-      margin: 5px 0 10px 0;
+      margin: 5px 0;
       // margin-bottom: 10px;
     }
     .search {
@@ -79,6 +101,11 @@ body {
   text-align: center;
   .display-flex;
   .flex-wrap(wrap);
+  max-width: 1200px;
+  margin: auto;
+  &.featured {
+    max-width: 700px;
+  }
   // align-items: center;
   // justify-content: center;
 }
@@ -190,11 +217,18 @@ body {
   font-family: @block-graphics;
   padding-bottom: 30px;
   font-size: 16px;
-  .flex(0 0 30%);
-  margin: 1.5%;
-  border: 2px solid @brown;
-  background: lighten(@light-gray,12%);
-  padding: 30px;
+  .flex(0 0 32%);
+  &.featured {
+    max-width: 300px;
+  }
+  margin: 0 auto;
+  margin-bottom: 20px;
+  // margin: 1.5%;
+  background: #DADDD2;
+  // border: 1px solid @med-green;
+  // border: 2px solid @brown;
+  background: lighten(@light-gray,15%);
+  padding: 10px;
   @media @tablet {
     padding: 20px;
   }
@@ -213,8 +247,7 @@ body {
     font-family: @block-graphics;
     font-size: 16px;
     line-height: 1.3;
-    padding-bottom: 5px;
-    padding-top: 5px;
+    padding: 10px;
     text-align: left;
     @media @tablet {
       font-size: 15px;
@@ -266,7 +299,7 @@ body {
   margin: auto;
   font-family: @block-graphics;
   margin-top: 20px;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
   // text-align: left;
   @media @mobile {
     // text-align: center;
@@ -278,15 +311,17 @@ body {
     }
   }
   .search {
-    font-family: @med-graphics;
+    font-family: @block-graphics;
     font-size: 16px;
     margin-bottom: 5px;
   }
   input {
     margin-left: 5px;
+    font-style: italic;
     // border-radius: 5px;
     border: 1px solid @dark-gray;
-    font-family: @block-graphics;
+    border-radius: 5px;
+    font-family: @med-graphics;
     padding: 5px;
     width: 70%;
     font-size: 14px;
@@ -317,6 +352,6 @@ body {
 }
 
 .controls-container {
-  background: @brown;//darken(@lightest-gray,5%);
+  // background: @brown;//darken(@lightest-gray,5%);
   padding: 10px 20px 10px 20px;
 }
