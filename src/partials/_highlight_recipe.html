@@ -1,0 +1,13 @@
+<div class="featured-text">Sarah's featured recipes of the season:</div>
+<div class="recipe-wrapper featured">
+  <% json.SeasonalRecipes.forEach(function(d){ %>
+    <% if (d.Featured == "featured") { %>
+      <div class="recipe-item featured active">
+        <a class="link-image" href="<%=d['Link to Recipe']%>" target="_blank">
+        <img src="http://ww2.hdnux.com/photos/54/11/64/<%=d.PhotoID%>/5/premium_landscape.jpg"></img>
+        <div class="event"><%=d["Recipe Name"]%></div>
+        </a>
+      </div>
+    <% } %>
+  <% }); %>
+</div>

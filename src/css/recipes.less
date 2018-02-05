@@ -17,6 +17,26 @@ body {
 //   }
 // }
 
+.tags {
+  text-align: left;
+  padding: 0 10px;
+  color: #333;
+  line-height: 1.3;
+  .tag {
+    color: @dark-gray;
+    white-space:nowrap;
+    &:hover {
+      color: #333;
+    }
+    font-family: @med-graphics;
+    font-size: 14px;
+    padding-right: 10px;
+    .fa {
+      padding-right: 3px;
+    }
+  }
+}
+
 .featured-text {
   text-align: center;
   padding-bottom: 10px;
@@ -26,11 +46,18 @@ body {
   max-width: 800px;
   margin: auto;
   margin-bottom: 30px;
+  text-align: center;
+  @media @mobile {
+    margin-bottom: 5px;
+  }
   .dropdown-container {
     display:  inline-block;
     width: 24%;
+    @media @mobile {
+      width: 45%;
+      margin-bottom: 5px;
+    }
     select {
-      padding: 10px;
       width: 100%;
     }
   }
@@ -55,23 +82,23 @@ body {
     -webkit-box-shadow: 0 0 6px 0 @dark-gray;
     -moz-box-shadow: 0 0 6px 0 @dark-gray;
     box-shadow: 0 0 6px 0 @dark-gray;
-    .search-container {
-      margin: 5px 0;
-      // margin-bottom: 10px;
-    }
-    .search {
-      display: none !important;
-    }
-    .fa-search {
-      display: inline-block;
-      padding-right: 10px;
-      font-size: 16px;
-    }
-    input {
-      display: inline-block !important;
-      font-size: 14px !important;
-      width: 80% !important;
-    }
+    // .search-container {
+    //   margin: 5px 0;
+    //   // margin-bottom: 10px;
+    // }
+    // .search {
+    //   display: none !important;
+    // }
+    // .fa-search {
+    //   display: inline-block;
+    //   padding-right: 10px;
+    //   font-size: 16px;
+    // }
+    // input {
+    //   display: inline-block !important;
+    //   font-size: 14px !important;
+    //   width: 80% !important;
+    // }
   }
 
 // }
@@ -105,6 +132,9 @@ body {
   margin: auto;
   &.featured {
     max-width: 700px;
+  }
+  @media @mobile {
+    margin-top: 20px;
   }
   // align-items: center;
   // justify-content: center;
@@ -228,6 +258,9 @@ body {
   // border: 1px solid @med-green;
   // border: 2px solid @brown;
   background: lighten(@light-gray,15%);
+  &:hover {
+    background: lighten(@light-gray,5%);
+  }
   padding: 10px;
   @media @tablet {
     padding: 20px;
@@ -253,17 +286,17 @@ body {
       font-size: 15px;
     }
   }
-  .tag {
-    margin: 4px;
-    display: inline-block;
-    font-family: @bold-graphics;
-    font-size: 14px;
-    padding: 0;
-    // border-bottom: 1px solid;
-    font-style: italic;
-    margin: 0 4px;
-    color: @dark-green;
-  }
+  // .tag {
+  //   margin: 4px;
+  //   display: inline-block;
+  //   font-family: @bold-graphics;
+  //   font-size: 14px;
+  //   padding: 0;
+  //   // border-bottom: 1px solid;
+  //   font-style: italic;
+  //   margin: 0 4px;
+  //   color: @dark-green;
+  // }
   .fa-external-link {
     padding-right: 5px;
   }
@@ -279,12 +312,12 @@ body {
 .search-container {
   &.recipes {
     text-align: center;
-    .search {
-      @media @mobile {
-        display: none;
-        margin-bottom: 0;
-      }
-    }
+    // .search {
+    //   @media @mobile {
+    //     display: none;
+    //     margin-bottom: 0;
+    //   }
+    // }
   }
   &.map {
     text-align: left;
@@ -326,13 +359,17 @@ body {
     width: 70%;
     font-size: 14px;
     @media @mobile {
-      width: 80%;
+      width: 85%;
       font-size: 14px;
       display: inline-block;
       margin: auto;
       margin-top: 0px;
     }
   }
+}
+
+.button {
+
 }
 
 .sidebar {
@@ -348,6 +385,21 @@ body {
     text-align: left;
     padding-bottom: 0;
     padding-top: 10px;
+  }
+}
+
+.button {
+  width: 150px;
+  margin: auto;
+  text-align: center;
+  border: 2px solid @dark-gray;
+  border-radius: 5px;
+  margin-top: 10px;
+  font-size: 14px;
+  cursor: pointer;
+  &.selected {
+    background: @dark-gray;
+    color: white;
   }
 }
 

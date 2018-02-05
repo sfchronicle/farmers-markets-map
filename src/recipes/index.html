@@ -27,71 +27,65 @@
 
     </div>
 
-    <div class="featured-text">Sarah's featured recipes of the season:</div>
-    <div class="recipe-wrapper featured">
-      <% json.SeasonalRecipes.forEach(function(d){ %>
-        <% console.log("here"); %>
-        <% if (d.Featured == "featured") { %>
-          <div class="recipe-item featured active">
-            <a class="link-image" href="<%=d['Link to Recipe']%>" target="_blank">
-            <img src="http://ww2.hdnux.com/photos/54/11/64/<%=d.PhotoID%>/5/premium_landscape.jpg"></img>
-            <div class="event"><%=d["Recipe Name"]%></div>
-            </a>
-          </div>
-        <% } %>
-      <% }); %>
-    </div>
-
-    <div class="sort-tools">
-    <div class="search-container recipes">
-      <span class="search"><i class="fa fa-search" aria-hidden="true"></i></span>
-      <input class="input" id="searchbar" type="text" placeholder='What would you like to cook? Search our database here.'>
-    </div>
 
     <div id="stick-here"></div>
+    <div id="stick-ph"></div>
     <div id="stick-me">
+
+      <div class="sort-tools">
+      <div class="search-container recipes">
+        <span class="search"><i class="fa fa-search" aria-hidden="true"></i></span>
+        <input class="input" id="searchbar" type="text" placeholder='What would you like to cook? Search here.'>
+      </div>
 
       <div class="drop-down-wrapper">
 
         <div class="dropdown-container">
           <select id="select-season">
-            <option value='spring' class="option" selected="selected">All seasons</option>
+            <option value='allseasons' class="option">All seasons</option>
             <option value='spring' class="option">Spring</option>
             <option value='summer' class="option">Summer</option>
             <option value='fall' class="option">Fall</option>
-            <option value='winter' class="option">Winter</option>
+            <option value='winter' class="option" selected="selected">Winter</option>
           </select>
         </div>
 
+        <% var ingredientsSpring = ["Artichokes", "Asparagus", "Peas", "Favas", "Cherries", "Apricots", "Rhubarb", "Strawberries"]; %>
+        <% var ingredientsSummer = ["Eggplant", "Blueberries", "Blackberries", "Cucumbers", "Summer Squash", "Zucchini", "Tomatoes", "Corn", "Plums", "Nectarines", "Peaches"]; %>
+        <% var ingredientsFall = ["Apples", "Pears", "Persimmons", "Pumpkin", "Winter Squash", "Pomegranates", "Brussels Sprouts", "Cranberries"]; %>
+        <% var ingredientsWinter = ["Beets", "Citrus", "Fennel", "Broccoli", "Cauliflower", "Kale", "Chard", "Chicories", "Mushrooms"]; %>
         <div class="dropdown-container">
-          <select id="select-ingredients">
-            <option value='spring' class="option" selected="selected">All ingredients</option>
-            <option value='spring' class="option">Vegan</option>
-            <option value='summer' class="option">Vegetarian</option>
+          <select id="select-ingredient">
+            <option value='allingredients' class="option" selected="selected">All ingredients</option>
+            <% for (var ingredientIDX = 0; ingredientIDX < ingredientsWinter.length; ingredientIDX++){ %>
+              <option value='<%=ingredientsWinter[ingredientIDX].toLowerCase().replace(/ /g,'')%>' class="option"><%=ingredientsWinter[ingredientIDX]%></option>
+            <% } %>
+          </select>
+        </div>
+
+        <% var courses = ["Side dish","Main dish","Appetizer","Dessert","Salad","Drink"]; %>
+        <div class="dropdown-container">
+          <select id="select-course">
+            <option value='allcourses' class="option" selected="selected">All courses</option>
+            <% for (var courseIDX = 0; courseIDX < courses.length; courseIDX++){ %>
+              <option value='<%=courses[courseIDX].toLowerCase().replace(/ /g,'')%>' class="option"><%=courses[courseIDX]%></option>
+            <% } %>
           </select>
         </div>
 
         <div class="dropdown-container">
           <select id="select-diet">
-            <option value='spring' class="option" selected="selected">All courses</option>
-            <option value='spring' class="option">Vegan</option>
-            <option value='summer' class="option">Vegetarian</option>
+            <option value='alldiets' class="option" selected="selected">All diets</option>
+            <option value='vegan' class="option">Vegan</option>
+            <option value='vegetarian' class="option">Vegetarian</option>
           </select>
         </div>
 
-        <div class="dropdown-container">
-          <select id="select-diet">
-            <option value='spring' class="option" selected="selected">All diets</option>
-            <option value='spring' class="option">Vegan</option>
-            <option value='summer' class="option">Vegetarian</option>
-          </select>
-        </div>
-
+        <div id="seeall" class="seeall button">See All</div>
 
       </div>
 
     </div>
-    <div id="stick-ph"></div>
     </div>
 
 
@@ -100,10 +94,21 @@
     <div class="recipe-wrapper">
       <% json.SeasonalRecipes.forEach(function(d){ %>
         <% if (d.PhotoID && d.Featured != "featured") { %>
-          <div class="recipe-item active <%=[d.Tags].toString().toLowerCase().replace(/ /g,'').replace(',',' ')%> <%=[d['Recipe Name']]%>">
+          <% if (d.Diet){ %>
+            <div class="recipe-item active <%=d.Diet.toLowerCase().replace(/ /g,'')%> <%=d.Course.toLowerCase().replace(/ /g,'')%> <%=d.Season.toLowerCase().replace(/ /g,'')%> <%=d.SortName.toLowerCase().replace(/ /g,'')%> <%=d.Tags.replace(', ',' ')%>">
+          <% } else { %>
+            <div class="recipe-item active <%=d.Course.toLowerCase().replace(/ /g,'')%> <%=d.Season.toLowerCase().replace(/ /g,'')%> <%=d.SortName.toLowerCase().replace(/ /g,'')%> <%=d.Tags.replace(', ',' ')%>">
+          <% } %>
             <a class="link-image" href="<%=d['Link to Recipe']%>" target="_blank">
-            <img src="http://ww2.hdnux.com/photos/54/11/64/<%=d.PhotoID%>/5/premium_landscape.jpg?2"></img>
+            <img src="//ww2.hdnux.com/photos/54/11/64/<%=d.PhotoID%>/5/premium_landscape.jpg?2"></img>
             <div class="event"><%=d["Recipe Name"]%></div>
+            <div class="tags">
+              <span class="tag <%=d.Season%>"><i class="fa fa-tag" aria-hidden="true"></i><%=d.Season%></span>
+              <span class="tag <%=d.Course.toLowerCase().replace(/ /g,'')%>"><i class="fa fa-tag" aria-hidden="true"></i><%=d.Course%></span>
+              <% if (d.Diet){ %>
+                <span class="tag <%=d.Diet%>"><i class="fa fa-tag" aria-hidden="true"></i><%=d.Diet%></span>
+              <% } %>
+            </div>
             </a>
           </div>
         <% } %>
