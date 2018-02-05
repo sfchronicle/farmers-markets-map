@@ -13,16 +13,16 @@ var ingredientsWinter = ["Beets", "Citrus", "Fennel", "Broccoli", "Cauliflower",
 
 // sticky nav on mobile -------------------------------------------------------
 
-if (screen.width <= 480) {
+// if (screen.width <= 480) {
   window.onscroll = function() {activate()};
-}
+// }
 
 function activate() {
   var sticker = document.getElementById('stick-me');
   var sticker_ph = document.getElementById('stick-ph');
   var window_top = document.body.scrollTop;
-  var div_top = document.getElementById('stick-here').getBoundingClientRect().top + window_top - 37;
-  var div_bottom = document.getElementById('stop-here').getBoundingClientRect().top + window_top - 37;
+  var div_top = document.getElementById('stick-here').getBoundingClientRect().top + window_top;
+  var div_bottom = document.getElementById('stop-here').getBoundingClientRect().top + window_top;
 
   if (window_top > div_top) {
       sticker.classList.add('fixed-nav');
