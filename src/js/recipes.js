@@ -13,6 +13,7 @@ var ingredientsWinter = ["Beets", "Citrus", "Fennel", "Broccoli", "Cauliflower",
 
 // sticky nav on mobile -------------------------------------------------------
 
+var navHeight;
 // if (screen.width <= 480) {
   window.onscroll = function() {activate()};
 // }
@@ -24,9 +25,10 @@ function activate() {
   var div_top = document.getElementById('stick-here').getBoundingClientRect().top + window_top;
   var div_bottom = document.getElementById('stop-here').getBoundingClientRect().top + window_top;
 
+  navHeight = $("#stick-me").height();
   if (window_top > div_top) {
       sticker.classList.add('fixed-nav');
-      $("#stick-ph").css("height", $("#stick-me").height());
+      $("#stick-ph").css("height", navHeight);
       sticker_ph.style.display = 'block'; // puts in a placeholder for where sticky used to be for smooth
   } else {
       sticker.classList.remove('fixed-nav');
@@ -43,7 +45,17 @@ var select_diet = document.getElementById("select-diet");
 
 var count, season_flag = 1, ingredient_flag = 1, courses_flag = 1, diet_flag = 1, flag_min = 1;
 
+// if (screen.width <= 480){
+//   var topvar = 140;
+// } else {
+//   var topvar = 100;
+// }
+
 function check_filters() {
+
+  // top position relative to the document
+  var pos = $("#top-of-results").offset().top - navHeight;
+  $('body, html').animate({scrollTop: pos});
 
   // $(".how-many-restaurants").css("display","block");
 
@@ -110,6 +122,20 @@ function check_filters() {
 
 }
 
+var fullList = "<option value='allingredients' class='option' selected='selected'>All ingredients</option>";
+ingredientsSpring.forEach(function(ingred){
+  fullList += "<option value='"+ingred.toLowerCase().replace(/ /g,'')+"' class='option'>"+ingred+"</option>";
+});
+ingredientsSummer.forEach(function(ingred){
+  fullList += "<option value='"+ingred.toLowerCase().replace(/ /g,'')+"' class='option'>"+ingred+"</option>";
+});
+ingredientsFall.forEach(function(ingred){
+  fullList += "<option value='"+ingred.toLowerCase().replace(/ /g,'')+"' class='option'>"+ingred+"</option>";
+});
+ingredientsWinter.forEach(function(ingred){
+  fullList += "<option value='"+ingred.toLowerCase().replace(/ /g,'')+"' class='option'>"+ingred+"</option>";
+});
+
 select_season.addEventListener("change",function(event){
   document.getElementById('searchbar').value = "";
   if (select_season.value != "allseasons"){
@@ -136,20 +162,7 @@ select_season.addEventListener("change",function(event){
     select_ingredient.selectedIndex = 0;
     check_filters();
   } else {
-    var ingredientList = "<option value='allingredients' class='option' selected='selected'>All ingredients</option>";
-    ingredientsSpring.forEach(function(ingred){
-      ingredientList += "<option value='"+ingred.toLowerCase().replace(/ /g,'')+"' class='option'>"+ingred+"</option>";
-    });
-    ingredientsSummer.forEach(function(ingred){
-      ingredientList += "<option value='"+ingred.toLowerCase().replace(/ /g,'')+"' class='option'>"+ingred+"</option>";
-    });
-    ingredientsFall.forEach(function(ingred){
-      ingredientList += "<option value='"+ingred.toLowerCase().replace(/ /g,'')+"' class='option'>"+ingred+"</option>";
-    });
-    ingredientsWinter.forEach(function(ingred){
-      ingredientList += "<option value='"+ingred.toLowerCase().replace(/ /g,'')+"' class='option'>"+ingred+"</option>";
-    });
-    document.getElementById("select-ingredient").innerHTML = ingredientList;
+    document.getElementById("select-ingredient").innerHTML = fullList;
     select_ingredient.selectedIndex = 0;
     check_filters();
   }
@@ -219,8 +232,9 @@ $("#searchbar").bind("input propertychange", function () {
 check_filters();
 
 document.getElementById("seeall").addEventListener("click", function(e) {
-  select_season.selectedIndex = 0;
+  document.getElementById("select-ingredient").innerHTML = fullList;
   select_ingredient.selectedIndex = 0;
+  select_season.selectedIndex = 0;
   select_course.selectedIndex = 0;
   select_diet.selectedIndex = 0;
   document.getElementById('searchbar').value = "";
