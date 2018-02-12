@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="__sync_contentCategory" content="meterA">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-    <link rel="stylesheet" type="text/css" href="../style.css?5">
+    <link rel="stylesheet" type="text/css" href="../style.css?7">
 
     <%= !json.project.embedded ? t.include("partials/_paywall.html") : t.include("partials/_embedframe.html") %>
 
@@ -23,7 +23,7 @@
 
       <div class="hed">Seasonal recipes, fresh from the market</div>
       <div class="byline">By <a href="mailto:sfritsche@sfchronicle.com">Sarah Fritsche</a> <a href = "https://twitter.com/foodcentric" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></div>
-      <div class="chatter">These recipes showcase the best of Bay Area seasonal produce. Many come from our region's top chefs, and all have been tested in the Chronicle Test Kitchen. Go to your local market and get cooking.</div>
+      <div class="chatter">These recipes showcase the best of Bay Area seasonal produce. Many come from our region's top chefs, and all have been tested in the Chronicle Test Kitchen. <a href="../map" target="_blank">Find your local market</a> and get cooking.</div>
 
     </div>
 
@@ -49,10 +49,10 @@
           </select>
         </div>
 
-        <% var ingredientsSpring = ["Artichokes", "Asparagus", "Peas", "Favas", "Cherries", "Apricots", "Rhubarb", "Strawberries"]; %>
-        <% var ingredientsSummer = ["Eggplant", "Blueberries", "Blackberries", "Cucumbers", "Summer Squash", "Zucchini", "Tomatoes", "Corn", "Plums", "Nectarines", "Peaches"]; %>
-        <% var ingredientsFall = ["Apples", "Pears", "Persimmons", "Pumpkin", "Winter Squash", "Pomegranates", "Brussels Sprouts", "Cranberries"]; %>
-        <% var ingredientsWinter = ["Beets", "Citrus", "Fennel", "Broccoli", "Cauliflower", "Kale", "Chard", "Chicories", "Mushrooms"]; %>
+        <% var ingredientsSpring = ["Apricots", "Artichokes", "Asparagus", "Cherries", "Favas", "Peas", "Rhubarb", "Strawberries"]; %>
+        <% var ingredientsSummer = ["Blackberries", "Blueberries", "Corn", "Cucumbers", "Eggplant", "Nectarines", "Peaches", "Plums", "Summer Squash", "Tomatoes", "Zucchini"]; %>
+        <% var ingredientsFall = ["Apples", "Brussels Sprouts", "Cranberries", "Pears", "Persimmons", "Pomegranates", "Pumpkin", "Winter Squash"]; %>
+        <% var ingredientsWinter = ["Beets", "Broccoli", "Cauliflower", "Chard", "Chicories", "Citrus", "Fennel", "Kale", "Mushrooms"]; %>
         <div class="dropdown-container">
           <select id="select-ingredient">
             <option value='allingredients' class="option" selected="selected">All ingredients</option>
@@ -121,7 +121,7 @@
     <%= t.include("partials/_footer_recipes.html") %>
     <%= t.include("partials/_full_footer.html") %>
 
-    <script src="../recipes-app.js?4" async></script>
+    <script src="../recipes-app.js?6" async></script>
     <%= t.include("partials/_helloSFC.html") %>
 
   </body>

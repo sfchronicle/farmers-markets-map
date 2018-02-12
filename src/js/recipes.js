@@ -5,11 +5,12 @@ Array.prototype.min = function() {
   return Math.min.apply(null, this);
 };
 
-var ingredientsSpring = ["Artichokes", "Asparagus", "Peas", "Favas", "Cherries", "Apricots", "Rhubarb", "Strawberries"];
-var ingredientsSummer = ["Eggplant", "Blueberries", "Blackberries", "Cucumbers", "Summer Squash", "Zucchini", "Tomatoes", "Corn", "Plums", "Nectarines", "Peaches"];
-var ingredientsFall = ["Apples", "Pears", "Persimmons", "Pumpkin", "Winter Squash", "Pomegranates", "Brussels Sprouts", "Cranberries"];
-var ingredientsWinter = ["Beets", "Citrus", "Fennel", "Broccoli", "Cauliflower", "Kale", "Chard", "Chicories", "Mushrooms"];
-
+var ingredientsSpring = ["Apricots", "Artichokes", "Asparagus", "Cherries", "Favas", "Peas", "Rhubarb", "Strawberries"];
+var ingredientsSummer = ["Blackberries", "Blueberries", "Corn", "Cucumbers", "Eggplant", "Nectarines", "Peaches", "Plums", "Summer Squash", "Tomatoes", "Zucchini"];
+var ingredientsFall = ["Apples", "Brussels Sprouts", "Cranberries", "Pears", "Persimmons", "Pomegranates", "Pumpkin", "Winter Squash"];
+var ingredientsWinter = ["Beets", "Broccoli", "Cauliflower", "Chard", "Chicories", "Citrus", "Fennel", "Kale", "Mushrooms"];
+var ingredientsAll = ingredientsSpring.concat(ingredientsSummer).concat(ingredientsFall).concat(ingredientsWinter);
+ingredientsAll = ingredientsAll.sort();
 
 // sticky nav on mobile -------------------------------------------------------
 
@@ -123,16 +124,7 @@ function check_filters() {
 }
 
 var fullList = "<option value='allingredients' class='option' selected='selected'>All ingredients</option>";
-ingredientsSpring.forEach(function(ingred){
-  fullList += "<option value='"+ingred.toLowerCase().replace(/ /g,'')+"' class='option'>"+ingred+"</option>";
-});
-ingredientsSummer.forEach(function(ingred){
-  fullList += "<option value='"+ingred.toLowerCase().replace(/ /g,'')+"' class='option'>"+ingred+"</option>";
-});
-ingredientsFall.forEach(function(ingred){
-  fullList += "<option value='"+ingred.toLowerCase().replace(/ /g,'')+"' class='option'>"+ingred+"</option>";
-});
-ingredientsWinter.forEach(function(ingred){
+ingredientsAll.forEach(function(ingred){
   fullList += "<option value='"+ingred.toLowerCase().replace(/ /g,'')+"' class='option'>"+ingred+"</option>";
 });
 
