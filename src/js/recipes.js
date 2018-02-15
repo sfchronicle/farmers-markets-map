@@ -27,7 +27,7 @@ function activate() {
   var div_bottom = document.getElementById('stop-here').getBoundingClientRect().top + window_top;
 
   navHeight = $("#stick-me").height();
-  if (window_top > div_top) {
+  if (window_top > div_top && window_top < div_bottom) {
       sticker.classList.add('fixed-nav');
       $("#stick-ph").css("height", navHeight);
       sticker_ph.style.display = 'block'; // puts in a placeholder for where sticky used to be for smooth
@@ -218,6 +218,9 @@ $("#searchbar").bind("input propertychange", function () {
   } else {
     document.getElementById('recipe-noresults').classList.remove("hide");
   }
+  // scroll to top
+  var pos = $("#top-of-results").offset().top - navHeight;
+  $('body, html').animate({scrollTop: pos});
 
 });
 
@@ -232,4 +235,8 @@ document.getElementById("seeall").addEventListener("click", function(e) {
   document.getElementById('searchbar').value = "";
   check_filters();
   $(this).addClass("selected");
+
+  // scroll to top
+  var pos = $("#top-of-results").offset().top - navHeight;
+  $('body, html').animate({scrollTop: pos});
 });

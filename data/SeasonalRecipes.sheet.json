@@ -2783,10 +2783,68 @@
     "SortName": "Sephardic Orange & Almond Cake"
   },
   {
+    "Recipe Name": "Caramelized Citrus With Honey-Whipped Ricotta",
+    "Link to Recipe": "https://www.sfchronicle.com/food/article/Citrus-chicories-and-the-winter-farmers-12546954.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=14965450",
+    "Tags": "Citrus, Winter",
+    "PhotoID": 14965450,
+    "Photographer": "Sarah Fritsche, The Chronicle",
+    "Season": "Winter",
+    "Course": "Dessert",
+    "Diet": "Vegetarian",
+    "SortName": "Caramelized Citrus With Honey-Whipped Ricotta"
+  },
+  {
+    "Recipe Name": "Farfalle With Radicchio, Pancetta & Gorgonzola",
+    "Link to Recipe": "https://www.sfchronicle.com/food/article/Citrus-chicories-and-the-winter-farmers-12546954.php",
+    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=14963626",
+    "Tags": "Chicories, Winter",
+    "PhotoID": 14963626,
+    "Photographer": "Sarah Fritsche, The Chronicle",
+    "Season": "Winter",
+    "Course": "Main dish",
+    "SortName": "Farfalle With Radicchio, Pancetta & Gorgonzola"
+  },
+  {
+    "Recipe Name": "Fried Romanesco Steaks",
+    "Link to Recipe": "https://www.sfchronicle.com/food/article/Citrus-chicories-and-the-winter-farmers-12546954.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=14963623",
+    "Tags": "cauliflower, broccoli, winter",
+    "PhotoID": 14963623,
+    "Photographer": "Sarah Fritsche, The Chronicle",
+    "Season": "Winter",
+    "Course": "Main dish",
+    "Diet": "Vegetarian",
+    "SortName": "Fried Romanesco Steaks"
+  },
+  {
+    "Recipe Name": "Kale Pesto",
+    "Link to Recipe": "https://www.sfchronicle.com/food/article/Citrus-chicories-and-the-winter-farmers-12546954.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=14965435",
+    "Tags": "Kale, Winter",
+    "PhotoID": 14965435,
+    "Photographer": "Sarah Fritsche, The Chronicle",
+    "Season": "Winter",
+    "Course": "Main dish",
+    "Diet": "Vegetarian",
+    "SortName": "Kale Pesto"
+  },
+  {
+    "Recipe Name": "Roasted Beets With Pickled Herring, Shaved Carrots, Fennel & Creamy Dill Dressing",
+    "Link to Recipe": "https://www.sfchronicle.com/food/article/Citrus-chicories-and-the-winter-farmers-12546954.php",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=14963617",
+    "Tags": "Beets, Fennel, Winter",
+    "PhotoID": 14963617,
+    "Photographer": "Sarah Fritsche, The Chronicle",
+    "Season": "Winter",
+    "Course": "Salad",
+    "SortName": "Roasted Beets With Pickled Herring, Shaved Carrots, Fennel & Creamy Dill Dressing"
+  },
+  {
     "Recipe Name": "Shaved Brussels Sprouts Salad With Roasted Mushrooms & Wheat Berries",
     "Link to Recipe": "http://www.sfchronicle.com/recipes/article/Shaved-winter-salad-brings-Brussels-sprouts-into-10856403.php",
     "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/photo&id=12166455",
-    "Tags": "mushrooms, winter",
+    "Tags": "mushrooms, winter, brussels sprouts",
     "PhotoID": 12166455,
     "Photographer": "Sarah Fritsche, The Chronicle",
     "Season": "Winter",
@@ -3588,21 +3646,6 @@
     "Course": "Main dish",
     "Diet": "Vegetarian",
     "SortName": "Zucchetti"
-  },
-  {
-    "SortName": ""
-  },
-  {
-    "SortName": ""
-  },
-  {
-    "SortName": ""
-  },
-  {
-    "SortName": ""
-  },
-  {
-    "SortName": ""
   },
   {
     "SortName": ""

@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="__sync_contentCategory" content="meterA">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-    <link rel="stylesheet" type="text/css" href="../style.css?8">
+    <link rel="stylesheet" type="text/css" href="../style.css?10">
 
     <%= !json.project.embedded ? t.include("partials/_paywall.html") : t.include("partials/_embedframe.html") %>
 
@@ -101,7 +101,7 @@
             <div class="recipe-item active <%=d.Course.toLowerCase().replace(/ /g,'')%> <%=d.Season.toLowerCase().replace(/ /g,'')%> <%=d.SortName.toLowerCase().replace(/ /g,'')%> <%=d.Tags.replace(/ /g,'').replace(/,/g,' ')%>">
           <% } %>
             <a class="link-image" href="<%=d['Link to Recipe']%>" target="_blank">
-            <img src="//ww2.hdnux.com/photos/54/11/64/<%=d.PhotoID%>/5/premium_landscape.jpg?2"></img>
+            <img src="//s.hdnux.com/photos/33/60/16/<%=d.PhotoID%>/9/premium_gallery_landscape.jpg"></img>
             <div class="event"><%=d["Recipe Name"]%></div>
             <div class="tags">
               <span class="tag <%=d.Season%>"><i class="fa fa-tag" aria-hidden="true"></i><%=d.Season%></span>
@@ -121,7 +121,7 @@
     <%= t.include("partials/_footer_recipes.html") %>
     <%= t.include("partials/_full_footer.html") %>
 
-    <script src="../recipes-app.js?7" async></script>
+    <script src="../recipes-app.js?8" async></script>
     <%= t.include("partials/_helloSFC.html") %>
 
   </body>
