@@ -1,6 +1,6 @@
 require("./lib/social"); //Do not delete
-require("leaflet");
-var d3 = require('d3');
+// require("leaflet");
+// var d3 = require('d3');
 
 var bright_green = "#319C6A";//"#377357";
 var dot_green = "#178250";//"#377357";//"red";
@@ -32,11 +32,18 @@ if (screen.width <= 480) {
   var sf_lat = 37.77;
   var sf_long = -122.43;
   var zoom_deg = 11;
+
+  var top_of_map_scroll = 37;
+
 } else {
   var sf_lat = 37.77;
   var sf_long = -122.44;
   var zoom_deg = 13;
+
+  var top_of_map_scroll = 0;
 }
+
+var sidebarinfo = document.getElementById("markets-list");
 
 // tooltip information
 function tooltip_function (d) {
@@ -48,17 +55,6 @@ function tooltip_function (d) {
 function fill_info(data){
   var html = "<div class='name bold'>"+data.Name+"<a href="+data.Website+" target='_blank'><i class='fa fa-external-link' aria-hidden='true'></i></a></div><div class='season'>"+data.Season+"</div><div class='hours'>"+data.Hours+"</div><div class='address'><a  class='google-link' href='https://www.google.com/maps/place/"+data.Address+"' target='_blank'>"+data.Address+"<i class='fa fa-map-marker' aria-hidden='true'></i></a></div>";
   return html;
-}
-
-// function that zooms and pans the data when the map zooms and pans
-function update() {
-	feature.attr("transform",
-	function(d) {
-		return "translate("+
-			map.latLngToLayerPoint(d.LatLng).x +","+
-			map.latLngToLayerPoint(d.LatLng).y +")";
-		}
-	)
 }
 
 
@@ -77,8 +73,13 @@ var map = L.map("map", {
 map.dragging.enable();
 
 // add tiles to the map
-var mapLayer = L.tileLayer("https://api.mapbox.com/styles/v1/emro/cj0ig2nd700542sqgndpvv99x/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZW1ybyIsImEiOiJjaXl2dXUzMGQwMDdsMzJuM2s1Nmx1M29yIn0._KtME1k8LIhloMyhMvvCDA",{attribution: '© <a href="https://www.mapbox.com/map-feedback/">Mapbox</a> © <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> <strong><a href="https://www.mapbox.com/map-feedback/" target="_blank">Improve this map</a></strong>'})
+var mapLayer = L.tileLayer("https://api.mapbox.com/styles/v1/emro/cjbib4t5e089k2sm7j3xygp50/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZW1ybyIsImEiOiJjaXl2dXUzMGQwMDdsMzJuM2s1Nmx1M29yIn0._KtME1k8LIhloMyhMvvCDA",{attribution: '© <a href="https://www.mapbox.com/map-feedback/">Mapbox</a> © <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> <strong><a href="https://www.mapbox.com/map-feedback/" target="_blank">Improve this map</a></strong>'})
 mapLayer.addTo(map);
+
+// var gl = L.mapboxGL({
+//     accessToken: 'pk.eyJ1IjoiZW1ybyIsImEiOiJjaXl2dXUzMGQwMDdsMzJuM2s1Nmx1M29yIn0._KtME1k8LIhloMyhMvvCDA',
+//     style: 'mapbox://styles/emro/cjbib4t5e089k2sm7j3xygp50'
+// }).addTo(map);
 
 L.control.zoom({
      position:'topright'
@@ -92,123 +93,54 @@ map.scrollWheelZoom.disable();
 // map.keyboard.disable();
 
 // initializing the svg layer
-// L.svg().addTo(map)
-map._initPathRoot();
+L.svg().addTo(map)
+// map._initPathRoot();
 
-// creating Lat/Lon objects that d3 is expecting
-farmData.forEach(function(d,idx) {
-    // d.LatLng = new L.LatLng(sf_lat+Math.random(),
-    //             sf_long+Math.random());
-		d.LatLng = new L.LatLng(d.Lat,
-								d.Lng);
+// icon for damaged wineries
+var greenIcon = new L.Icon({
+  iconUrl: '../assets/graphics/marker-icon-green-stroke.png',
+  iconSize: [20, 32],
+  iconAnchor: [12, 32],
+  popupAnchor: [-2, -30],
 });
 
-// creating svg layer for data
-var svgMap = d3.select("#map").select("svg"),
-g = svgMap.append("g");
+function clickZoom(e) {
+    var currentZoom = map.getZoom();
+    map.setView(e.target.getLatLng(),currentZoom);
+    $('html, body').animate({
+        scrollTop: $("#scroll-to-top").offset().top - top_of_map_scroll
+    }, 600);
+}
 
-// adding circles to the map
-var feature = g.selectAll("circle")
-  .data(farmData)
-  .enter().append("circle")
-  .attr("id",function(d) {
-    return "market"+d.Name.toLowerCase().replace(/ /g,'').replace(/'/g, '').replace('.','').replace(/\./g,'');
-  })
-  .attr("class",function(d) {
-    return "dot "+"market"+d.Name.toLowerCase().replace(/ /g,'').replace(/'/g, '').replace(/\./g,'');
-  })
-  .style("opacity", function(d) {
-    return 0.9;
-  })
-  .style("fill", function(d) {
-    return dot_green;
-  })
-  .style("stroke","#696969")
-  .attr("r", function(d) {
-    if (screen.width <= 480) {
-      return 10;
-    } else {
-      return 12;
-    }
-  })
-  .on('mouseover', function(d) {
+// adding markers
+var markerArray = {};
+var markerNames = [];
+farmData.forEach(function(d,idx) {
+		d.LatLng = new L.LatLng(d.Lat,
+								d.Lng);
     var html_str = tooltip_function(d);
-    tooltip.html(html_str);
-    tooltip.style("visibility", "visible");
-  })
-  .on("mousemove", function() {
-    if (screen.width <= 480) {
-      return tooltip
-        .style("top",70+"px")
-        .style("left",40+"px");
-        // .style("top",(d3.event.pageY+40)+"px")//(d3.event.pageY+40)+"px")
-        // .style("left",10+"px");
-    } else if (screen.width <= 1024) {
-      console.log("mid");
-      return tooltip
-        .style("top", (d3.event.pageY+20)+"px")
-        .style("left",(d3.event.pageX-50)+"px");
-    } else {
-      return tooltip
-        .style("top", (d3.event.pageY+20)+"px")
-        .style("left",(d3.event.pageX-50)+"px");
-    }
-  })
-  .on("mouseout", function(){
-      return tooltip.style("visibility", "hidden");
-  });
-
-  map.on("viewreset", update);
-  update();
-
-// show tooltip
-var tooltip = d3.select("div.tooltip-marketmap");
-
+    var marker = L.marker([d.Lat, d.Lng], {icon: greenIcon}).addTo(map).bindPopup(html_str).on('click', clickZoom);
+    var markername = d.Name.toLowerCase().replace(/ /g,'').replace(/'/g, '').replace(/\./g,'');
+    markername = "market"+markername;
+    markerArray[markername] = marker;
+    markerNames.push(markername);
+});
 
 // event listener for each brewery that highlights the brewery on the map and calls the function to fill in the info at the top
 var qsa = s => Array.prototype.slice.call(document.querySelectorAll(s));
 qsa(".clickme").forEach(function(group,index) {
   group.addEventListener("click", function(e) {
+
+    var mapclassname = e.target.classList[1];
+    map.setView(markerArray[mapclassname].getLatLng(),zoom_deg);
     $('html, body').animate({
-        scrollTop: $("#scroll-to-top").offset().top-35
+        scrollTop: $("#scroll-to-top").offset().top - top_of_map_scroll
     }, 600);
-    document.querySelector("#chosen-market").innerHTML = fill_info(farmData[index]);
+    markerArray[mapclassname].openPopup();
 
-    // highlight the appropriate dot
-    d3.selectAll(".dot").style("fill", dot_green);
-    d3.selectAll(".dot").style("opacity", "0.4");
-    d3.selectAll(".dot").style("stroke","black");
-    d3.select("#"+e.target.classList[1]).style("fill",dot_green);
-    d3.select("#"+e.target.classList[1]).style("opacity","1.0");
-    d3.select("#"+e.target.classList[1]).style("stroke","#696969");
-
-    // zoom and pan the map to the appropriate dot
-    map.setView(farmData[index].LatLng,map.getZoom(),{animate:true});
-    update();
   });
 });
 
-// event listener for each dot
-qsa(".dot").forEach(function(group,index) {
-  group.addEventListener("click", function(e) {
-    $('html, body').animate({
-        scrollTop: $("#scroll-to-top").offset().top-35
-    }, 600);
-    document.querySelector("#chosen-market").innerHTML = fill_info(farmData[index]);
-
-    // highlight the appropriate dot
-    d3.selectAll(".dot").style("fill", dot_green);
-    d3.selectAll(".dot").style("opacity", "0.4");
-    d3.selectAll(".dot").style("stroke","black");
-    d3.select("#"+e.target.classList[1]).style("fill",dot_green);
-    d3.select("#"+e.target.classList[1]).style("opacity","1.0");
-    d3.select("#"+e.target.classList[1]).style("stroke","#696969");
-
-    // zoom and pan the map to the appropriate dot
-    map.setView(farmData[index].LatLng,map.getZoom(),{animate:true});
-    update();
-  });
-});
 
 // --------------------------------------------------------------
 // MAP FUNCTIONALITY  -----------------------------------------
@@ -241,7 +173,7 @@ $("#searchmap").bind("input propertychange", function () {
     today_button.classList.remove("selected");
   }
 
-  $(".market-group").filter(function() {
+  $(".market-group").filter(function(m,mIDX) {
 
     var classes = this.className.toLowerCase().split(" ");
     for (var i=0; i< classes.length; i++) {
@@ -253,9 +185,11 @@ $("#searchmap").bind("input propertychange", function () {
     }
     if (class_match > 0) {
       $(this).addClass("active");
+      markerArray["market"+classes[1]]._icon.classList.remove("hide");
       count += 1;
     } else {
       $(this).removeClass("active");
+      markerArray["market"+classes[1]]._icon.classList.add("hide");
     }
     class_match = 0;
 
@@ -280,18 +214,24 @@ today_button.addEventListener("click",function() {
 
   var count = 0;
 
+  map.closePopup();
+  map.setView(new L.LatLng(sf_lat,sf_long),zoom_deg,{animate:true});
+
   // check matching days and months
   $(".market-group").filter(function() {
     var filter = day.toLowerCase();
     var classes = this.className.split(" ");
     if ((classes.indexOf(month)>0) && (classes.indexOf(day)>0)) {
       $(this).addClass("active");
+      markerArray["market"+classes[1]]._icon.classList.remove("hide");
       count += 1;
     } else if ((classes.indexOf("Year-round")>0) && (classes.indexOf(day)>0)) {
       $(this).addClass("active");
+      markerArray["market"+classes[1]]._icon.classList.remove("hide");
       count += 1;
     } else {
       $(this).removeClass("active");
+      markerArray["market"+classes[1]]._icon.classList.add("hide");
     }
   });
 
@@ -323,9 +263,11 @@ select_day.addEventListener("change",function(){
       var classes = this.className.toLowerCase().split(" ");
       if (classes.indexOf(filter)>0) {
         $(this).addClass("active");
+        markerArray["market"+classes[1]]._icon.classList.remove("hide");
         count += 1;
       } else {
         $(this).removeClass("active");
+        markerArray["market"+classes[1]]._icon.classList.add("hide");
       }
     });
   } else {
@@ -334,6 +276,7 @@ select_day.addEventListener("change",function(){
     // show all markets
     $(".market-group").filter(function() {
       $(this).addClass("active");
+      markerArray["market"+classes[1]]._icon.classList.remove("hide");
       count += 1;
     });
   }
@@ -357,17 +300,19 @@ list_click.addEventListener("click",function(){
   select_day.selectedIndex = 0;
   document.getElementById('searchmap').value = "";
 
-  // reset map
-  document.querySelector("#chosen-market").innerHTML = "";
-  d3.selectAll(".dot").style("fill", dot_green);
-  d3.selectAll(".dot").style("opacity", "0.8");
-  d3.selectAll(".dot").style("stroke","#696969");
-  map.setView(new L.LatLng(sf_lat,sf_long),zoom_deg,{animate:true});
-
   // show all markets
   $(".market-group").filter(function() {
     $(this).addClass("active");
   });
+
+  map.closePopup();
+  map.setView(new L.LatLng(sf_lat,sf_long),zoom_deg,{animate:true});
+
+  for (var idx=0; idx<markerNames.length; idx++){
+    markerArray[markerNames[idx]]._icon.classList.remove("hide");
+  };
+
+  document.getElementById("markets-list").scrollTop = 0;
 
   // do not display text for empty results because all results are shown
   document.getElementById('map-noresults').classList.add("hide");
@@ -376,11 +321,26 @@ list_click.addEventListener("click",function(){
 
 // event listener for re-setting the map
 reset_click.addEventListener("click",function(e) {
-
-  //reset map
-  document.querySelector("#chosen-market").innerHTML = "";
-  d3.selectAll(".dot").style("fill", dot_green);
-  d3.selectAll(".dot").style("opacity", "0.8");
-  d3.selectAll(".dot").style("stroke","#696969");
   map.setView(new L.LatLng(sf_lat,sf_long),zoom_deg,{animate:true});
+
+  $('html, body').animate({
+      scrollTop: $("#scroll-to-top").offset().top - top_of_map_scroll
+  }, 600);
+
+  for (var idx=0; idx<markerNames.length; idx++){
+    markerArray[markerNames[idx]]._icon.classList.remove("hide");
+  };
+
+  // show all markets
+  $(".market-group").filter(function() {
+    $(this).addClass("active");
+  });
+
+  map.closePopup();
+
+  // do not display text for empty results because all results are shown
+  document.getElementById('map-noresults').classList.add("hide");
+
+  document.getElementById("markets-list").scrollTop = 0;
+
 });

@@ -6,8 +6,11 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="__sync_contentCategory" content="meterA">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-    <link rel="stylesheet" type="text/css" href="../style.css?4">
-    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7/leaflet.css"/>
+    <link rel="stylesheet" type="text/css" href="../style.css?5">
+
+    <!-- Leaflet -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
 
     <%= !json.project.embedded ? t.include("partials/_paywall.html") : t.include("partials/_embedframe.html") %>
 
@@ -44,37 +47,38 @@
       </div>
 
       <div class="sidebar">
-        <div id="ssec">
-          <div class="cntl" id="scntl">List of Markets</div>
-          <div class="controls-container">
-            <div class="search-container map">
-              <span class="search">Search by market or day  </span>
-              <input class="input" id="searchmap" type="text" placeholder='Try "Mission" or "Sunday" ...'></input>
-            </div>
-            <div class="dropdown-container">
-              <div class="drop-down right">
-                <div class="select-text">Sort by day</div>
-                <select name="select" id="select-day">
-                  <option value='all' class="option">All</option>
-                  <option value='sunday' class="option">Sunday</option>
-                  <option value='monday' class="option">Monday</option>
-                  <option value='tuesday' class="option">Tuesday</option>
-                  <option value='wednesday' class="option">Wednesday</option>
-                  <option value='thursday' class="option">Thursday</option>
-                  <option value='friday' class="option">Friday</option>
-                  <option value='saturday' class="option">Saturday</option>
-                </select>
+          <div class="controls-for-scrollbar">
+            <div class="cntl" id="scntl">List of Markets</div>
+            <div class="map-controls-container">
+              <div class="search-container map">
+                <span class="search">Search by market or day  </span>
+                <input class="input" id="searchmap" type="text" placeholder='Try "Mission" or "Sunday" ...'></input>
               </div>
-            </div>
-            <div class="button-container side">
-              <div class="button" id="opennow-button">Open Today</div>
-              <div class="button selected" id="list-button">View All</div>
+              <div class="dropdown-container">
+                <div class="drop-down right">
+                  <div class="select-text">Sort by day</div>
+                  <select name="select" id="select-day">
+                    <option value='all' class="option">All</option>
+                    <option value='sunday' class="option">Sunday</option>
+                    <option value='monday' class="option">Monday</option>
+                    <option value='tuesday' class="option">Tuesday</option>
+                    <option value='wednesday' class="option">Wednesday</option>
+                    <option value='thursday' class="option">Thursday</option>
+                    <option value='friday' class="option">Friday</option>
+                    <option value='saturday' class="option">Saturday</option>
+                  </select>
+                </div>
+              </div>
+              <div class="button-container side">
+                <div class="button" id="opennow-button">Open Today</div>
+                <div class="button selected" id="list-button">View All</div>
+              </div>
             </div>
           </div>
 
           <div class="map-noresults hide" id="map-noresults">No markets match your search. Try new search terms.</div>
 
-          <div class="markets-list">
+          <div class="markets-list" id="markets-list">
             <div class="markets-scroll-container">
 
               <% json.SanFrancisco.forEach(function(d){ %>
@@ -92,7 +96,6 @@
               <% }); %>
             </div>
           </div>
-        </div>
 
       </div>
 
@@ -106,7 +109,7 @@
       var farmData = <%= JSON.stringify(json.SanFrancisco) %>
     </script>
 
-    <script src="../map-app.js?2" async></script>
+    <script src="../map-app.js?3" async></script>
     <%= t.include("partials/_helloSFC.html") %>
 
   </body>

@@ -8,6 +8,10 @@ body {
     font-weight: normal;
 }
 
+.leaflet-marker-icon.hide{
+  opacity: 0.5;
+}
+
 .dont-miss-head {
   text-align: center;
   font-family: @med-graphics;
@@ -34,7 +38,7 @@ body {
 .map-noresults {
   font-style: italic;
   // text-align: center;
-  padding-top: 40px;
+  padding-top: 220px;
   &.hide {
     display: none;
   }
@@ -113,22 +117,23 @@ body {
     clear:both;
 }
 
-.tooltip-marketmap {
+.leaflet-container {
+  a {
+    color: @dark-green !important;
+  }
+}
+
+.leaflet-popup-content-wrapper {
   max-width: 300px;
-  position: absolute;
-  font-family: @block-graphics;
+  font-family: @med-graphics;
   font-size: 14px;
   background: white;
   padding: 5px 10px;
-  border: @light-gray 1px solid;
-  visibility: hidden;
-  // @media @mobile {
-  //   display: none;
-  // }
   .bold {
-    font-family: @med-graphics;
+    font-family: @bold-graphics;
     border-bottom: 1px solid @dark-gray;
     margin-bottom: 5px;
+    font-size: 16px;
   }
   .address {
     color: @dark-gray;
@@ -197,26 +202,48 @@ body {
 }
 
 .cntl {
-  font-family: @med-graphics;
+  font-family: @block-graphics;
   color: darken(@sea-blue,25%);
   margin-bottom: 10px;
   font-size: 18px;
   border-bottom: 2px solid @sea-blue;
 }
 
+.controls-for-scrollbar {
+  position: absolute;
+  background: white;
+  top: 0;
+  left: 0; right: 0;
+  z-index: 30;
+  padding-bottom: 10px;
+  border-bottom: 2px solid @light-gray;
+  // -webkit-box-shadow: 0 0 6px 2px @dark-gray;
+  // -moz-box-shadow: 0 0 6px 2px @dark-gray;
+  // box-shadow: 0 0 6px 2px @dark-gray;
+}
+
 .content {
   clear: both;
-  position: relative;
+  // position: relative;
   width: 100%;
   .display-flex;
   .flex-wrap(wrap);
   .sidebar {
     .flex(0 0 33%);
     margin-right: 2%;
+    height: 100vh;
+    overflow-y: hidden;
+    position: relative;
+    @media @mobile {
+      height: auto;
+      overflow-y: auto;
+    }
     .markets-list {
-      height: 740px;
+      // height: 100vh;
+      height: 100%;
       overflow-y: scroll;
       margin-bottom: 20px;
+      padding-top: 180px;
       @media @mobile {
         height: 100%;
         margin-bottom: 0;
@@ -310,7 +337,7 @@ body {
     }
     #map {
       width: 100%;
-      height: 1000px;
+      height: 100vh;
       z-index: 0;
       @media @tablet {
         width: 100%;
@@ -318,7 +345,7 @@ body {
       }
       @media @mobile {
         width: 90%;
-        height: 320px;
+        height: 400px;
         margin: auto;
       }
     }
@@ -363,7 +390,7 @@ circle {
   padding-bottom: 20px;
   .button {
     display: inline-block;
-    font-family: @med-graphics;
+    font-family: @block-graphics;
     display: inline-block;
     padding: 3px 10px;
     margin: 4px 2px;
@@ -371,7 +398,7 @@ circle {
     @media @mini-mobile {
       font-size: 14px;
     }
-    border: 1px solid @dark-green;
+    border: 2px solid @dark-green;
     color: @dark-green;
     background: white;
     &:hover {
@@ -476,7 +503,7 @@ circle {
   }
   &.mobile {
     display: none;
-    padding-top: 20px;
+    padding-top: 40px;
     @media @tablet {
       display: block;
       max-width: 100%;
@@ -513,10 +540,12 @@ circle {
 
 #reset-button {
   position: absolute;
-  top: 10px;
+  bottom: 30px;
   right: 10px;
   z-index: 98;
   background: rgba(255,255,255,1);
+  font-family: @block-graphics;
+  border: 2px solid @dark-green;
   &:hover {
     color: white;
     background: @dark-green;

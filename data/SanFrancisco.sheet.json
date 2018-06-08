@@ -285,5 +285,21 @@
     "Notes": "Run by PCFMA; 6 stand -- 4 farmers 2 non ag",
     "CQ'd": "YES",
     "FILE ART?": "No"
+  },
+  {
+    "Region": "San Francisco",
+    "Name": "North Beach Farmers Market",
+    "Address": "699 Columbus Ave., San Francisco, CA 94133",
+    "Lat": 37.8010175,
+    "Lng": "-122.4114693",
+    "Website": "http://northbeachfarmersmarket.com/",
+    "Season": "May-December",
+    "Hours": "Saturday, 9 a.m.-1 p.m.",
+    "Days": "Saturday",
+    "Size": "Small",
+    "Special features": "Held in parking lot next to Piazza Pelligrini; fresh produce; prepared foods",
+    "Notes": "Run by North Beach Neighbors Assocation",
+    "CQ'd": "YES",
+    "FILE ART?": "No"
   }
 ]
