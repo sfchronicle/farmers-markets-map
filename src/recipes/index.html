@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="__sync_contentCategory" content="meterA">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-    <link rel="stylesheet" type="text/css" href="../style.css?11">
+    <link rel="stylesheet" type="text/css" href="../style.css">
 
     <%= !json.project.embedded ? t.include("partials/_paywall.html") : t.include("partials/_embedframe.html") %>
 
@@ -41,11 +41,11 @@
 
         <div class="dropdown-container">
           <select id="select-season">
-            <option value='allseasons' class="option">All seasons</option>
+            <option value='allseasons' class="option"  selected="selected">All seasons</option>
             <option value='spring' class="option">Spring</option>
             <option value='summer' class="option">Summer</option>
             <option value='fall' class="option">Fall</option>
-            <option value='winter' class="option" selected="selected">Winter</option>
+            <option value='winter' class="option">Winter</option>
           </select>
         </div>
 
@@ -121,7 +121,7 @@
     <%= t.include("partials/_footer_recipes.html") %>
     <%= t.include("partials/_full_footer.html") %>
 
-    <script src="../recipes-app.js?8" async></script>
+    <script src="../recipes-app.js" async></script>
     <%= t.include("partials/_helloSFC.html") %>
 
   </body>

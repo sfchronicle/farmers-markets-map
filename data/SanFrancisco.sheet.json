@@ -182,7 +182,7 @@
     "Address": "84 Bartlett St., San Francisco, CA 94110",
     "Lat": 37.7556763,
     "Lng": "-122.4196007",
-    "Website": "http://missioncommunitymarket.org/",
+    "Website": "https://cuesa.org/markets/mission-community-market-thursday",
     "Season": "March-November",
     "Months": "March April May June July August September October November",
     "Hours": "Thursday, 4-8 p.m.",
@@ -206,6 +206,22 @@
     "Special features": "Fresh produce; prepared foods",
     "CQ'd": "YES",
     "FILE ART?": "https://hearst.merlinone.net/MX/Profiles/en/default/#/main/single/92ea7a79-ea8d-494e-b8b8-beb8a5e5380f ; https://hearst.merlinone.net/MX/Profiles/en/default/#/main/single/92ea7a79-ea8d-494e-b8b8-beb8a5e5380f"
+  },
+  {
+    "Region": "San Francisco",
+    "Name": "North Beach Farmers Market",
+    "Address": "699 Columbus Ave., San Francisco, CA 94133",
+    "Lat": 37.8010175,
+    "Lng": "-122.4114693",
+    "Website": "http://northbeachfarmersmarket.com/",
+    "Season": "May-December",
+    "Hours": "Saturday, 9 a.m.-1 p.m.",
+    "Days": "Saturday",
+    "Size": "Small",
+    "Special features": "Held in parking lot next to Piazza Pelligrini; fresh produce; prepared foods",
+    "Notes": "Run by North Beach Neighbors Assocation",
+    "CQ'd": "YES",
+    "FILE ART?": "No"
   },
   {
     "Region": "San Francisco",
@@ -283,22 +299,6 @@
     "Size": "Small",
     "Special features": "Held at the SF V.A. Medical Center; fresh produce; prepared foods",
     "Notes": "Run by PCFMA; 6 stand -- 4 farmers 2 non ag",
-    "CQ'd": "YES",
-    "FILE ART?": "No"
-  },
-  {
-    "Region": "San Francisco",
-    "Name": "North Beach Farmers Market",
-    "Address": "699 Columbus Ave., San Francisco, CA 94133",
-    "Lat": 37.8010175,
-    "Lng": "-122.4114693",
-    "Website": "http://northbeachfarmersmarket.com/",
-    "Season": "May-December",
-    "Hours": "Saturday, 9 a.m.-1 p.m.",
-    "Days": "Saturday",
-    "Size": "Small",
-    "Special features": "Held in parking lot next to Piazza Pelligrini; fresh produce; prepared foods",
-    "Notes": "Run by North Beach Neighbors Assocation",
     "CQ'd": "YES",
     "FILE ART?": "No"
   }
