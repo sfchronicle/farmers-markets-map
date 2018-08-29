@@ -131,6 +131,7 @@ body {
   padding: 5px 10px;
   .bold {
     font-family: @bold-graphics;
+    font-weight: 700;
     border-bottom: 1px solid @dark-gray;
     margin-bottom: 5px;
     font-size: 16px;
@@ -203,10 +204,14 @@ body {
 
 .cntl {
   font-family: @block-graphics;
-  color: darken(@sea-blue,25%);
+  text-transform: uppercase;
+  font-weight: 700;
+  color: @dark-gray;
+  // color: darken(@sea-blue,25%);
   margin-bottom: 10px;
   font-size: 18px;
-  border-bottom: 2px solid @sea-blue;
+  border-bottom: 2px solid @dark-gray;
+  border-top: 2px solid @dark-gray;
 }
 
 .controls-for-scrollbar {
@@ -223,6 +228,7 @@ body {
 }
 
 .content {
+  margin-top: 20px;
   clear: both;
   // position: relative;
   width: 100%;
@@ -275,7 +281,7 @@ body {
         font-style: italic;
         padding-top: 5px;
         .fa {
-          padding-left: 10px;
+          padding-right: 10px;
           font-size: 16px;
         }
         @media @mobile {
@@ -394,6 +400,7 @@ circle {
   .button {
     display: inline-block;
     font-family: @block-graphics;
+    font-weight: 600;
     display: inline-block;
     padding: 3px 10px;
     margin: 4px 2px;
@@ -434,6 +441,7 @@ circle {
     font-family: @block-graphics;
     border-bottom: 1px solid @dark-gray;
     margin-bottom: 5px;
+    font-weight: 700;
   }
   .address {
     text-decoration: underline;
@@ -446,7 +454,7 @@ circle {
       padding-top: 5px;
     }
     .fa {
-      padding-left: 10px;
+      padding-right: 5px;
       font-size: 16px;
       @media @mobile {
         padding-left: 5px;
@@ -455,6 +463,7 @@ circle {
   }
   .clickme {
     font-family: @bold-graphics;
+    font-weight: 600;
     padding-top: 5px;
     font-size: 14px;
     color: darken(@dark-green,5%);
@@ -468,6 +477,7 @@ circle {
   }
   .bold {
     font-family: @bold-graphics;
+    font-weight: 700;
   }
 }
 
@@ -491,7 +501,7 @@ circle {
   img {
     margin: auto;
     display: block;
-    max-width: 900px;
+    max-width: 800px;
     width: 100%;
     @media @tablet {
       max-width: 100%;

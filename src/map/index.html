@@ -28,10 +28,9 @@
       <div class="banner-img desktop"><img src="../assets/graphics/fall_banner.gif"></img></div>
       <div class="banner-img mobile"><img src="../assets/graphics/fall_banner_mobile.gif"></img></div>
       <div class="hed">The Ultimate Guide to S.F. Farmers' Markets</div>
-      <div class="chatter">San Francisco is full of farmers' markets, offering all kinds of fresh produce and prepared foods throughout the year. Check out our handy map to explore the markets near you — and discover when you can visit them.</div>
       <div class="byline">By <a href="mailto:sfritsche@sfchronicle.com">Sarah Fritsche</a> <a href = "https://twitter.com/foodcentric" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></div>
+      <div class="chatter">San Francisco is full of farmers' markets, offering fresh produce and prepared foods throughout the year. Check out our handy map to explore the markets near you and check our <a href="../recipes/" target="_blank">recipe guide for inspiration</a>.</div>
 
-      <div class="link-recipes"><a class="link-button" href="../recipes/" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i>Recipe Database: Seasonal Flavors</a></div>
 
       </div>
     </div>
@@ -90,7 +89,7 @@
                   <div class="season"><span class="bold">Season: </span><%=d.Season%></div>
                   <div class="hours"><span class="bold">Hours: </span><%=d.Hours%></div>
                   <div class="features"><span class="bold">Special features: </span><%=d["Special features"]%></div>
-                  <div class="address"><a  class="google-link" href="https://www.google.com/maps/place/<%=d.Address%>" target="_blank"><%=d.Address%><i class="fa fa-map-marker" aria-hidden="true"></i></a></div>
+                  <div class="address"><a  class="google-link" href="https://www.google.com/maps/place/<%=d.Address%>" target="_blank"><i class="fa fa-map-marker" aria-hidden="true"></i><%=d.Address%></a></div>
                   <div class="clickme market<%=strMarket%>"><i class="fa fa-hand-o-right" aria-hidden="true"></i>  Click here to find me on the map.</div>
                 </div>
               <% }); %>
