@@ -145,6 +145,7 @@ body {
   font-size: 28px;
   color: @dark-green;
   font-family: @bold-graphics;
+  font-weight: 700;
   padding-top: 10px;
   padding-bottom: 10px;
   @media @tablet {
@@ -156,7 +157,6 @@ body {
     padding-top: 10px;
     line-height: 1.3;
   }
-  font-weight: normal;
   &.desktop {
     @media @tablet {
       display: none;
@@ -358,8 +358,11 @@ body {
 
 .chatter {
   max-width: 800px;
-  @media @tablet {
-    margin-top: 0;
+  a {
+    text-decoration: underline;
+  }
+  @media @tablet-horiz {
+    // margin-top: 0;
     padding: 0 20px;
   }
   @media @mobile {

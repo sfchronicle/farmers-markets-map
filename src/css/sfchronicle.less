@@ -547,6 +547,7 @@ header {
   .small {
     font-family: @bold-graphics;
     font-size: 15px;
+    line-height: 1.3;
   }
   img {
     width: 100%;
@@ -597,6 +598,7 @@ footer {
   }
   .entry {
     padding-bottom: 10px;
+    font-weight: 600;
     &.bold {
       max-width: 660px;
       margin: auto;
@@ -605,12 +607,20 @@ footer {
       padding: 10px;
       padding-top: 20px;
       padding-bottom: 20px;
+      font-weight: 500;
+      a {
+        text-decoration: underline;
+      }
       // color: @dark-gray;
       // background: @light-gray;
       font-family: @bold-graphics;
       @media @mobile {
         font-size: 14px;
       }
+    }
+    .entry-label {
+      font-weight: 500;
+      text-transform: uppercase;
     }
   }
   @media @mobile {
