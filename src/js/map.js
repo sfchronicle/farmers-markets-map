@@ -38,7 +38,7 @@ if (screen.width <= 480) {
 } else {
   var sf_lat = 37.77;
   var sf_long = -122.44;
-  var zoom_deg = 13;
+  var zoom_deg = 12;
 
   var top_of_map_scroll = 0;
 }

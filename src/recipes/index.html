@@ -53,11 +53,13 @@
         <% var ingredientsSummer = ["Blackberries", "Blueberries", "Corn", "Cucumbers", "Eggplant", "Nectarines", "Peaches", "Plums", "Summer Squash", "Tomatoes", "Zucchini"]; %>
         <% var ingredientsFall = ["Apples", "Brussels Sprouts", "Cranberries", "Pears", "Persimmons", "Pomegranates", "Pumpkin", "Winter Squash"]; %>
         <% var ingredientsWinter = ["Beets", "Broccoli", "Cauliflower", "Chard", "Chicories", "Citrus", "Fennel", "Kale", "Mushrooms"]; %>
+        <% var ingredientsAll = ingredientsSpring.concat(ingredientsSummer).concat(ingredientsFall).concat(ingredientsWinter); %>
+        <% ingredientsAll = ingredientsAll.sort(); %>
         <div class="dropdown-container">
           <select id="select-ingredient">
             <option value='allingredients' class="option" selected="selected">All ingredients</option>
-            <% for (var ingredientIDX = 0; ingredientIDX < ingredientsWinter.length; ingredientIDX++){ %>
-              <option value='<%=ingredientsWinter[ingredientIDX].toLowerCase().replace(/ /g,'')%>' class="option"><%=ingredientsWinter[ingredientIDX]%></option>
+            <% for (var ingredientIDX = 0; ingredientIDX < ingredientsAll.length; ingredientIDX++){ %>
+              <option value='<%=ingredientsAll[ingredientIDX].toLowerCase().replace(/ /g,'')%>' class="option"><%=ingredientsAll[ingredientIDX]%></option>
             <% } %>
           </select>
         </div>

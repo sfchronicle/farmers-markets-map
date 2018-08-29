@@ -3697,9 +3697,9 @@
   {
     "Recipe Name": "Smoked Salmon Sandwiches With Finger Lime Aioli",
     "Link to Recipe": "https://www.sfchronicle.com/recipes/article/Recipe-Smoked-Salmon-Sandwiches-With-Finger-Lime-12866495.php",
-    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/article&id=12866495",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=15451771",
     "Tags": "citrus, winter",
-    "PhotoID": 12866495,
+    "PhotoID": 15451771,
     "Photographer": "Sarah Fritsche, The Chronicle",
     "Season": "Winter",
     "Course": "Appetizer",
@@ -3708,9 +3708,9 @@
   {
     "Recipe Name": "Pea Tendril & Nori Pesto With Pea Flowers",
     "Link to Recipe": "https://www.sfchronicle.com/recipes/article/Recipe-Kyle-Connaughton-s-Pea-Tendril-Nori-12848942.php",
-    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=15414124",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=15451771",
     "Tags": "peas, spring",
-    "PhotoID": 15414124,
+    "PhotoID": 15451771,
     "Photographer": "Sarah Fritsche, The Chronicle",
     "Season": "Spring",
     "Course": "Side dish",
@@ -4083,9 +4083,9 @@
   {
     "Recipe Name": "Soba Noodle, Tofu & Summer Vegetable Salad",
     "Link to Recipe": "https://www.sfchronicle.com/recipes/article/Recipe-Soba-Noodle-Tofu-Summer-Vegetable-Salad-11280882.php",
-    "Photo": "http://wcm.hearstnp.com/index.php?_wcmAction=business/article&id=11280882",
+    "Photo": "http://wcm.hearstnp.com/?_wcmAction=business/photo&id=13214869",
     "Tags": "eggplant, summer",
-    "PhotoID": 11280882,
+    "PhotoID": 13214869,
     "Photographer": "Russell Yip, The Chronicle",
     "Season": "summer",
     "Course": "main dish",
@@ -4195,7 +4195,7 @@
     "Season": "summer",
     "Course": "Dessert",
     "Diet": "vegetarian",
-    "SortName": "Revenge Pies' Peach \"Pice Cream\""
+    "SortName": "Revenge Pies' Peach Pice Cream"
   },
   {
     "Recipe Name": "Mixed Grain Porridge With Roasted Stone Fruit",
