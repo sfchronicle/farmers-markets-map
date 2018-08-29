@@ -301,5 +301,20 @@
     "Notes": "Run by PCFMA; 6 stand -- 4 farmers 2 non ag",
     "CQ'd": "YES",
     "FILE ART?": "No"
+  },
+  {
+    "Region": "San Francisco",
+    "Name": "Bayview Farmers Market",
+    "Address": "1605 Jerrold Ave., San Francisco, CA 94124",
+    "Lat": 37.7386693,
+    "Lng": "-122.3897913",
+    "Website": "https://www.bayviewfarmersmarket.org/",
+    "Season": "May-September",
+    "Hours": "Saturday, 9 a.m.-1 p.m.",
+    "Days": "Saturday",
+    "Size": "Small",
+    "Special features": "Fresh produce provided by Eatwell Farm; Other food vendors include Earl's Brittle, Bayview Pasta, Gratta Wines, Yvonne's Southern Sweets and All Good Pizza. ",
+    "CQ'd": "YES",
+    "FILE ART?": "No"
   }
 ]
