@@ -12,12 +12,12 @@
   "map_title": "Ultimate Guide to S.F. Farmers’ Markets",
   "map_description": "Explore the interactive map to find the freshest produce near you — and search recipes for ideas on preparing seasonal meals.",
   "map_twitter": "The Ultimate Guide to S.F. Farmers’ Markets: Find the freshest produce near you and explore recipes.",
-  "map_image": "assets/photos/map.jpg",
+  "map_image": "assets/social/recipes_social_fall.jpg",
 
   "recipes_slug":"recipes/",
   "recipes_seo_title":"Seasonal recipe guide: Preparing meals fresh from the market",
   "recipes_title": "Seasonal recipe guide: Meals fresh from the market",
   "recipes_description": "This interactive guide showcases the best of Bay Area produce. Go to your local farmers' market and get cooking.",
   "recipes_twitter": "Seasonal recipe guide: Ideas for preparing meals fresh from the market and how to find a farmers’ market near you.",
-  "recipes_image": "assets/photos/recipes_social_summer.jpg"
+  "recipes_image": "assets/social/recipes_social_fall.jpg"
 }
